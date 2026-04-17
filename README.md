@@ -26,3 +26,15 @@ python scripts/run_transphone.py
 ```
 
 The script reads `data/kikuyu_wordlist.txt` and writes `data/ipa_approximations.jsonl`.
+
+## Candidate Lexicon Extraction
+
+Generate a review-ready Kikuyu IPA candidate lexicon from approximation outputs:
+
+```bash
+python scripts/extract_lexicon_candidates.py
+```
+
+The script reads `data/ipa_approximations.jsonl` and writes
+`data/lexicon/kikuyu_ipa_review_sheet.csv`.
+Rows where Yoruba/Swahili disagree are marked `needs-analyst-review`.
