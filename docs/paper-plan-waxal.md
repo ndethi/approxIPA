@@ -91,6 +91,7 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 - [x] Tonal pair collection template added.
 - [x] Lexicon candidate extraction workflow added.
 - [x] Tonal source-access determination documented.
+- [x] Gold-standard source strategy decided (literature core + BibleTTS extension).
 - [x] First metric run completed on frozen outputs.
 - [x] TCPR reporting utility added.
 - [ ] Results notebook scaffolded.
