@@ -84,7 +84,7 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 
 ## Execution Status
 - [x] Plan documented in repository.
-- [ ] Pre-registration thresholds finalized.
+- [x] Pre-registration thresholds finalized.
 - [x] TCPR module + tests implemented.
 - [x] Tonal minimal-pair seed dataset added.
 - [x] First metric run completed on frozen outputs.
