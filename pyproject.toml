@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "approxipa"
+version = "0.1.0"
+description = "ApproxIPA research pipeline for IPA approximation experiments"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "transformers",
+  "torch",
+  "torchaudio",
+  "epitran",
+  "transphone",
+  "datasets",
+  "soundfile",
+  "jiwer",
+  "byt5",
+  "sentencepiece",
+  "neo4j",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
