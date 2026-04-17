@@ -88,6 +88,7 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 - [x] TCPR module + tests implemented.
 - [x] Tonal minimal-pair seed dataset added.
 - [x] Tonal minimal-pair validator added.
+- [x] Tonal pair collection template added.
 - [x] First metric run completed on frozen outputs.
 - [x] TCPR reporting utility added.
 - [ ] Results notebook scaffolded.
