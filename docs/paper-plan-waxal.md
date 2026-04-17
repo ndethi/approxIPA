@@ -82,6 +82,13 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 
 ## Near-Term Execution Plan (Next 2 Weeks)
 
+## Execution Status
+- [x] Plan documented in repository.
+- [ ] Pre-registration thresholds finalized.
+- [x] TCPR module + tests implemented.
+- [x] Tonal minimal-pair seed dataset added.
+- [x] First metric run completed on frozen outputs.
+
 ### Week 1
 - Finalize pre-registration thresholds and statistical protocol.
 - Build tonal minimal-pair dataset v1 for Kikuyu.

@@ -1,0 +1,4 @@
+word_a,word_b,tone_a,tone_b,meaning_a,meaning_b,gold_ipa_a,gold_ipa_b
+word1,word2,H,L,placeholder_meaning_a1,placeholder_meaning_b1,wórd,wòrd
+word2,word3,H,L,placeholder_meaning_a2,placeholder_meaning_b2,wórd,wòrd
+word1,word3,H,L,placeholder_meaning_a3,placeholder_meaning_b3,wórd,wòrd
