@@ -3,6 +3,12 @@
 ## Goal
 Use BibleTTS as the near-term operational source for building the Kikuyu tonal minimal-pair gold set when Armstrong/Clements are not legally accessible.
 
+## Upstream Data Reality Check
+- Official BibleTTS data distribution is via OpenSLR SLR129.
+- SLR129 lists aligned packages for Asante Twi, Akuapem Twi, Ewe, Hausa, Lingala, and Yoruba.
+- Kikuyu is listed on the project website statistics page but is not exposed as an aligned package in the SLR129 download list.
+- Therefore, Kikuyu-specific BibleTTS mining depends on obtaining the Kikuyu-aligned subset from maintainers, partner channels, or a later public release.
+
 ## Hugging Face Access Status
 - Hugging Face public datasets do **not** require an API key or token to download.
 - Gated or private datasets do require authentication.
@@ -40,6 +46,8 @@ Recommended additional fields:
 3. Surface candidate tonal contrasts for manual review.
 4. Mark candidate rows as `needs-analyst-review` until verified.
 5. Promote only verified rows into `data/tonal_minimal_pairs.csv`.
+
+If Kikuyu-aligned BibleTTS data is not currently available, keep the mining code path ready and treat this as a pending data-availability dependency.
 
 ## What Counts as a Candidate
 - Same orthographic/segmental form across occurrences.

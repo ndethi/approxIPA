@@ -11,14 +11,14 @@ This document records which sources are currently usable to build `data/tonal_mi
 | --- | --- | --- | --- |
 | Armstrong (1967) (cited in design doc) | Not present in workspace and not legally assumed accessible without purchase/library copy | No | High-quality target source; treat as future augmentation rather than blocking dependency. |
 | Clements & Ford (1981) (cited in design doc) | Not present in workspace and not legally assumed accessible without purchase/library copy | No | Same constraint as Armstrong for now. |
-| BibleTTS mined candidates (design doc Source C) | Not present as aligned outputs in repo; Hugging Face publication unconfirmed for Kikuyu | Yes, once alignment/mining artifacts are generated | This is the operational fallback source and the feasible near-term path. |
+| BibleTTS mined candidates (design doc Source C) | Not present as aligned outputs in repo; official OpenSLR SLR129 currently does not expose Kikuyu aligned package in public list | Feasible only after Kikuyu aligned data is obtained | Remains fallback strategy, but now explicitly data-availability-gated. |
 | Current approximation outputs (`data/ipa_approximations.jsonl`) | Present | Partial (bootstrap only) | Useful for candidate generation/review workflow, not gold tonal pair truth. |
 | Native-speaker / analyst verification | Awaiting analyst input | Not yet | Required to turn candidates into `status=primary` pairs. |
 
 ## Practical Determination
-Right now we can do a **BibleTTS-backed candidate workflow** from existing approximation outputs and the planned alignment/mining pipeline. We do not need Armstrong/Clements to start the workflow, but they remain a useful later augmentation if lawful access appears.
+Right now we can keep a **BibleTTS-backed workflow scaffold** from existing approximation outputs and mining scripts, but full Kikuyu BibleTTS mining is blocked until a Kikuyu aligned subset is obtained.
 
-For Hugging Face access, the rule is: **public dataset = no API key required; gated/private dataset = token required**. The exact Kikuyu BibleTTS repository ID still needs confirmation.
+For Hugging Face access, the rule is: **public dataset = no API key required; gated/private dataset = token required**. The exact Kikuyu BibleTTS repository ID is still unconfirmed, and OpenSLR is currently the authoritative source.
 
 ## Immediate Build Path (Doable Now)
 1. Keep `data/tonal_minimal_pairs.csv` as seed/smoke-test data.
