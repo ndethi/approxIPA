@@ -12,11 +12,14 @@ This document records which sources are currently usable to build `data/tonal_mi
 | Armstrong (1967) (cited in design doc) | Not present in workspace and not legally assumed accessible without purchase/library copy | No | High-quality target source; treat as future augmentation rather than blocking dependency. |
 | Clements & Ford (1981) (cited in design doc) | Not present in workspace and not legally assumed accessible without purchase/library copy | No | Same constraint as Armstrong for now. |
 | BibleTTS mined candidates (design doc Source C) | Not present as aligned outputs in repo; official OpenSLR SLR129 currently does not expose Kikuyu aligned package in public list | Feasible only after Kikuyu aligned data is obtained | Remains fallback strategy, but now explicitly data-availability-gated. |
+| WAXAL Kikuyu (fallback) | Mentioned in project plan; operational subset availability depends on local ingestion | Feasible with strict split isolation | Must use non-circular protocol: separate construction and evaluation splits with no overlap. |
 | Current approximation outputs (`data/ipa_approximations.jsonl`) | Present | Partial (bootstrap only) | Useful for candidate generation/review workflow, not gold tonal pair truth. |
 | Native-speaker / analyst verification | Awaiting analyst input | Not yet | Required to turn candidates into `status=primary` pairs. |
 
 ## Practical Determination
 Right now we can keep a **BibleTTS-backed workflow scaffold** from existing approximation outputs and mining scripts, but full Kikuyu BibleTTS mining is blocked until a Kikuyu aligned subset is obtained.
+
+If BibleTTS Kikuyu remains unavailable, WAXAL can be used as fallback only under a non-circular split protocol (see `docs/waxal-non-circular-fallback.md`).
 
 For Hugging Face access, the rule is: **public dataset = no API key required; gated/private dataset = token required**. The exact Kikuyu BibleTTS repository ID is still unconfirmed, and OpenSLR is currently the authoritative source.
 
@@ -29,6 +32,11 @@ For Hugging Face access, the rule is: **public dataset = no API key required; ga
    - `python evaluation/validate_tonal_minimal_pairs.py data/tonal_minimal_pairs.csv`
    - `python -m evaluation.run_tcpr`
    - `python -m evaluation.tcpr_report`
+
+Fallback branch when BibleTTS Kikuyu is unavailable:
+6. Define immutable WAXAL construction/evaluation splits.
+7. Mine and verify pairs from construction split only.
+8. Evaluate only on held-out evaluation split.
 
 ## What To Request From Analyst
 - CSV/TSV with at least columns:

@@ -96,6 +96,7 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 - [x] BibleTTS fallback workflow documented.
 - [x] BibleTTS mining workflow scaffolded.
 - [x] BibleTTS Hugging Face access status documented.
+- [x] WAXAL non-circular fallback protocol documented.
 - [x] First metric run completed on frozen outputs.
 - [x] TCPR reporting utility added.
 - [ ] Results notebook scaffolded.

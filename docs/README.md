@@ -13,5 +13,6 @@ This directory holds the reference materials for approxIPA.
 - [bibletts-operational-plan.md](bibletts-operational-plan.md)
 - [bibletts-hf-access-status.md](bibletts-hf-access-status.md)
 - [bibletts-source-verification.md](bibletts-source-verification.md)
+- [waxal-non-circular-fallback.md](waxal-non-circular-fallback.md)
 
 The OPIT proposal is intentionally not included here because it belongs to a different project.
