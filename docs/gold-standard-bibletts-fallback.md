@@ -3,6 +3,13 @@
 ## Why this exists
 Armstrong (1967) and Clements & Ford (1981) remain the preferred literature sources, but they are not the operational dependency when lawful access is not currently available. BibleTTS becomes the feasible fallback path for building the gold-standard tonal pair set now.
 
+## Hugging Face Access Status
+- Public Hugging Face datasets do not require an API key for download.
+- Gated or private datasets do require a token.
+- In this workspace, a Kikuyu BibleTTS dataset was not confirmed in Hugging Face search results, so the dataset should be treated as **unconfirmed until the exact repo ID is known**.
+- If the BibleTTS Kikuyu dataset is published openly, the workflow can proceed without an API key.
+- If it is gated/private, a Hugging Face token will be required.
+
 ## Workflow
 1. Obtain or generate BibleTTS Kikuyu alignment artifacts.
 2. Mine candidate lexical items that recur with stable segmental form.

@@ -3,6 +3,13 @@
 ## Goal
 Use BibleTTS as the near-term operational source for building the Kikuyu tonal minimal-pair gold set when Armstrong/Clements are not legally accessible.
 
+## Hugging Face Access Status
+- Hugging Face public datasets do **not** require an API key or token to download.
+- Gated or private datasets do require authentication.
+- Current search in the repository workflow did **not** confirm a publicly listed Kikuyu BibleTTS dataset on Hugging Face.
+- If a BibleTTS Kikuyu dataset is published openly, the workflow can proceed without an API key.
+- If the dataset is gated or private, access will require a Hugging Face token or the maintainer to grant access.
+
 ## Required Inputs
 - BibleTTS Kikuyu aligned transcript export
 - Sentence/audio identifiers
@@ -48,6 +55,9 @@ Recommended additional fields:
 - `data/bibletts/aligned/` for raw aligned exports, once available.
 - `data/bibletts/candidate_pairs.csv` for review candidates.
 - `data/tonal_minimal_pairs.csv` for the verified gold set.
+
+## Access Note
+Do not block the workflow on an API key unless the dataset page is explicitly gated or private. For a public dataset, `huggingface_hub` download helpers can fetch data without a token.
 
 ## Relationship to Armstrong/Clements
 BibleTTS is the operational fallback. Armstrong/Clements remain the preferred literature augmentation path if lawful access is later obtained.
