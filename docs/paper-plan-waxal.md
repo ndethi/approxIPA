@@ -94,6 +94,7 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 - [x] Gold-standard source strategy decided (literature core + BibleTTS extension).
 - [x] Gold-standard operational plan documented.
 - [x] BibleTTS fallback workflow documented.
+- [x] BibleTTS mining workflow scaffolded.
 - [x] First metric run completed on frozen outputs.
 - [x] TCPR reporting utility added.
 - [ ] Results notebook scaffolded.

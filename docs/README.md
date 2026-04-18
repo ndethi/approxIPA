@@ -10,5 +10,6 @@ This directory holds the reference materials for approxIPA.
 - [gold-standard-source-decision.md](gold-standard-source-decision.md)
 - [gold-standard-operational-plan.md](gold-standard-operational-plan.md)
 - [gold-standard-bibletts-fallback.md](gold-standard-bibletts-fallback.md)
+- [bibletts-operational-plan.md](bibletts-operational-plan.md)
 
 The OPIT proposal is intentionally not included here because it belongs to a different project.
