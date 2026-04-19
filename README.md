@@ -53,3 +53,12 @@ This creates:
 - `data/waxal/access_report.json`
 
 Add `--download` to fetch parquet shards into `data/waxal/{split}/`.
+
+Build first-pass lexical candidates from local Kikuyu parquet files:
+
+```bash
+python scripts/extract_waxal_candidates.py --data-dir data/waxal --splits train,validation,test --min-occurrences 3
+```
+
+This writes `data/waxal/kikuyu_candidate_words.csv`.
+The CSV keeps full occurrence counts but stores compact utterance/speaker samples for review.

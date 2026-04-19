@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+data/waxal/train/
+data/waxal/validation/
+data/waxal/test/
+data/waxal/kikuyu_candidate_words.csv

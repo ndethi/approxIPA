@@ -1,8 +1,12 @@
 {
   "config": "kik_tts",
   "dataset_id": "google/WaxalNLP",
-  "downloaded_file_count": 0,
-  "downloaded_paths": [],
+  "downloaded_file_count": 3,
+  "downloaded_paths": [
+    "/Users/ndethi/dev/ir/approxIPA/data/waxal/train/0.parquet",
+    "/Users/ndethi/dev/ir/approxIPA/data/waxal/validation/0.parquet",
+    "/Users/ndethi/dev/ir/approxIPA/data/waxal/test/0.parquet"
+  ],
   "splits": {
     "test": 1,
     "train": 1,
