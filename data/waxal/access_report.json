@@ -1,0 +1,11 @@
+{
+  "config": "kik_tts",
+  "dataset_id": "google/WaxalNLP",
+  "downloaded_file_count": 0,
+  "downloaded_paths": [],
+  "splits": {
+    "test": 1,
+    "train": 1,
+    "validation": 1
+  }
+}

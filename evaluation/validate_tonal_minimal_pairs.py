@@ -45,6 +45,7 @@ def validate_row(row: dict[str, str], row_number: int) -> list[ValidationIssue]:
         "meaning_b",
         "gold_ipa_a",
         "gold_ipa_b",
+        "source",
     ]
 
     for field in required_fields:
@@ -69,6 +70,17 @@ def validate_row(row: dict[str, str], row_number: int) -> list[ValidationIssue]:
 
     if extract_tone_marks(ipa_a) == extract_tone_marks(ipa_b):
         issues.append(ValidationIssue(row_number, "gold IPA tone marks do not differ"))
+
+    source = row.get("source", "").strip().lower()
+    source_split = row.get("source_split", "").strip().lower()
+    if source == "waxal":
+        if source_split not in {"construction", "evaluation"}:
+            issues.append(
+                ValidationIssue(
+                    row_number,
+                    "WAXAL rows must set source_split to construction or evaluation",
+                )
+            )
 
     return issues
 

@@ -1,0 +1,11 @@
+{
+  "test": [
+    "https://huggingface.co/api/datasets/google/WaxalNLP/parquet/kik_tts/test/0.parquet"
+  ],
+  "train": [
+    "https://huggingface.co/api/datasets/google/WaxalNLP/parquet/kik_tts/train/0.parquet"
+  ],
+  "validation": [
+    "https://huggingface.co/api/datasets/google/WaxalNLP/parquet/kik_tts/validation/0.parquet"
+  ]
+}

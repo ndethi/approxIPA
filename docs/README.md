@@ -15,4 +15,8 @@ This directory holds the reference materials for approxIPA.
 - [bibletts-source-verification.md](bibletts-source-verification.md)
 - [waxal-non-circular-fallback.md](waxal-non-circular-fallback.md)
 
+Operational scripts related to these docs:
+- `scripts/check_waxal_access_and_split.py`
+- `scripts/ingest_waxal_hf.py`
+
 The OPIT proposal is intentionally not included here because it belongs to a different project.

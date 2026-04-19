@@ -18,6 +18,8 @@ def test_validate_row_accepts_well_formed_pair() -> None:
         "meaning_b": "meaning b",
         "gold_ipa_a": "wo\u0301rd",
         "gold_ipa_b": "wo\u0300rd",
+        "source": "bibletts",
+        "source_split": "",
     }
 
     assert validate_row(row, 2) == []
@@ -34,6 +36,8 @@ def test_validate_row_flags_same_tone_and_segmental_mismatch() -> None:
         "meaning_b": "meaning b",
         "gold_ipa_a": "wo\u0301rd",
         "gold_ipa_b": "ward",
+        "source": "waxal",
+        "source_split": "",
     }
 
     issues = validate_row(row, 3)
@@ -41,15 +45,16 @@ def test_validate_row_flags_same_tone_and_segmental_mismatch() -> None:
     assert any("word_a and word_b must differ" in issue.message for issue in issues)
     assert any("tone_a and tone_b must differ" in issue.message for issue in issues)
     assert any("segmental base differs" in issue.message for issue in issues)
+    assert any("WAXAL rows must set source_split" in issue.message for issue in issues)
 
 
 def test_validate_file_accepts_seed_dataset(tmp_path: Path) -> None:
     """The current seed dataset should remain structurally valid."""
     csv_path = tmp_path / "tonal_minimal_pairs.csv"
     csv_path.write_text(
-        "word_a,word_b,tone_a,tone_b,meaning_a,meaning_b,gold_ipa_a,gold_ipa_b\n"
-        "word1,word2,H,L,meaning a,meaning b,wórd,wòrd\n"
-        "word2,word3,H,L,meaning c,meaning d,wórd,wòrd\n",
+        "word_a,word_b,tone_a,tone_b,meaning_a,meaning_b,gold_ipa_a,gold_ipa_b,source,source_split\n"
+        "word1,word2,H,L,meaning a,meaning b,wórd,wòrd,bibletts,\n"
+        "word2,word3,H,L,meaning c,meaning d,wórd,wòrd,waxal,construction\n",
         encoding="utf-8",
     )
 

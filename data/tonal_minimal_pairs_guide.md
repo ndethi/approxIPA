@@ -11,13 +11,26 @@ Use this guide to replace the placeholder seed pairs with real Kikuyu tonal mini
 - `meaning_b`: gloss or short English meaning for `word_b`
 - `gold_ipa_a`: manually verified IPA for `word_a`
 - `gold_ipa_b`: manually verified IPA for `word_b`
+- `source`: provenance label such as `waxal`, `bibletts`, `armstrong1967`
+- `source_id`: source-local stable ID (utterance id, page-line id, or record id)
+- `source_split`: required for WAXAL rows; set to `construction` or `evaluation`
+
+## Recommended Columns
+- `status`: lifecycle value such as `seed`, `candidate`, `primary`, `disputed`
+- `notes`: free-text provenance and reviewer notes
 
 ## Collection Rules
 - The two words should differ only in tone for the first version of the dataset.
 - Keep segmental material identical unless a pair is intentionally annotated as a harder case.
 - Prefer minimal pairs with clear lexical contrast.
-- Record the source of each pair in a separate notes file or annotation log if available.
+- For WAXAL rows, assign immutable split labels before mining and never mix splits during evaluation.
 - Validate the file with `python evaluation/validate_tonal_minimal_pairs.py data/tonal_minimal_pairs.csv` after each update.
+
+## WAXAL Split Workflow
+- Run `python scripts/ingest_waxal_hf.py --dataset-id google/WaxalNLP --config kik_tts --splits train,validation,test` to populate `data/waxal/` metadata from Hugging Face.
+- Run `python scripts/check_waxal_access_and_split.py --pairs data/tonal_minimal_pairs.csv` to check local WAXAL access and assign deterministic split labels.
+- Keep `source_split=construction` rows for mining and analyst review only.
+- Keep `source_split=evaluation` rows held out for final metrics only.
 
 ## Current Status
 - `data/tonal_minimal_pairs.csv` is still a seed/smoke-test file.

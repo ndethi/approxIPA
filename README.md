@@ -38,3 +38,18 @@ python scripts/extract_lexicon_candidates.py
 The script reads `data/ipa_approximations.jsonl` and writes
 `data/lexicon/kikuyu_ipa_review_sheet.csv`.
 Rows where Yoruba/Swahili disagree are marked `needs-analyst-review`.
+
+## WAXAL Ingestion
+
+Populate WAXAL metadata for Kikuyu from Hugging Face:
+
+```bash
+python scripts/ingest_waxal_hf.py --dataset-id google/WaxalNLP --config kik_tts --splits train,validation,test
+```
+
+This creates:
+- `data/waxal/parquet_manifest.json`
+- `data/waxal/kik_tts_selected_urls.json`
+- `data/waxal/access_report.json`
+
+Add `--download` to fetch parquet shards into `data/waxal/{split}/`.
