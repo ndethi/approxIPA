@@ -2,10 +2,16 @@
 
 This directory holds the reference materials for approxIPA.
 
+## Design & Planning Documents
+
 - [approxIPA-research-proposal.docx](approxIPA-research-proposal.docx)
 - [approxIPA-implementation-guide.docx](approxIPA-implementation-guide.docx)
 - [paper-plan-waxal.md](paper-plan-waxal.md)
-- [tonal-minimal-pairs-design.md](tonal-minimal-pairs-design.md)
+- [tonal-minimal-pairs-design.md](tonal-minimal-pairs-design.md) — Tonal pair dataset design conventions and rationale
+
+## Operational & Workflow Guides
+
+- [**waxal-candidate-annotation-workflow.md**](waxal-candidate-annotation-workflow.md) — **START HERE** for analyst annotation of WAXAL candidate pairs
 - [tonal-pair-source-access.md](tonal-pair-source-access.md)
 - [gold-standard-source-decision.md](gold-standard-source-decision.md)
 - [gold-standard-operational-plan.md](gold-standard-operational-plan.md)
@@ -15,8 +21,11 @@ This directory holds the reference materials for approxIPA.
 - [bibletts-source-verification.md](bibletts-source-verification.md)
 - [waxal-non-circular-fallback.md](waxal-non-circular-fallback.md)
 
-Operational scripts related to these docs:
+## Operational Scripts Related to These Docs
+
 - `scripts/check_waxal_access_and_split.py`
 - `scripts/ingest_waxal_hf.py`
 
-The OPIT proposal is intentionally not included here because it belongs to a different project.
+---
+
+**Note:** The OPIT proposal is intentionally not included here because it belongs to a different project.

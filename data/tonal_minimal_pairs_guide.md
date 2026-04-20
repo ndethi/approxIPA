@@ -36,8 +36,22 @@ Use this guide to replace the placeholder seed pairs with real Kikuyu tonal mini
 - Keep `source_split=evaluation` rows held out for final metrics only.
 
 ## Current Status
-- `data/tonal_minimal_pairs.csv` is still a seed/smoke-test file.
-- `data/tonal_minimal_pairs.template.csv` is the blank template for curated replacement data.
+- `data/tonal_minimal_pairs.csv` now contains 3 seed pairs + 100 WAXAL-sourced candidate pairs (status=candidate, awaiting analyst annotation).
+- Candidates have word forms and provenance populated; tones and IPA marked as empty.
+- `data/tonal_minimal_pairs.template.csv` is the blank template for future replacement iterations.
+
+## Analyst Annotation Workflow (CURRENT STEP)
+
+**For annotators:** See [docs/waxal-candidate-annotation-workflow.md](../docs/waxal-candidate-annotation-workflow.md) for step-by-step instructions to annotate the 100 candidate rows.
+
+The workflow guide includes:
+- Understanding candidate vs. seed rows
+- Using seed rows as reference examples
+- Step-by-step tone and IPA annotation
+- Validation and quality assurance
+- Troubleshooting common issues
 
 ## Next Action
-Replace the placeholder rows in `data/tonal_minimal_pairs.csv` with curated Kikuyu examples and gold IPA from speaker-verified sources.
+Analysts should annotate the 100 candidate rows (rows 5-104) with tone and IPA values per [docs/waxal-candidate-annotation-workflow.md](../docs/waxal-candidate-annotation-workflow.md).
+
+Once annotated and validated, approved rows will be promoted from `status=candidate` to `status=evaluable` for TCPR metric evaluation.

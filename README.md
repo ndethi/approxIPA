@@ -78,3 +78,19 @@ python scripts/bridge_waxal_pairs_to_tonal_csv.py --candidate-csv data/waxal/kik
 ```
 
 These imported rows are marked `status=candidate` and must be manually annotated for tones and gold IPA before TCPR evaluation.
+
+## Analyst Annotation Workflow
+
+Once candidate pairs are in `data/tonal_minimal_pairs.csv`, analysts must annotate tone and IPA values:
+
+**See [docs/waxal-candidate-annotation-workflow.md](docs/waxal-candidate-annotation-workflow.md) for detailed instructions.**
+
+**Quick summary:**
+1. Open `data/tonal_minimal_pairs.csv` (rows 5-104 are the 100 candidate rows)
+2. Use the 3 seed rows at the top as reference examples
+3. For each candidate, determine `tone_a` and `tone_b` (H or L) from orthographic diacritics
+4. Construct `gold_ipa_a` and `gold_ipa_b` using Kikuyu segmental phonology and tonal marking conventions
+5. Validate with: `python -m evaluation.validate_tonal_minimal_pairs data/tonal_minimal_pairs.csv`
+6. Submit completed CSV for TCPR metric evaluation
+
+Estimated time: 1-2 hours for an analyst with Kikuyu phonological knowledge.
