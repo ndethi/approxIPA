@@ -36,17 +36,19 @@ def validate_row(row: dict[str, str], row_number: int) -> list[ValidationIssue]:
     """Validate one tonal minimal-pair row."""
     issues: list[ValidationIssue] = []
 
+    status = row.get("status", "").strip().lower()
+    is_candidate = status == "candidate"
+
     required_fields = [
         "word_a",
         "word_b",
-        "tone_a",
-        "tone_b",
-        "meaning_a",
-        "meaning_b",
-        "gold_ipa_a",
-        "gold_ipa_b",
         "source",
     ]
+
+    if not is_candidate:
+        required_fields.extend(["tone_a", "tone_b", "meaning_a", "meaning_b", "gold_ipa_a", "gold_ipa_b"])
+    else:
+        required_fields.extend(["source_id", "source_split"])
 
     for field in required_fields:
         if not row.get(field, "").strip():
@@ -55,21 +57,22 @@ def validate_row(row: dict[str, str], row_number: int) -> list[ValidationIssue]:
     if row.get("word_a", "").strip() == row.get("word_b", "").strip():
         issues.append(ValidationIssue(row_number, "word_a and word_b must differ"))
 
-    tone_a = row.get("tone_a", "").strip()
-    tone_b = row.get("tone_b", "").strip()
-    if tone_a == tone_b:
-        issues.append(ValidationIssue(row_number, "tone_a and tone_b must differ"))
+    if not is_candidate:
+        tone_a = row.get("tone_a", "").strip()
+        tone_b = row.get("tone_b", "").strip()
+        if tone_a == tone_b:
+            issues.append(ValidationIssue(row_number, "tone_a and tone_b must differ"))
 
-    ipa_a = row.get("gold_ipa_a", "").strip()
-    ipa_b = row.get("gold_ipa_b", "").strip()
-    if not ipa_a or not ipa_b:
-        return issues
+        ipa_a = row.get("gold_ipa_a", "").strip()
+        ipa_b = row.get("gold_ipa_b", "").strip()
+        if not ipa_a or not ipa_b:
+            return issues
 
-    if strip_tone_marks(ipa_a) != strip_tone_marks(ipa_b):
-        issues.append(ValidationIssue(row_number, "segmental base differs after removing tone marks"))
+        if strip_tone_marks(ipa_a) != strip_tone_marks(ipa_b):
+            issues.append(ValidationIssue(row_number, "segmental base differs after removing tone marks"))
 
-    if extract_tone_marks(ipa_a) == extract_tone_marks(ipa_b):
-        issues.append(ValidationIssue(row_number, "gold IPA tone marks do not differ"))
+        if extract_tone_marks(ipa_a) == extract_tone_marks(ipa_b):
+            issues.append(ValidationIssue(row_number, "gold IPA tone marks do not differ"))
 
     source = row.get("source", "").strip().lower()
     source_split = row.get("source_split", "").strip().lower()

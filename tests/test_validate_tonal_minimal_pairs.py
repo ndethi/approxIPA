@@ -59,3 +59,23 @@ def test_validate_file_accepts_seed_dataset(tmp_path: Path) -> None:
     )
 
     assert validate_file(csv_path) == []
+
+
+def test_validate_row_accepts_candidate_with_provenance_only() -> None:
+    """Candidate rows may omit tone/IPA while awaiting analyst annotation."""
+    row = {
+        "word_a": "mũndũ",
+        "word_b": "mundu",
+        "tone_a": "",
+        "tone_b": "",
+        "meaning_a": "",
+        "meaning_b": "",
+        "gold_ipa_a": "",
+        "gold_ipa_b": "",
+        "source": "waxal",
+        "source_id": "waxal:mundu:mundu:mũndũ",
+        "source_split": "construction",
+        "status": "candidate",
+    }
+
+    assert validate_row(row, 4) == []

@@ -13,6 +13,7 @@ import pyarrow.parquet as pq
 
 
 WORD_PATTERN = re.compile(r"[a-zA-Z\u00C0-\u024F\u1E00-\u1EFF']+")
+URL_PATTERN = re.compile(r"https?://\S+|www\.\S+", flags=re.IGNORECASE)
 MAX_LISTED_UTTERANCE_IDS = 30
 MAX_LISTED_SPEAKER_IDS = 10
 MAX_SAMPLE_TEXT_CHARS = 180
@@ -39,12 +40,26 @@ def _normalize_word(token: str) -> str:
     return value.strip("'")
 
 
+def load_stopwords(path: Path | None) -> set[str]:
+    """Load newline-delimited stopwords if a file exists."""
+    if path is None or not path.exists():
+        return set()
+
+    values: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        token = _normalize_word(line)
+        if token and not token.startswith("#"):
+            values.add(token)
+    return values
+
+
 def tokenize_words(text: str) -> list[str]:
     """Tokenize text into normalized lexical tokens."""
+    clean_text = URL_PATTERN.sub(" ", text or "")
     tokens: list[str] = []
-    for match in WORD_PATTERN.findall(text or ""):
+    for match in WORD_PATTERN.findall(clean_text):
         token = _normalize_word(match)
-        if len(token) >= 3:
+        if len(token) >= 3 and not token.startswith(("http", "www")):
             tokens.append(token)
     return tokens
 
@@ -85,15 +100,32 @@ def load_waxal_rows(data_dir: Path, splits: list[str]) -> list[dict[str, str]]:
     return rows
 
 
-def mine_word_candidates(rows: list[dict[str, str]], min_occurrences: int = 3) -> list[WaxalWordCandidate]:
+def mine_word_candidates(
+    rows: list[dict[str, str]],
+    min_occurrences: int = 3,
+    stopwords: set[str] | None = None,
+    max_utterance_ratio: float = 0.2,
+) -> list[WaxalWordCandidate]:
     """Mine repeated words from WAXAL rows for analyst review."""
+    if not 0.0 < max_utterance_ratio <= 1.0:
+        raise ValueError("max_utterance_ratio must be in (0, 1]")
+
+    stopword_set = stopwords or set()
     grouped: dict[str, list[dict[str, str]]] = defaultdict(list)
+    kik_utterance_ids: set[str] = set()
     for row in rows:
         if row.get("locale") != "kik":
             continue
+        utterance_id = row.get("id", "")
+        if utterance_id:
+            kik_utterance_ids.add(utterance_id)
         utterance_tokens = tokenize_words(row.get("text", ""))
         for token in utterance_tokens:
+            if token in stopword_set:
+                continue
             grouped[token].append(row)
+
+    total_kik_utterances = max(1, len(kik_utterance_ids))
 
     candidates: list[WaxalWordCandidate] = []
     for word, items in grouped.items():
@@ -101,6 +133,10 @@ def mine_word_candidates(rows: list[dict[str, str]], min_occurrences: int = 3) -
             continue
 
         utterance_ids = tuple(sorted({item.get("id", "") for item in items if item.get("id", "")}))
+        utterance_ratio = len(utterance_ids) / total_kik_utterances
+        if utterance_ratio > max_utterance_ratio:
+            continue
+
         speaker_ids = tuple(sorted({item.get("speaker_id", "") for item in items if item.get("speaker_id", "")}))
 
         split_counter: dict[str, int] = defaultdict(int)

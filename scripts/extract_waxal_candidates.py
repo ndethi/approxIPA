@@ -15,6 +15,7 @@ if str(SRC_DIR) not in sys.path:
 
 from approxipa.waxal_candidate_extraction import (  # noqa: E402
     load_waxal_rows,
+    load_stopwords,
     mine_word_candidates,
     write_candidates_csv,
 )
@@ -46,14 +47,33 @@ def main(argv: list[str] | None = None) -> int:
         default=PROJECT_ROOT / "data" / "waxal" / "kikuyu_candidate_words.csv",
         help="Output CSV for candidate words",
     )
+    parser.add_argument(
+        "--stopwords-file",
+        type=Path,
+        default=PROJECT_ROOT / "data" / "waxal" / "kikuyu_stopwords.txt",
+        help="Optional newline-delimited stopword file",
+    )
+    parser.add_argument(
+        "--max-utterance-ratio",
+        type=float,
+        default=0.2,
+        help="Filter words that appear in more than this share of Kikuyu utterances",
+    )
     args = parser.parse_args(argv)
 
     splits = [split.strip() for split in args.splits.split(",") if split.strip()]
     rows = load_waxal_rows(args.data_dir, splits=splits)
-    candidates = mine_word_candidates(rows, min_occurrences=args.min_occurrences)
+    stopwords = load_stopwords(args.stopwords_file)
+    candidates = mine_word_candidates(
+        rows,
+        min_occurrences=args.min_occurrences,
+        stopwords=stopwords,
+        max_utterance_ratio=args.max_utterance_ratio,
+    )
     write_candidates_csv(args.output, candidates)
 
     print(f"[INFO] Loaded {len(rows)} WAXAL rows from {args.data_dir}")
+    print(f"[INFO] Loaded {len(stopwords)} stopwords from {args.stopwords_file}")
     print(f"[INFO] Mined {len(candidates)} lexical candidates with min_occurrences={args.min_occurrences}")
     print(f"[INFO] Candidate CSV written to {args.output}")
     return 0

@@ -28,6 +28,9 @@ Use this guide to replace the placeholder seed pairs with real Kikuyu tonal mini
 
 ## WAXAL Split Workflow
 - Run `python scripts/ingest_waxal_hf.py --dataset-id google/WaxalNLP --config kik_tts --splits train,validation,test` to populate `data/waxal/` metadata from Hugging Face.
+- Run `python scripts/extract_waxal_candidates.py --data-dir data/waxal --splits train,validation,test --min-occurrences 3 --stopwords-file data/waxal/kikuyu_stopwords.txt --max-utterance-ratio 0.2` for filtered lexical candidates.
+- Run `python scripts/build_waxal_pair_candidates.py --data-dir data/waxal --splits train,validation,test --stopwords-file data/waxal/kikuyu_stopwords.txt --min-variant-occurrences 3` to build reviewable pair candidates.
+- Run `python scripts/bridge_waxal_pairs_to_tonal_csv.py --candidate-csv data/waxal/kikuyu_pair_candidates.csv --pairs-csv data/tonal_minimal_pairs.csv --max-new 100 --require-construction` to import construction-only candidate rows into the tonal CSV.
 - Run `python scripts/check_waxal_access_and_split.py --pairs data/tonal_minimal_pairs.csv` to check local WAXAL access and assign deterministic split labels.
 - Keep `source_split=construction` rows for mining and analyst review only.
 - Keep `source_split=evaluation` rows held out for final metrics only.

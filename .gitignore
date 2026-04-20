@@ -9,3 +9,4 @@ data/waxal/train/
 data/waxal/validation/
 data/waxal/test/
 data/waxal/kikuyu_candidate_words.csv
+data/waxal/kikuyu_pair_candidates.csv

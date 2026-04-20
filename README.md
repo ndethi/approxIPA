@@ -57,8 +57,24 @@ Add `--download` to fetch parquet shards into `data/waxal/{split}/`.
 Build first-pass lexical candidates from local Kikuyu parquet files:
 
 ```bash
-python scripts/extract_waxal_candidates.py --data-dir data/waxal --splits train,validation,test --min-occurrences 3
+python scripts/extract_waxal_candidates.py --data-dir data/waxal --splits train,validation,test --min-occurrences 3 --stopwords-file data/waxal/kikuyu_stopwords.txt --max-utterance-ratio 0.2
 ```
 
 This writes `data/waxal/kikuyu_candidate_words.csv`.
 The CSV keeps full occurrence counts but stores compact utterance/speaker samples for review.
+
+Build tonal-variant pair candidates for analyst review:
+
+```bash
+python scripts/build_waxal_pair_candidates.py --data-dir data/waxal --splits train,validation,test --stopwords-file data/waxal/kikuyu_stopwords.txt --min-variant-occurrences 3
+```
+
+This writes `data/waxal/kikuyu_pair_candidates.csv` with deterministic `source_split` assignments.
+
+Bridge construction-safe pair candidates into `data/tonal_minimal_pairs.csv`:
+
+```bash
+python scripts/bridge_waxal_pairs_to_tonal_csv.py --candidate-csv data/waxal/kikuyu_pair_candidates.csv --pairs-csv data/tonal_minimal_pairs.csv --max-new 100 --require-construction
+```
+
+These imported rows are marked `status=candidate` and must be manually annotated for tones and gold IPA before TCPR evaluation.

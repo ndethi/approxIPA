@@ -1,0 +1,18 @@
+# High-frequency function words for first-pass candidate filtering.
+# Keep this list conservative; analysts can refine over time.
+cia
+gĩa
+gũkĩa
+kana
+kĩrĩ
+kũrĩ
+kwa
+ma
+mũno
+na
+ni
+nĩ
+ria
+rĩa
+wa
+ya
