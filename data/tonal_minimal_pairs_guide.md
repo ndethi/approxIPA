@@ -54,4 +54,8 @@ The workflow guide includes:
 ## Next Action
 Analysts should annotate the 100 candidate rows (rows 5-104) with tone and IPA values per [docs/waxal-candidate-annotation-workflow.md](../docs/waxal-candidate-annotation-workflow.md).
 
-Once annotated and validated, approved rows will be promoted from `status=candidate` to `status=evaluable` for TCPR metric evaluation.
+Once annotated and validated, promote approved rows with:
+
+`python scripts/promote_tonal_candidates.py --pairs-csv data/tonal_minimal_pairs.csv`
+
+This command promotes only complete candidate rows from `status=candidate` to `status=evaluable` and leaves incomplete rows as candidates.

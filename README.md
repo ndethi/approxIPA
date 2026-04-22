@@ -91,6 +91,7 @@ Once candidate pairs are in `data/tonal_minimal_pairs.csv`, analysts must annota
 3. For each candidate, determine `tone_a` and `tone_b` (H or L) from orthographic diacritics
 4. Construct `gold_ipa_a` and `gold_ipa_b` using Kikuyu segmental phonology and tonal marking conventions
 5. Validate with: `python -m evaluation.validate_tonal_minimal_pairs data/tonal_minimal_pairs.csv`
-6. Submit completed CSV for TCPR metric evaluation
+6. Promote complete candidates with: `python scripts/promote_tonal_candidates.py --pairs-csv data/tonal_minimal_pairs.csv`
+7. Submit completed CSV for TCPR metric evaluation
 
 Estimated time: 1-2 hours for an analyst with Kikuyu phonological knowledge.

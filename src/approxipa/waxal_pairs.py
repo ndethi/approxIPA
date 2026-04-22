@@ -24,6 +24,19 @@ PAIR_FIELDNAMES = [
 ]
 
 
+PROMOTION_REQUIRED_FIELDS = [
+    "word_a",
+    "word_b",
+    "tone_a",
+    "tone_b",
+    "meaning_a",
+    "meaning_b",
+    "gold_ipa_a",
+    "gold_ipa_b",
+    "source",
+]
+
+
 def normalize_source(source: str) -> str:
     """Normalize a source label for comparisons."""
     return source.strip().lower()
@@ -110,3 +123,51 @@ def write_pairs(path: Path, rows: list[dict[str, str]], fieldnames: list[str]) -
         writer.writeheader()
         for row in rows:
             writer.writerow({fieldname: row.get(fieldname, "") for fieldname in fieldnames})
+
+
+def promote_candidate_rows(
+    rows: list[dict[str, str]],
+    *,
+    source_filter: str | None = "waxal",
+    target_status: str = "evaluable",
+) -> tuple[list[dict[str, str]], int, int]:
+    """Promote complete candidate rows to target status.
+
+    Returns a tuple of (updated_rows, promoted_count, skipped_incomplete_count).
+    """
+    promoted = 0
+    skipped_incomplete = 0
+    output_rows: list[dict[str, str]] = []
+
+    normalized_filter = source_filter.strip().lower() if source_filter else None
+
+    for row in rows:
+        new_row = dict(row)
+        status = new_row.get("status", "").strip().lower()
+        source = new_row.get("source", "").strip().lower()
+
+        should_consider = status == "candidate"
+        if normalized_filter is not None:
+            should_consider = should_consider and source == normalized_filter
+
+        if not should_consider:
+            output_rows.append(new_row)
+            continue
+
+        missing_required = [field for field in PROMOTION_REQUIRED_FIELDS if not new_row.get(field, "").strip()]
+        tone_a = new_row.get("tone_a", "").strip()
+        tone_b = new_row.get("tone_b", "").strip()
+        word_a = new_row.get("word_a", "").strip()
+        word_b = new_row.get("word_b", "").strip()
+
+        # Keep unready rows as candidate so review loops are explicit and reversible.
+        if missing_required or tone_a == tone_b or word_a == word_b:
+            skipped_incomplete += 1
+            output_rows.append(new_row)
+            continue
+
+        new_row["status"] = target_status
+        promoted += 1
+        output_rows.append(new_row)
+
+    return output_rows, promoted, skipped_incomplete
