@@ -8,6 +8,14 @@
 
 ---
 
+## Read first
+
+> **Before you start annotating, read [analyst-tone-decision-guide.md](analyst-tone-decision-guide.md).**
+>
+> Part 2 below ("Identifying Tone from Orthography") is the *general* convention for hand-curated Kikuyu tonal pairs. It does **not** apply cleanly to the WAXAL-mined candidates in this CSV, because the candidate generator cannot distinguish tone diacritics (acute, grave) from segmental diacritics (tilde for vowel quality, macron for length). Most WAXAL candidate rows are **not** valid tonal minimal pairs and should be rejected, not annotated.
+>
+> The decision guide gives the rejection rule, the H/L assignment rule (lexical, not orthographic), and worked examples from real candidate rows.
+
 ## Overview
 
 This document describes the workflow for a Kikuyu language analyst to annotate the 100 WAXAL-sourced tonal pair candidate rows that have been automatically generated and added to the tonal minimal pairs evaluation dataset.

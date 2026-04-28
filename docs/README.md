@@ -11,7 +11,8 @@ This directory holds the reference materials for approxIPA.
 
 ## Operational & Workflow Guides
 
-- [**waxal-candidate-annotation-workflow.md**](waxal-candidate-annotation-workflow.md) — **START HERE** for analyst annotation of WAXAL candidate pairs
+- [**analyst-tone-decision-guide.md**](analyst-tone-decision-guide.md) — **READ FIRST** before annotating WAXAL candidates: the H/L decision rule, the orthography trap (tilde/macron are segmental, not tonal), rejection protocol, and worked examples
+- [waxal-candidate-annotation-workflow.md](waxal-candidate-annotation-workflow.md) — Full annotation workflow for WAXAL candidate pairs (read after the decision guide)
 - [tonal-pair-source-access.md](tonal-pair-source-access.md)
 - [gold-standard-source-decision.md](gold-standard-source-decision.md)
 - [gold-standard-operational-plan.md](gold-standard-operational-plan.md)
