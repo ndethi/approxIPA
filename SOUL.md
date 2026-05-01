@@ -112,12 +112,13 @@ corpus orthography whenever they conflict (design doc §4 Criterion 4).
 
 **Critical path to first conference paper (H1 result):**
 1. ~~Resolve analyst annotation blocker~~ → ✅ done (`docs/analyst-tone-decision-guide.md`)
-2. Watson annotates ~30 valid acute-vs-grave pairs in `data/tonal_minimal_pairs.csv`
-3. Run `scripts/promote_tonal_candidates.py` → pairs reach `status=evaluable`
-4. Expand `data/kikuyu_wordlist.txt` to cover all pair variants; run `scripts/run_transphone.py`
+2. Execute non-analyst implementation track (wordlist expansion, Transphone regeneration, lexicon import, BibleTTS pipeline hardening)
+3. Treat analyst annotation as the next-iteration gate: Watson annotates ~30 valid acute-vs-grave pairs in `data/tonal_minimal_pairs.csv`
+4. Run `scripts/promote_tonal_candidates.py` → pairs reach `status=evaluable`
 5. Run `python -m evaluation.run_tcpr` → first real H1 TCPR score
-6. Import 500+ thiLLMo gold IPA entries → build CMUdict lexicon artefact
-7. Draft TCPR metric paper → submit AfricaNLP
+6. Draft TCPR metric paper → submit AfricaNLP
+
+**Pivot note (May 2026):** analyst annotation remains mandatory for final H1 scoring, but it is no longer the immediate engineering blocker. The team will continue all implementation work that does not mutate `tone_a/b` or `gold_ipa_*` fields, then execute annotation in the next iteration as an explicit gate.
 
 **What is NOT on the critical path for paper v1:**
 - ByT5 fine-tuning (Year 2)
@@ -198,11 +199,12 @@ Before ending a session, the active agent must:
 
 | Priority | Owner | Task |
 |----------|-------|------|
-| P0 | NLP Researcher | Annotate ~30 valid pairs in `data/tonal_minimal_pairs.csv` using `docs/analyst-tone-decision-guide.md` |
 | P0 | Senior Dev | Expand `data/kikuyu_wordlist.txt` + regenerate `data/ipa_approximations.jsonl` via `scripts/run_transphone.py` |
-| P1 | Tester | Run full validation + TCPR after annotation; confirm H1 is computable |
-| P1 | Senior Dev | Import 500+ thiLLMo gold entries; emit `data/kikuyu_ipa_lexicon.tsv` in CMUdict format |
-| P2 | Cloud Architect | Unblock BibleTTS HF access; scaffold MFA alignment pipeline |
+| P0 | Senior Dev | Import 500+ thiLLMo gold entries; emit `data/kikuyu_ipa_lexicon.tsv` in CMUdict format |
+| P1 | Cloud Architect | Unblock BibleTTS HF access; scaffold MFA alignment pipeline |
+| P1 | Tester | Validate non-analyst pipeline outputs and reproducibility checks |
+| P2 | NLP Researcher | Next iteration gate: annotate ~30 valid pairs in `data/tonal_minimal_pairs.csv` using `docs/analyst-tone-decision-guide.md` |
+| P2 | Tester | After annotation: run promotion + full validation + TCPR; confirm H1 is computable |
 | P2 | Senior Dev | Build `notebooks/02_tcpr_evaluation.ipynb` with H1 result table + CI plot |
 | P3 | PM | Draft paper outline for AfricaNLP submission |
 
@@ -227,3 +229,17 @@ Before ending a session, the active agent must:
 - Are the ~30 acute-vs-grave candidate pairs (e.g. `aingì/aingí`, `arì/arí`, `gìa/gía`) recognisable as genuine semantic minimal pairs to you, or are most of them also same-lexeme variants?
 - Do you have the 500+ thiLLMo IPA gold entries in a portable format ready to import?
 - BibleTTS SLR129 — is the HF gated access resolved, or are we on the openslr.org wget path?
+
+## Session Handoff Note — May 2026 (Pivot)
+
+**Decision:** pivot to a two-track execution model where analyst annotation is a planned next-iteration gate instead of an immediate engineering blocker.
+
+**What changed:**
+- Reordered near-term priorities to complete all non-analyst implementation work first.
+- Preserved strict invariant that only analyst-reviewed rows can move from `candidate` to `evaluable`.
+- Kept H1 scoring dependent on annotation, but removed annotation from immediate day-to-day execution critical path.
+
+**Next steps before annotation iteration:**
+- Regenerate full approximation outputs from expanded Kikuyu wordlist.
+- Import and validate expanded gold IPA lexicon entries.
+- Harden BibleTTS/WAXAL reference pipeline and reproducibility checks.
