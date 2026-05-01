@@ -193,6 +193,24 @@ Before ending a session, the active agent must:
 3. Leave a `## Session handoff note` section at the bottom of this file
    with: what was done, what's next, any open questions for the researcher.
 
+### SOUL-driven agentic bootstrap contract
+
+Any external agentic framework (Hermes, Nemo, OpenClaw, or equivalent) must use
+`SOUL.md` as the control-plane manifest for task planning and guardrails.
+
+Required bootstrap sequence:
+1. Parse §2 Team Manifest to assign role and authority boundaries.
+2. Parse §3 Current State Snapshot to detect active phase and blocker status.
+3. Parse §5 Invariants and hard-fail any proposed action that violates them.
+4. Parse §7 Immediate Priorities and select the highest-priority non-blocked task.
+5. Emit a startup report that states: selected role, selected task, acceptance criteria, and escalation path.
+
+Required runtime behavior:
+- Treat `data/tonal_minimal_pairs.csv` tonal and gold IPA fields as protected unless acting in NLP Researcher role.
+- Require reproducible script-first execution for all claims (no notebook-only evidence).
+- Surface all unresolved blockers back to PM agent rather than silently bypassing them.
+- Write a concise session handoff note on completion or interruption.
+
 ---
 
 ## 7. Immediate Priorities (next 2 weeks)
@@ -207,6 +225,40 @@ Before ending a session, the active agent must:
 | P2 | Tester | After annotation: run promotion + full validation + TCPR; confirm H1 is computable |
 | P2 | Senior Dev | Build `notebooks/02_tcpr_evaluation.ipynb` with H1 result table + CI plot |
 | P3 | PM | Draft paper outline for AfricaNLP submission |
+
+### Pivot execution checklist (implementation-first)
+
+Track A must be completed before Track B begins.
+
+Track A1: regenerate approximation outputs
+- Owner: Senior Dev
+- Action: expand `data/kikuyu_wordlist.txt` and run `scripts/run_transphone.py`
+- Done when: `data/ipa_approximations.jsonl` is regenerated from expanded list and validation/tests pass.
+
+Track A2: expand lexicon artifact
+- Owner: Senior Dev
+- Action: import thiLLMo gold IPA entries and emit CMUdict-style lexicon output.
+- Done when: lexicon artifact is written, format checks pass, and provenance is documented in session note.
+
+Track A3: harden reference pipeline
+- Owner: Cloud Architect
+- Action: verify BibleTTS/WAXAL access, split discipline, and reproducible ingestion path.
+- Done when: ingestion/check scripts run cleanly and split invariants are confirmed in logs.
+
+Track A4: reproducibility gate
+- Owner: Tester
+- Action: run test and validation suite for non-analyst outputs.
+- Done when: `pytest`, tonal-pair validation, and dry-run TCPR orchestration complete without regressions.
+
+Track B1: analyst next-iteration gate
+- Owner: NLP Researcher
+- Action: annotate approximately 30 valid H/L pairs using `docs/analyst-tone-decision-guide.md`.
+- Done when: candidate rows are reviewer-approved and ready for promotion.
+
+Track B2: promotion and scoring
+- Owner: Tester
+- Action: run `scripts/promote_tonal_candidates.py` followed by full TCPR execution.
+- Done when: first H1-computable TCPR report is produced with reproducible config snapshot.
 
 ---
 
