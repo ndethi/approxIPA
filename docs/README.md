@@ -11,8 +11,9 @@ This directory holds the reference materials for approxIPA.
 
 ## Operational & Workflow Guides
 
+- [**analyst-tone-decision-guide.md**](analyst-tone-decision-guide.md) — **READ FIRST** before annotating WAXAL candidates: the H/L decision rule, the orthography trap (tilde/macron are segmental, not tonal), rejection protocol, and worked examples
 - [waxal-primary-analyst-csv-guide.md](waxal-primary-analyst-csv-guide.md) — Short guide for the primary analyst filling in `data/tonal_minimal_pairs.csv`
-- [**waxal-candidate-annotation-workflow.md**](waxal-candidate-annotation-workflow.md) — **START HERE** for analyst annotation of WAXAL candidate pairs
+- [waxal-candidate-annotation-workflow.md](waxal-candidate-annotation-workflow.md) — Full annotation workflow for WAXAL candidate pairs (read after the decision guide)
 - [waxal-second-reviewer-guide-elif.md](waxal-second-reviewer-guide-elif.md) — Simple non-technical second-pass review checklist for Elif
 - [tonal-pair-source-access.md](tonal-pair-source-access.md)
 - [gold-standard-source-decision.md](gold-standard-source-decision.md)
