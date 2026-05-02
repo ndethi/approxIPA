@@ -23,6 +23,7 @@ This directory holds the reference materials for approxIPA.
 - [bibletts-hf-access-status.md](bibletts-hf-access-status.md)
 - [bibletts-source-verification.md](bibletts-source-verification.md)
 - [waxal-non-circular-fallback.md](waxal-non-circular-fallback.md)
+- [agentic-bootstrap-guide.md](agentic-bootstrap-guide.md) — Framework-agnostic bootstrap guide for Hermes or Nemo on this Mac, with SOUL-driven startup and Track A execution flow
 
 ## Operational Scripts Related to These Docs
 
