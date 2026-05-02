@@ -82,6 +82,15 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 
 ## Near-Term Execution Plan (Next 2 Weeks)
 
+## Pivot Decision (May 2026)
+- We will continue implementation without waiting on immediate analyst annotation.
+- Analyst annotation remains required for final H1 TCPR scoring and claim validation.
+- Annotation is now treated as an explicit next-iteration gate after non-analyst work packages are complete.
+
+### Two-Track Execution Model
+- Track A (active now, non-analyst): data/lexicon expansion, approximation regeneration, reference pipeline hardening, reproducibility checks.
+- Track B (next iteration gate, analyst): annotate ~30 valid H/L pairs, promote candidates, run full TCPR for H1 evidence.
+
 ## Execution Status
 - [x] Plan documented in repository.
 - [x] Pre-registration thresholds finalized.
@@ -102,22 +111,22 @@ Approximating Kikuyu IPA from related source languages (especially tonal Yoruba 
 - [ ] Results notebook scaffolded.
 
 ### Week 1
-- Finalize pre-registration thresholds and statistical protocol.
-- Build tonal minimal-pair dataset v1 for Kikuyu.
-- Implement TCPR and unit tests.
-- Generate Yoruba/Swahili approximation outputs on frozen input lists.
+- Expand Kikuyu wordlist coverage for pair variants and evaluation candidates.
+- Regenerate deterministic Yoruba/Swahili approximation outputs on updated lists.
+- Import and validate expanded thiLLMo gold IPA entries.
+- Validate BibleTTS/WAXAL source integrity and split discipline.
 
 ### Week 2
-- Run full metric suite on WAXAL evaluation partitions.
-- Produce first results tables and plots.
-- Write Results skeleton and Methods sections.
-- Decide validate/invalidate status per hypothesis with evidence table.
+- Execute non-analyst reproducibility pass (scripts + tests + validators).
+- Prepare results notebook scaffolding and config snapshots.
+- Queue analyst annotation package for next iteration (clear scope and acceptance criteria).
+- After annotation in next iteration: run promotion + full TCPR + evidence table update.
 
 ## Immediate Next Tasks in This Repo
-- Create evaluation/tcpr.py and tests for contrast-preservation rules.
-- Create data/tonal_minimal_pairs.csv with initial curated seed set.
-- Add notebooks for results tables/plots and confidence intervals.
-- Add experiment config file to make all runs reproducible.
+- Expand `data/kikuyu_wordlist.txt` and regenerate `data/ipa_approximations.jsonl`.
+- Import expanded gold IPA entries into lexicon artifacts and run validation checks.
+- Add results notebook scaffolding and lock reproducible run configs.
+- Prepare analyst next-iteration handoff packet for minimal-pair annotation and promotion.
 
 ## Risks and Mitigations
 - Risk: tonal annotation sparsity in references.
