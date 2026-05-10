@@ -1,4 +1,1001 @@
 word,ipa_yoruba,ipa_swahili,agreement,primary_candidate_ipa,alternate_candidate_ipa,approved_ipa,review_status,reviewer_notes,source
-word1,w o r d,w ɔ r d,no,w o r d,w ɔ r d,,needs-analyst-review,,transphone_yoruba_swahili
-word2,w o r d,w ɔ r d,no,w o r d,w ɔ r d,,needs-analyst-review,,transphone_yoruba_swahili
-word3,w o r d,w ɔ r d,no,w o r d,w ɔ r d,,needs-analyst-review,,transphone_yoruba_swahili
+rangi,r ã ɡ i,r a ɡ i,no,r ã ɡ i,r a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+mwena,m w e n a,m w a n a,no,m w e n a,m w a n a,,needs-analyst-review,,transphone_yoruba_swahili
+kenya,k ẽ j a,k a ɲ a,no,k ẽ j a,k a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+mwaka,m w a k a,m w a k a,yes,m w a k a,,m w a k a,auto-accepted,,transphone_yoruba_swahili
+ini,ĩ n i,i n i,no,ĩ n i,i n i,,needs-analyst-review,,transphone_yoruba_swahili
+iria,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+rwa,r w a,r w a,yes,r w a,,r w a,auto-accepted,,transphone_yoruba_swahili
+iní,ĩ n i,i n i,no,ĩ n i,i n i,,needs-analyst-review,,transphone_yoruba_swahili
+thutha,s u s a,t u t a,no,s u s a,t u t a,,needs-analyst-review,,transphone_yoruba_swahili
+ona,o n a,ɔ n a,no,o n a,ɔ n a,,needs-analyst-review,,transphone_yoruba_swahili
+nginya,m ĩ j a,ŋ i ɲ a,no,m ĩ j a,ŋ i ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+nene,n e n e,n a n a,no,n e n e,n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+hena,h e n a,h a n a,no,h e n a,h a n a,,needs-analyst-review,,transphone_yoruba_swahili
+mbere,b e r e,m b a r a,no,b e r e,m b a r a,,needs-analyst-review,,transphone_yoruba_swahili
+nairobi,n a i r o b i,n a i r ɔ b i,no,n a i r o b i,n a i r ɔ b i,,needs-analyst-review,,transphone_yoruba_swahili
+imwe,ĩ w e,i m w a,no,ĩ w e,i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+inì,i n i,i n i,yes,i n i,,i n i,auto-accepted,,transphone_yoruba_swahili
+bururi,b u r u r i,b u r u r i,yes,b u r u r i,,b u r u r i,auto-accepted,,transphone_yoruba_swahili
+kia,k i a,k i a,yes,k i a,,k i a,auto-accepted,,transphone_yoruba_swahili
+mweri,m w e r i,m w a r i,no,m w e r i,m w a r i,,needs-analyst-review,,transphone_yoruba_swahili
+kuuma,k u m a,k u m a,yes,k u m a,,k u m a,auto-accepted,,transphone_yoruba_swahili
+inî,ĩ n i,i n i,no,ĩ n i,i n i,,needs-analyst-review,,transphone_yoruba_swahili
+degrees,d e ɡ r e s,d a ɡ r a s,no,d e ɡ r e s,d a ɡ r a s,,needs-analyst-review,,transphone_yoruba_swahili
+kuma,k u m a,k u m a,yes,k u m a,,k u m a,auto-accepted,,transphone_yoruba_swahili
+andú,ẽ d u,a d u,no,ẽ d u,a d u,,needs-analyst-review,,transphone_yoruba_swahili
+thaa,s a,t a,no,s a,t a,,needs-analyst-review,,transphone_yoruba_swahili
+magana,m a ɡ a n a,m a ɡ a n a,yes,m a ɡ a n a,,m a ɡ a n a,auto-accepted,,transphone_yoruba_swahili
+ikumi,i k u m i,i k u m i,yes,i k u m i,,i k u m i,auto-accepted,,transphone_yoruba_swahili
+mbura,b u r a,m b u r a,no,b u r a,m b u r a,,needs-analyst-review,,transphone_yoruba_swahili
+andu,ã d u,a d u,no,ã d u,a d u,,needs-analyst-review,,transphone_yoruba_swahili
+inya,ĩ j a,i ɲ a,no,ĩ j a,i ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+kĩa,k e a,k a,no,k e a,k a,,needs-analyst-review,,transphone_yoruba_swahili
+matu,m a t u,m a t u,yes,m a t u,,m a t u,auto-accepted,,transphone_yoruba_swahili
+maita,m a i t a,m a i t a,yes,m a i t a,,m a i t a,auto-accepted,,transphone_yoruba_swahili
+wake,w a k e,w a k a,no,w a k e,w a k a,,needs-analyst-review,,transphone_yoruba_swahili
+kenda,k ẽ d a,k a n d a,no,k ẽ d a,k a n d a,,needs-analyst-review,,transphone_yoruba_swahili
+múthenya,m u s ẽ j a,m u t a ɲ a,no,m u s ẽ j a,m u t a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+kìa,k i a,k i a,yes,k i a,,k i a,auto-accepted,,transphone_yoruba_swahili
+inyanya,ĩ j ã j a,i ɲ a ɲ a,no,ĩ j ã j a,i ɲ a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+būrūri,b u r u r i,b u r u r i,yes,b u r u r i,,b u r u r i,auto-accepted,,transphone_yoruba_swahili
+igana,i ɡ a n a,i ɡ a n a,yes,i ɡ a n a,,i ɡ a n a,auto-accepted,,transphone_yoruba_swahili
+ithano,i s a n o,i t a n ɔ,no,i s a n o,i t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wega,w e ɡ a,w a ɡ a,no,w e ɡ a,w a ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+ngiri,m i r i,ŋ i r i,no,m i r i,ŋ i r i,,needs-analyst-review,,transphone_yoruba_swahili
+muno,m u n o,m u n ɔ,no,m u n o,m u n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kiumia,k i u m i a,k i u m i a,yes,k i u m i a,,k i u m i a,auto-accepted,,transphone_yoruba_swahili
+ithimi,i s i m i,i t i m i,no,i s i m i,i t i m i,,needs-analyst-review,,transphone_yoruba_swahili
+nginyagia,m ĩ j a ɡ i a,ŋ i ɲ a ɡ i a,no,m ĩ j a ɡ i a,ŋ i ɲ a ɡ i a,,needs-analyst-review,,transphone_yoruba_swahili
+kuria,k u r i a,k u r i a,yes,k u r i a,,k u r i a,auto-accepted,,transphone_yoruba_swahili
+mìrongo,m i r o ɡ o,m i r ɔ n ɡ ɔ,no,m i r o ɡ o,m i r ɔ n ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+irio,i r i o,i r i ɔ,no,i r i o,i r i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+barabara,b a r a b a r a,b a r a b a r a,yes,b a r a b a r a,,b a r a b a r a,auto-accepted,,transphone_yoruba_swahili
+búrúri,b u r u r i,b u r u r i,yes,b u r u r i,,b u r u r i,auto-accepted,,transphone_yoruba_swahili
+ici,i t i,i t i,yes,i t i,,i t i,auto-accepted,,transphone_yoruba_swahili
+múno,m u n o,m u n ɔ,no,m u n o,m u n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mūno,m u n o,m u n ɔ,no,m u n o,m u n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+rìa,r i a,r i a,yes,r i a,,r i a,auto-accepted,,transphone_yoruba_swahili
+ūrìa,u r i a,u r i a,yes,u r i a,,u r i a,auto-accepted,,transphone_yoruba_swahili
+hari,h a r i,h a r i,yes,h a r i,,h a r i,auto-accepted,,transphone_yoruba_swahili
+hinya,h ĩ j a,h i ɲ a,no,h ĩ j a,h i ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+green,ɡ r e ẽ,ɡ r a n,no,ɡ r e ẽ,ɡ r a n,,needs-analyst-review,,transphone_yoruba_swahili
+heho,h e h o,h a h ɔ,no,h e h o,h a h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+uria,u r i a,u r i a,yes,u r i a,,u r i a,auto-accepted,,transphone_yoruba_swahili
+ìno,ĩ n o,i n ɔ,no,ĩ n o,i n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+amu,a m u,a m u,yes,a m u,,a m u,auto-accepted,,transphone_yoruba_swahili
+ngui,m w i,ŋ u i,no,m w i,ŋ u i,,needs-analyst-review,,transphone_yoruba_swahili
+makiria,m a k i r i a,m a k i r i a,yes,m a k i r i a,,m a k i r i a,auto-accepted,,transphone_yoruba_swahili
+ìmwe,ĩ w e,i m w a,no,ĩ w e,i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+africa,a f r i t a,a f r i t a,yes,a f r i t a,,a f r i t a,auto-accepted,,transphone_yoruba_swahili
+hau,h a w,h a w,yes,h a w,,h a w,auto-accepted,,transphone_yoruba_swahili
+igiri,i ɡ i r i,i ɡ i r i,yes,i ɡ i r i,,i ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+kía,k i a,k i a,yes,k i a,,k i a,auto-accepted,,transphone_yoruba_swahili
+wayo,w a j o,w a j ɔ,no,w a j o,w a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+bûrûri,b u r u r i,b u r u r i,yes,b u r u r i,,b u r u r i,auto-accepted,,transphone_yoruba_swahili
+gia,ɡ i a,ɡ i a,yes,ɡ i a,,ɡ i a,auto-accepted,,transphone_yoruba_swahili
+blue,b l u e,b l u a,no,b l u e,b l u a,,needs-analyst-review,,transphone_yoruba_swahili
+ena,e n a,a n a,no,e n a,a n a,,needs-analyst-review,,transphone_yoruba_swahili
+indo,ĩ d o,i n d ɔ,no,ĩ d o,i n d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nacio,n a t i o,n a t i ɔ,no,n a t i o,n a t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ũrĩa,o r e a,ɔ r a,no,o r e a,ɔ r a,,needs-analyst-review,,transphone_yoruba_swahili
+aria,a r i a,a r i a,yes,a r i a,,a r i a,auto-accepted,,transphone_yoruba_swahili
+kenyatta,k e m a t a,k a ɲ a t a,no,k e m a t a,k a ɲ a t a,,needs-analyst-review,,transphone_yoruba_swahili
+ari,a r i,a r i,yes,a r i,,a r i,auto-accepted,,transphone_yoruba_swahili
+mĩrongo,m e r o ɡ o,m a r ɔ ŋ ɡ ɔ,no,m e r o ɡ o,m a r ɔ ŋ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ìrì,i r i,i r i,yes,i r i,,i r i,auto-accepted,,transphone_yoruba_swahili
+kîa,k i a,k i a,yes,k i a,,k i a,auto-accepted,,transphone_yoruba_swahili
+mathaa,m a s a,m a t a,no,m a s a,m a t a,,needs-analyst-review,,transphone_yoruba_swahili
+road,r o a t,r ɔ a d,no,r o a t,r ɔ a d,,needs-analyst-review,,transphone_yoruba_swahili
+mîrongo,m i r õ ɡ o,m i r ɔ ŋ ɡ ɔ,no,m i r õ ɡ o,m i r ɔ ŋ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+thì,s i,t i,no,s i,t i,,needs-analyst-review,,transphone_yoruba_swahili
+ihenya,i h ẽ j a,i h a ɲ a,no,i h ẽ j a,i h a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+ino,i n o,i n ɔ,no,i n o,i n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mirongo,m i r õ ɡ o,m i r ɔ ŋ ɡ ɔ,no,m i r õ ɡ o,m i r ɔ ŋ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+oho,o h o,ɔ h ɔ,no,o h o,ɔ h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wao,w a o,w a ɔ,no,w a o,w a ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+múndú,m ũ d u,m u n d u,no,m ũ d u,m u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+ciana,t i a n a,t i a n a,yes,t i a n a,,t i a n a,auto-accepted,,transphone_yoruba_swahili
+mita,m i t a,m i t a,yes,m i t a,,m i t a,auto-accepted,,transphone_yoruba_swahili
+mūndū,m ũ d u,m u n d u,no,m ũ d u,m u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+ría,r i a,r i a,yes,r i a,,r i a,auto-accepted,,transphone_yoruba_swahili
+tondū,t o d u,t ɔ n d u,no,t o d u,t ɔ n d u,,needs-analyst-review,,transphone_yoruba_swahili
+ihinda,i h ĩ d a,i h i d a,no,i h ĩ d a,i h i d a,,needs-analyst-review,,transphone_yoruba_swahili
+maya,m a j a,m a j a,yes,m a j a,,m a j a,auto-accepted,,transphone_yoruba_swahili
+thirikari,s i r i k a r i,t i r i k a r i,no,s i r i k a r i,t i r i k a r i,,needs-analyst-review,,transphone_yoruba_swahili
+haria,h a r i a,h a r i a,yes,h a r i a,,h a r i a,auto-accepted,,transphone_yoruba_swahili
+kilomita,k i l o m i t a,k i l ɔ m i t a,no,k i l o m i t a,k i l ɔ m i t a,,needs-analyst-review,,transphone_yoruba_swahili
+mírogo,m i r o ɡ o,m i r ɔ ɡ ɔ,no,m i r o ɡ o,m i r ɔ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ngoikoni,m o i k o n i,ŋ ɔ i k ɔ n i,no,m o i k o n i,ŋ ɔ i k ɔ n i,,needs-analyst-review,,transphone_yoruba_swahili
+uhuru,u h u r u,u h u r u,yes,u h u r u,,u h u r u,auto-accepted,,transphone_yoruba_swahili
+ĩno,e n o,a n ɔ,no,e n o,a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+hamwe,h a m w e,h a m w a,no,h a m w e,h a m w a,,needs-analyst-review,,transphone_yoruba_swahili
+mathako,m a s a k o,m a t a k ɔ,no,m a s a k o,m a t a k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+tene,t e n e,t a n a,no,t e n e,t a n a,,needs-analyst-review,,transphone_yoruba_swahili
+ùria,u r i a,u r i a,yes,u r i a,,u r i a,auto-accepted,,transphone_yoruba_swahili
+búruri,b u r u r i,b u r u r i,yes,b u r u r i,,b u r u r i,auto-accepted,,transphone_yoruba_swahili
+iri,i r i,i r i,yes,i r i,,i r i,auto-accepted,,transphone_yoruba_swahili
+mwana,m w a n a,m w a n a,yes,m w a n a,,m w a n a,auto-accepted,,transphone_yoruba_swahili
+niguo,n i ɡ u o,n i ɡ u ɔ,no,n i ɡ u o,n i ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ríría,r i r i a,r i r i a,yes,r i r i a,,r i r i a,auto-accepted,,transphone_yoruba_swahili
+mûno,m u n o,m u n ɔ,no,m u n o,m u n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wothe,w o s e,w ɔ t a,no,w o s e,w ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+ati,a t i,a t i,yes,a t i,,a t i,auto-accepted,,transphone_yoruba_swahili
+igūrū,i ɡ u r u,i ɡ u r u,yes,i ɡ u r u,,i ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+uyu,u j u,u j u,yes,u j u,,u j u,auto-accepted,,transphone_yoruba_swahili
+bara,b a r a,b a r a,yes,b a r a,,b a r a,auto-accepted,,transphone_yoruba_swahili
+keda,k e d a,k a d a,no,k e d a,k a d a,,needs-analyst-review,,transphone_yoruba_swahili
+nja,d a,d a,yes,d a,,d a,auto-accepted,,transphone_yoruba_swahili
+nyoka,m o k a,ɲ ɔ k a,no,m o k a,ɲ ɔ k a,,needs-analyst-review,,transphone_yoruba_swahili
+yothe,j o s e,j ɔ t a,no,j o s e,j ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+ciothe,t i o s e,t i ɔ t a,no,t i o s e,t i ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+mbica,b i t a,m b i t a,no,b i t a,m b i t a,,needs-analyst-review,,transphone_yoruba_swahili
+mirogo,m i r o ɡ o,m i r ɔ ɡ ɔ,no,m i r o ɡ o,m i r ɔ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+andū,ẽ d u,a n d u,no,ẽ d u,a n d u,,needs-analyst-review,,transphone_yoruba_swahili
+riria,r i r i a,r i r i a,yes,r i r i a,,r i r i a,auto-accepted,,transphone_yoruba_swahili
+írí,i r i,i r i,yes,i r i,,i r i,auto-accepted,,transphone_yoruba_swahili
+ūyū,u j u,u j u,yes,u j u,,u j u,auto-accepted,,transphone_yoruba_swahili
+andũ,ã d o,a d ɔ,no,ã d o,a d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ithatú,i s a t u,i t a t u,no,i s a t u,i t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+giri,ɡ i r i,ɡ i r i,yes,ɡ i r i,,ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+mena,m e n a,m a n a,no,m e n a,m a n a,,needs-analyst-review,,transphone_yoruba_swahili
+naguo,n a ɡ u o,n a ɡ u ɔ,no,n a ɡ u o,n a ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+igìrì,i ɡ i r i,i ɡ i r i,yes,i ɡ i r i,,i ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+nayo,n a j o,n a j ɔ,no,n a j o,n a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ngumo,m u m o,ŋ u m ɔ,no,m u m o,ŋ u m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+haha,h a h a,h a h a,yes,h a h a,,h a h a,auto-accepted,,transphone_yoruba_swahili
+igũrũ,i ɡ o r o,i ɡ ɔ r ɔ,no,i ɡ o r o,i ɡ ɔ r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kuri,k u r i,k u r i,yes,k u r i,,k u r i,auto-accepted,,transphone_yoruba_swahili
+riua,r i w a,r i w a,yes,r i w a,,r i w a,auto-accepted,,transphone_yoruba_swahili
+yellow,j e l o w,j a l ɔ w,no,j e l o w,j a l ɔ w,,needs-analyst-review,,transphone_yoruba_swahili
+ĩrĩa,e r e a,a r a,no,e r e a,a r a,,needs-analyst-review,,transphone_yoruba_swahili
+bũrũri,b o r o r i,b ɔ r ɔ r i,no,b o r o r i,b ɔ r ɔ r i,,needs-analyst-review,,transphone_yoruba_swahili
+gìa,ɡ i a,ɡ i a,yes,ɡ i a,,ɡ i a,auto-accepted,,transphone_yoruba_swahili
+mundu,m ũ d u,m u n d u,no,m ũ d u,m u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+muthenya,m u s ẽ j a,m u t a ɲ a,no,m u s ẽ j a,m u t a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+ngari,ɡ a r i,ɡ a r i,yes,ɡ a r i,,ɡ a r i,auto-accepted,,transphone_yoruba_swahili
+riera,r i e r a,r i a r a,no,r i e r a,r i a r a,,needs-analyst-review,,transphone_yoruba_swahili
+thìiniì,s i ĩ i,t i n i,no,s i ĩ i,t i n i,,needs-analyst-review,,transphone_yoruba_swahili
+andû,ã d u,a d u,no,ã d u,a d u,,needs-analyst-review,,transphone_yoruba_swahili
+ikûmi,i k u m i,i k u m i,yes,i k u m i,,i k u m i,auto-accepted,,transphone_yoruba_swahili
+ikūmi,i k u m i,i k u m i,yes,i k u m i,,i k u m i,auto-accepted,,transphone_yoruba_swahili
+nyeki,m e k i,ɲ a k i,no,m e k i,ɲ a k i,,needs-analyst-review,,transphone_yoruba_swahili
+oro,o r o,ɔ r ɔ,no,o r o,ɔ r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+president,p r e s i d ẽ t,p r a s i d a n t,no,p r e s i d ẽ t,p r a s i d a n t,,needs-analyst-review,,transphone_yoruba_swahili
+yake,j a k e,j a k a,no,j a k e,j a k a,,needs-analyst-review,,transphone_yoruba_swahili
+ìna,ĩ n a,i n a,no,ĩ n a,i n a,,needs-analyst-review,,transphone_yoruba_swahili
+day,d a j,d a j,yes,d a j,,d a j,auto-accepted,,transphone_yoruba_swahili
+gía,ɡ i a,ɡ i a,yes,ɡ i a,,ɡ i a,auto-accepted,,transphone_yoruba_swahili
+kuona,k u o n a,k u ɔ n a,no,k u o n a,k u ɔ n a,,needs-analyst-review,,transphone_yoruba_swahili
+maria,m a r i a,m a r i a,yes,m a r i a,,m a r i a,auto-accepted,,transphone_yoruba_swahili
+mbwe,b w e,m b w a,no,b w e,m b w a,,needs-analyst-review,,transphone_yoruba_swahili
+níguo,n i ɡ u o,n i ɡ u ɔ,no,n i ɡ u o,n i ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+riūa,r i w a,r i u a,no,r i w a,r i u a,,needs-analyst-review,,transphone_yoruba_swahili
+shape,ʃ a p e,ʃ a p a,no,ʃ a p e,ʃ a p a,,needs-analyst-review,,transphone_yoruba_swahili
+ìrìa,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+igakorwo,i ɡ a k o r w o,i ɡ a k ɔ r w ɔ,no,i ɡ a k o r w o,i ɡ a k ɔ r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kwína,k w ĩ n a,k i n a,no,k w ĩ n a,k i n a,,needs-analyst-review,,transphone_yoruba_swahili
+miaka,m i j a k a,m i a k a,no,m i j a k a,m i a k a,,needs-analyst-review,,transphone_yoruba_swahili
+njìra,d i r a,d i r a,yes,d i r a,,d i r a,auto-accepted,,transphone_yoruba_swahili
+thĩiniĩ,s e i n i e,t a i n i a,no,s e i n i e,t a i n i a,,needs-analyst-review,,transphone_yoruba_swahili
+ìyo,i j o,i j ɔ,no,i j o,i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ūndū,ũ d u,u n d u,no,ũ d u,u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+bata,b a t a,b a t a,yes,b a t a,,b a t a,auto-accepted,,transphone_yoruba_swahili
+gìkì,ɡ i k i,ɡ i k i,yes,ɡ i k i,,ɡ i k i,auto-accepted,,transphone_yoruba_swahili
+harĩ,h a r e,h a r a,no,h a r e,h a r a,,needs-analyst-review,,transphone_yoruba_swahili
+ikoragwo,i k o r a ɡ w o,i k ɔ r a w ɔ,no,i k o r a ɡ w o,i k ɔ r a w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kanini,k a n ĩ n i,k a n i n i,no,k a n ĩ n i,k a n i n i,,needs-analyst-review,,transphone_yoruba_swahili
+kiromita,k i r o m i t a,k i r ɔ m i t a,no,k i r o m i t a,k i r ɔ m i t a,,needs-analyst-review,,transphone_yoruba_swahili
+mwega,m w e ɡ a,m w a ɡ a,no,m w e ɡ a,m w a ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+national,n a t i o n a l,n a t i ɔ n a l,no,n a t i o n a l,n a t i ɔ n a l,,needs-analyst-review,,transphone_yoruba_swahili
+waku,w a k u,w a k u,yes,w a k u,,w a k u,auto-accepted,,transphone_yoruba_swahili
+guku,ɡ u k u,ɡ u k u,yes,ɡ u k u,,ɡ u k u,auto-accepted,,transphone_yoruba_swahili
+harì,h a r i,h a r i,yes,h a r i,,h a r i,auto-accepted,,transphone_yoruba_swahili
+hìndì,h ĩ d i,h i n d i,no,h ĩ d i,h i n d i,,needs-analyst-review,,transphone_yoruba_swahili
+moi,m o i,m ɔ i,no,m o i,m ɔ i,,needs-analyst-review,,transphone_yoruba_swahili
+nuthu,n u s u,n u t u,no,n u s u,n u t u,,needs-analyst-review,,transphone_yoruba_swahili
+twa,t w a,t w a,yes,t w a,,t w a,auto-accepted,,transphone_yoruba_swahili
+úrugari,u r u ɡ a r i,u r u ɡ a r i,yes,u r u ɡ a r i,,u r u ɡ a r i,auto-accepted,,transphone_yoruba_swahili
+gatagati,ɡ a t a ɡ a t i,ɡ a t a ɡ a t i,yes,ɡ a t a ɡ a t i,,ɡ a t a ɡ a t i,auto-accepted,,transphone_yoruba_swahili
+harî,h a r i,h a r i,yes,h a r i,,h a r i,auto-accepted,,transphone_yoruba_swahili
+ikũmi,i k o m i,i k ɔ m i,no,i k o m i,i k ɔ m i,,needs-analyst-review,,transphone_yoruba_swahili
+ithatu,i s a t u,i t a t u,no,i s a t u,i t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+mari,m a r i,m a r i,yes,m a r i,,m a r i,auto-accepted,,transphone_yoruba_swahili
+mùno,m u n o,m u n ɔ,no,m u n o,m u n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mûthenya,m u s ẽ j a,m u t a ɲ a,no,m u s ẽ j a,m u t a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+ímwe,ĩ w e,i m w a,no,ĩ w e,i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+mírongo,m i r õ ɡ o,m i r ɔ ŋ ɡ ɔ,no,m i r õ ɡ o,m i r ɔ ŋ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+îmwe,ĩ w e,i m w a,no,ĩ w e,i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+harí,h a r i,h a r i,yes,h a r i,,h a r i,auto-accepted,,transphone_yoruba_swahili
+mūthenya,m u s ẽ j a,m u t a ɲ a,no,m u s ẽ j a,m u t a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+niwe,n i w e,n i w a,no,n i w e,n i w a,,needs-analyst-review,,transphone_yoruba_swahili
+riúa,r i u a,r i u a,yes,r i u a,,r i u a,auto-accepted,,transphone_yoruba_swahili
+rìrì,r i r i,r i r i,yes,r i r i,,r i r i,auto-accepted,,transphone_yoruba_swahili
+rîa,r i a,r i a,yes,r i a,,r i a,auto-accepted,,transphone_yoruba_swahili
+tariki,t a r i k i,t a r i k i,yes,t a r i k i,,t a r i k i,auto-accepted,,transphone_yoruba_swahili
+igîrî,i ɡ i r i,i ɡ i r i,yes,i ɡ i r i,,i ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+mbeca,b e t a,m b a t a,no,b e t a,m b a t a,,needs-analyst-review,,transphone_yoruba_swahili
+ngoga,ɡ o ɡ a,ɡ ɔ ɡ a,no,ɡ o ɡ a,ɡ ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+niundu,n i ũ d u,n i u d u,no,n i ũ d u,n i u d u,,needs-analyst-review,,transphone_yoruba_swahili
+íria,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+aría,a r i a,a r i a,yes,a r i a,,a r i a,auto-accepted,,transphone_yoruba_swahili
+kûrî,k u r i,k u r i,yes,k u r i,,k u r i,auto-accepted,,transphone_yoruba_swahili
+pele,p e l e,p a l a,no,p e l e,p a l a,,needs-analyst-review,,transphone_yoruba_swahili
+rungu,r ũ ɡ u,r u n ɡ u,no,r ũ ɡ u,r u n ɡ u,,needs-analyst-review,,transphone_yoruba_swahili
+ruto,r u t o,r u t ɔ,no,r u t o,r u t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+thika,s i k a,t i k a,no,s i k a,t i k a,,needs-analyst-review,,transphone_yoruba_swahili
+watho,w a s o,w a t ɔ,no,w a s o,w a t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+úría,u r i a,u r i a,yes,u r i a,,u r i a,auto-accepted,,transphone_yoruba_swahili
+ūcio,u t i o,u t i ɔ,no,u t i o,u t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+aingi,a ĩ ɡ i,a i ɡ i,no,a ĩ ɡ i,a i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+celsius,t e l s i u s,t a l s i u s,no,t e l s i u s,t a l s i u s,,needs-analyst-review,,transphone_yoruba_swahili
+ikúmi,i k u m i,i k u m i,yes,i k u m i,,i k u m i,auto-accepted,,transphone_yoruba_swahili
+ithatū,i s a t u,i t a t u,no,i s a t u,i t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+nakuru,n a k u r u,n a k u r u,yes,n a k u r u,,n a k u r u,auto-accepted,,transphone_yoruba_swahili
+nyingi,m ĩ ɡ i,ɲ i ɡ i,no,m ĩ ɡ i,ɲ i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+nìguo,n i ɡ u o,n i ɡ u ɔ,no,n i ɡ u o,n i ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+triangle,t r i ẽ ɡ l e,t r i a n ɡ l a,no,t r i ẽ ɡ l e,t r i a n ɡ l a,,needs-analyst-review,,transphone_yoruba_swahili
+kona,k o n a,k ɔ n a,no,k o n a,k ɔ n a,,needs-analyst-review,,transphone_yoruba_swahili
+nigwo,n i ɡ w o,n i ɡ w ɔ,no,n i ɡ w o,n i ɡ w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+îna,ĩ n a,i n a,no,ĩ n a,i n a,,needs-analyst-review,,transphone_yoruba_swahili
+úcio,u t i o,u t i ɔ,no,u t i o,u t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ĩmwe,ĩ w e,a m w a,no,ĩ w e,a m w a,,needs-analyst-review,,transphone_yoruba_swahili
+akenya,a k ẽ j a,a k a ɲ a,no,a k ẽ j a,a k a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+atì,a t i,a t i,yes,a t i,,a t i,auto-accepted,,transphone_yoruba_swahili
+mombasa,m o m b a s a,m ɔ m b a s a,no,m o m b a s a,m ɔ m b a s a,,needs-analyst-review,,transphone_yoruba_swahili
+mūbira,m u b i r a,m u b i r a,yes,m u b i r a,,m u b i r a,auto-accepted,,transphone_yoruba_swahili
+úmwe,ũ w e,u m w a,no,ũ w e,u m w a,,needs-analyst-review,,transphone_yoruba_swahili
+ûrîa,u r i a,u r i a,yes,u r i a,,u r i a,auto-accepted,,transphone_yoruba_swahili
+ũmotho,o m o s o,ɔ m ɔ t ɔ,no,o m o s o,ɔ m ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gatagatì,ɡ a t a ɡ a t i,ɡ a t a ɡ a t i,yes,ɡ a t a ɡ a t i,,ɡ a t a ɡ a t i,auto-accepted,,transphone_yoruba_swahili
+múndu,m ũ d u,m u n d u,no,m ũ d u,m u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+mûndû,m ũ d u,m u n d u,no,m ũ d u,m u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+mũndũ,m o d o,m ɔ d ɔ,no,m o d o,m ɔ d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+namba,n ã b a,n a m b a,no,n ã b a,n a m b a,,needs-analyst-review,,transphone_yoruba_swahili
+tanzania,t ã s a n i a,t a n z a n i a,no,t ã s a n i a,t a n z a n i a,,needs-analyst-review,,transphone_yoruba_swahili
+wìra,w i r a,w i r a,yes,w i r a,,w i r a,auto-accepted,,transphone_yoruba_swahili
+ūguo,u ɡ u o,u ɡ u ɔ,no,u ɡ u o,u ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+andù,ã d u,a d u,no,ã d u,a d u,,needs-analyst-review,,transphone_yoruba_swahili
+inene,i n e n e,i n a n a,no,i n e n e,i n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+kũrĩa,k o r e a,k ɔ r a,no,k o r e a,k ɔ r a,,needs-analyst-review,,transphone_yoruba_swahili
+mūciì,m u t i,m u t i,yes,m u t i,,m u t i,auto-accepted,,transphone_yoruba_swahili
+nambere,n ã b e r e,n a m b a r a,no,n ã b e r e,n a m b a r a,,needs-analyst-review,,transphone_yoruba_swahili
+white,w i t e,w i t a,no,w i t e,w i t a,,needs-analyst-review,,transphone_yoruba_swahili
+wira,w i r a,w i r a,yes,w i r a,,w i r a,auto-accepted,,transphone_yoruba_swahili
+ĩrĩ,e r e,a r a,no,e r e,a r a,,needs-analyst-review,,transphone_yoruba_swahili
+gîcunjî,ɡ i t ũ d i,ɡ i t u ʃ i,no,ɡ i t ũ d i,ɡ i t u ʃ i,,needs-analyst-review,,transphone_yoruba_swahili
+gûkû,ɡ u k u,ɡ u k u,yes,ɡ u k u,,ɡ u k u,auto-accepted,,transphone_yoruba_swahili
+kipchoge,k i p t o ɡ e,k i p t ɔ ɡ a,no,k i p t o ɡ e,k i p t ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+thahabu,s a h a b u,t a h a b u,no,s a h a b u,t a h a b u,,needs-analyst-review,,transphone_yoruba_swahili
+umwe,ũ w e,u m w a,no,ũ w e,u m w a,,needs-analyst-review,,transphone_yoruba_swahili
+wakinya,w a k ĩ j a,w a k i ɲ a,no,w a k ĩ j a,w a k i ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+avenue,a f e n u e,a v a n u a,no,a f e n u e,a v a n u a,,needs-analyst-review,,transphone_yoruba_swahili
+gúkú,ɡ u k u,ɡ u k u,yes,ɡ u k u,,ɡ u k u,auto-accepted,,transphone_yoruba_swahili
+igúrú,i ɡ u r u,i ɡ u r u,yes,i ɡ u r u,,i ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+kamau,k a m a w,k a m a w,yes,k a m a w,,k a m a w,auto-accepted,,transphone_yoruba_swahili
+kúrí,k u r i,k u r i,yes,k u r i,,k u r i,auto-accepted,,transphone_yoruba_swahili
+mahinda,m a h ĩ d a,m a h i d a,no,m a h ĩ d a,m a h i d a,,needs-analyst-review,,transphone_yoruba_swahili
+marĩa,m a r e a,m a r a,no,m a r e a,m a r a,,needs-analyst-review,,transphone_yoruba_swahili
+south,s o u s,s ɔ u θ,no,s o u s,s ɔ u θ,,needs-analyst-review,,transphone_yoruba_swahili
+william,w i l i ẽ,w i l i a m,no,w i l i ẽ,w i l i a m,,needs-analyst-review,,transphone_yoruba_swahili
+ūmwe,ũ w e,u m w a,no,ũ w e,u m w a,,needs-analyst-review,,transphone_yoruba_swahili
+hiti,h i t i,h i t i,yes,h i t i,,h i t i,auto-accepted,,transphone_yoruba_swahili
+igoti,i ɡ o t i,i ɡ ɔ t i,no,i ɡ o t i,i ɡ ɔ t i,,needs-analyst-review,,transphone_yoruba_swahili
+lake,l a k e,l a k a,no,l a k e,l a k a,,needs-analyst-review,,transphone_yoruba_swahili
+maingi,m a ĩ ɡ i,m a i ɡ i,no,m a ĩ ɡ i,m a i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+mũirũ,m o i r o,m ɔ i r ɔ,no,m o i r o,m ɔ i r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nguo,m u o,ŋ u ɔ,no,m u o,ŋ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+riri,r i r i,r i r i,yes,r i r i,,r i r i,auto-accepted,,transphone_yoruba_swahili
+riũa,r i o a,r i ɔ a,no,r i o a,r i ɔ a,,needs-analyst-review,,transphone_yoruba_swahili
+íyo,i j o,i j ɔ,no,i j o,i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+îno,ĩ n o,i n ɔ,no,ĩ n o,i n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+úndú,ũ d u,u d u,no,ũ d u,u d u,,needs-analyst-review,,transphone_yoruba_swahili
+atumia,a t u m i a,a t u m i a,yes,a t u m i a,,a t u m i a,auto-accepted,,transphone_yoruba_swahili
+highway,h i ɡ w a j,h i ɡ w a j,yes,h i ɡ w a j,,h i ɡ w a j,auto-accepted,,transphone_yoruba_swahili
+iyo,i j o,i j ɔ,no,i j o,i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+jumatano,d u m a t a n o,ʃ u m a t a n ɔ,no,d u m a t a n o,ʃ u m a t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kiria,k i r i a,k i r i a,yes,k i r i a,,k i r i a,auto-accepted,,transphone_yoruba_swahili
+nini,n ĩ n i,n i n i,no,n ĩ n i,n i n i,,needs-analyst-review,,transphone_yoruba_swahili
+nyamú,m a m u,ɲ a m u,no,m a m u,ɲ a m u,,needs-analyst-review,,transphone_yoruba_swahili
+nyina,m ĩ n a,ɲ i n a,no,m ĩ n a,ɲ i n a,,needs-analyst-review,,transphone_yoruba_swahili
+park,p a r k,p a r k,yes,p a r k,,p a r k,auto-accepted,,transphone_yoruba_swahili
+queen,k e ẽ,ɛ a n,no,k e ẽ,ɛ a n,,needs-analyst-review,,transphone_yoruba_swahili
+rimwe,r ĩ w e,r i m w a,no,r ĩ w e,r i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+rúhuho,r u h u h o,r u h u h ɔ,no,r u h u h o,r u h u h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wakwa,w a k a,w a k a,yes,w a k a,,w a k a,auto-accepted,,transphone_yoruba_swahili
+íría,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+îrîa,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+agendi,a ɡ ẽ d i,a ɡ a n d i,no,a ɡ ẽ d i,a ɡ a n d i,,needs-analyst-review,,transphone_yoruba_swahili
+atĩ,a t e,a t a,no,a t e,a t a,,needs-analyst-review,,transphone_yoruba_swahili
+guoko,ɡ u o k o,ɡ u ɔ k ɔ,no,ɡ u o k o,ɡ u ɔ k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gwa,ɡ w a,ɡ w a,yes,ɡ w a,,ɡ w a,auto-accepted,,transphone_yoruba_swahili
+hanini,h a n ĩ n i,h a n i n i,no,h a n ĩ n i,h a n i n i,,needs-analyst-review,,transphone_yoruba_swahili
+igĩrĩ,i ɡ e r e,i ɡ a r a,no,i ɡ e r e,i ɡ a r a,,needs-analyst-review,,transphone_yoruba_swahili
+kiambu,k i ẽ b u,k i a m b u,no,k i ẽ b u,k i a m b u,,needs-analyst-review,,transphone_yoruba_swahili
+kíhoto,k i h o t o,k i h ɔ t ɔ,no,k i h o t o,k i h ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kūrì,k u r i,k u r i,yes,k u r i,,k u r i,auto-accepted,,transphone_yoruba_swahili
+macio,m a t i o,m a t i ɔ,no,m a t i o,m a t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mahenya,m a h ẽ j a,m a h a ɲ a,no,m a h ẽ j a,m a h a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+mùthenya,m u s ẽ j a,m u t a ɲ a,no,m u s ẽ j a,m u t a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+mūgwanja,m u ɡ w ẽ d a,m u ɡ w a n d a,no,m u ɡ w ẽ d a,m u ɡ w a n d a,,needs-analyst-review,,transphone_yoruba_swahili
+mūirū,m u i r u,m u i r u,yes,m u i r u,,m u i r u,auto-accepted,,transphone_yoruba_swahili
+nyamu,m a m u,ɲ a m u,no,m a m u,ɲ a m u,,needs-analyst-review,,transphone_yoruba_swahili
+othe,o s e,ɔ t a,no,o s e,ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+round,r o ũ d,r ɔ u n d,no,r o ũ d,r ɔ u n d,,needs-analyst-review,,transphone_yoruba_swahili
+taríki,t a r i k i,t a r i k i,yes,t a r i k i,,t a r i k i,auto-accepted,,transphone_yoruba_swahili
+about,a b o u t,a b ɔ u t,no,a b o u t,a b ɔ u t,,needs-analyst-review,,transphone_yoruba_swahili
+biacara,b i a t a r a,b i a t a r a,yes,b i a t a r a,,b i a t a r a,auto-accepted,,transphone_yoruba_swahili
+ciao,t i j a o,t i a ɔ,no,t i j a o,t i a ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+cukuru,t u k u r u,t u k u r u,yes,t u k u r u,,t u k u r u,auto-accepted,,transphone_yoruba_swahili
+elizabeth,e l i s a b e s,a l i z a b a θ,no,e l i s a b e s,a l i z a b a θ,,needs-analyst-review,,transphone_yoruba_swahili
+ihoto,i h o t o,i h ɔ t ɔ,no,i h o t o,i h ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+jomo,d o m o,ʃ ɔ m ɔ,no,d o m o,ʃ ɔ m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kuongerera,k u o ɡ e r e r a,k u ɔ ɡ a r a r a,no,k u o ɡ e r e r a,k u ɔ ɡ a r a r a,,needs-analyst-review,,transphone_yoruba_swahili
+matano,m a t a n o,m a t a n ɔ,no,m a t a n o,m a t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+munene,m u n e n e,m u n a n a,no,m u n e n e,m u n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+mwerū,m w e r u,m w a r u,no,m w e r u,m w a r u,,needs-analyst-review,,transphone_yoruba_swahili
+míthako,m i s a k o,m i t a k ɔ,no,m i s a k o,m i t a k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ng'ombe,ɡ o b e,ŋ ɔ m b a,no,ɡ o b e,ŋ ɔ m b a,,needs-analyst-review,,transphone_yoruba_swahili
+nyama,m a m a,ɲ a m a,no,m a m a,ɲ a m a,,needs-analyst-review,,transphone_yoruba_swahili
+riûa,r i w a,r i w a,yes,r i w a,,r i w a,auto-accepted,,transphone_yoruba_swahili
+thĩĩ,s e b,t a,no,s e b,t a,,needs-analyst-review,,transphone_yoruba_swahili
+ĩna,e n a,a n a,no,e n a,a n a,,needs-analyst-review,,transphone_yoruba_swahili
+ūrugarì,u r u ɡ a r i,u r u ɡ a r i,yes,u r u ɡ a r i,,u r u ɡ a r i,auto-accepted,,transphone_yoruba_swahili
+aciarirwo,a t i a r i r w o,a t i a r i r w ɔ,no,a t i a r i r w o,a t i a r i r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+juma,d u m a,ʃ u m a,no,d u m a,ʃ u m a,,needs-analyst-review,,transphone_yoruba_swahili
+kau,k a w,k a w,yes,k a w,,k a w,auto-accepted,,transphone_yoruba_swahili
+kúria,k u r i a,k u r i a,yes,k u r i a,,k u r i a,auto-accepted,,transphone_yoruba_swahili
+maaì,m a i,m a i,yes,m a i,,m a i,auto-accepted,,transphone_yoruba_swahili
+macungwa,m a t ũ ɡ w a,m a t u ɡ ŋ w a,no,m a t ũ ɡ w a,m a t u ɡ ŋ w a,,needs-analyst-review,,transphone_yoruba_swahili
+matunda,m a t ũ d a,m a t u n d a,no,m a t ũ d a,m a t u n d a,,needs-analyst-review,,transphone_yoruba_swahili
+muoyo,m u o j o,m u ɔ j ɔ,no,m u o j o,m u ɔ j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+múnene,m u n e n e,m u n a n a,no,m u n e n e,m u n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+mũthenya,m o s ẽ j a,m ɔ t a ɲ a,no,m o s ẽ j a,m ɔ t a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+ndingirii,d ĩ ɡ i r i,d i ɡ i r i,no,d ĩ ɡ i r i,d i ɡ i r i,,needs-analyst-review,,transphone_yoruba_swahili
+niyo,n i j o,n i j ɔ,no,n i j o,n i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+njira,d i r a,d i r a,yes,d i r a,,d i r a,auto-accepted,,transphone_yoruba_swahili
+nyingì,m ĩ ɡ i,ɲ i ɡ i,no,m ĩ ɡ i,ɲ i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+rìrìa,r i r i a,r i r i a,yes,r i r i a,,r i r i a,auto-accepted,,transphone_yoruba_swahili
+timu,t i m u,t i m u,yes,t i m u,,t i m u,auto-accepted,,transphone_yoruba_swahili
+uganda,u ɡ ã d a,u ɡ a d a,no,u ɡ ã d a,u ɡ a d a,,needs-analyst-review,,transphone_yoruba_swahili
+îîrî,i r i,i r i,yes,i r i,,i r i,auto-accepted,,transphone_yoruba_swahili
+ûrugarî,u r u ɡ a r i,u r u ɡ a r i,yes,u r u ɡ a r i,,u r u ɡ a r i,auto-accepted,,transphone_yoruba_swahili
+ũrĩo,o r e o,ɔ r a ɔ,no,o r e o,ɔ r a ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ūmūthì,u m u s i,u m u t i,no,u m u s i,u m u t i,,needs-analyst-review,,transphone_yoruba_swahili
+icio,i t i o,i t i ɔ,no,i t i o,i t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kuo,k u o,k u ɔ,no,k u o,k u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kuumana,k u m a n a,k u m a n a,yes,k u m a n a,,k u m a n a,auto-accepted,,transphone_yoruba_swahili
+mìaka,m i a k a,m i a k a,yes,m i a k a,,m i a k a,auto-accepted,,transphone_yoruba_swahili
+mūingì,m u ĩ ɡ i,m u i ɡ i,no,m u ĩ ɡ i,m u i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+mūnene,m u n e n e,m u n a n a,no,m u n e n e,m u n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+roundabout,r o ũ d a b o u t,r ɔ u n d a b ɔ u t,no,r o ũ d a b o u t,r ɔ u n d a b ɔ u t,,needs-analyst-review,,transphone_yoruba_swahili
+taûni,t a u n i,t a u n i,yes,t a u n i,,t a u n i,auto-accepted,,transphone_yoruba_swahili
+wathani,w a s a n i,w a t a n i,no,w a s a n i,w a t a n i,,needs-analyst-review,,transphone_yoruba_swahili
+wĩra,w e r a,w a r a,no,w e r a,w a r a,,needs-analyst-review,,transphone_yoruba_swahili
+atírí,a t i r i,a t i r i,yes,a t i r i,,a t i r i,auto-accepted,,transphone_yoruba_swahili
+brown,b r o w n,b r ɔ w n,no,b r o w n,b r ɔ w n,,needs-analyst-review,,transphone_yoruba_swahili
+ethiopia,e t i o p i a,a t i ɔ p i a,no,e t i o p i a,a t i ɔ p i a,,needs-analyst-review,,transphone_yoruba_swahili
+giki,ɡ i k i,ɡ i k i,yes,ɡ i k i,,ɡ i k i,auto-accepted,,transphone_yoruba_swahili
+gìthiūrūrì,ɡ i s i u r u r i,ɡ i t i r u r i,no,ɡ i s i u r u r i,ɡ i t i r u r i,,needs-analyst-review,,transphone_yoruba_swahili
+iburi,i b u r i,i b u r i,yes,i b u r i,,i b u r i,auto-accepted,,transphone_yoruba_swahili
+igírí,i ɡ i r i,i ɡ i r i,yes,i ɡ i r i,,i ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+ina,ĩ n a,i n a,no,ĩ n a,i n a,,needs-analyst-review,,transphone_yoruba_swahili
+ingi,ĩ ɡ i,i ɡ i,no,ĩ ɡ i,i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+ithatũ,i s a t o,i t a t ɔ,no,i s a t o,i t a t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kùri,k u r i,k u r i,yes,k u r i,,k u r i,auto-accepted,,transphone_yoruba_swahili
+kūrìa,k u r i a,k u r i a,yes,k u r i a,,k u r i a,auto-accepted,,transphone_yoruba_swahili
+rìera,r i e r a,r i a r a,no,r i e r a,r i a r a,,needs-analyst-review,,transphone_yoruba_swahili
+rìmwe,r ĩ w e,r i m w a,no,r ĩ w e,r i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+town,t o w n,t ɔ w n,no,t o w n,t ɔ w n,,needs-analyst-review,,transphone_yoruba_swahili
+world,w o r l d,w ɔ r l d,no,w o r l d,w ɔ r l d,,needs-analyst-review,,transphone_yoruba_swahili
+ína,ĩ n a,i n a,no,ĩ n a,i n a,,needs-analyst-review,,transphone_yoruba_swahili
+ùyù,u j u,u j u,yes,u j u,,u j u,auto-accepted,,transphone_yoruba_swahili
+úria,u r i a,u r i a,yes,u r i a,,u r i a,auto-accepted,,transphone_yoruba_swahili
+ciake,t i j a k e,t i a k a,no,t i j a k e,t i a k a,,needs-analyst-review,,transphone_yoruba_swahili
+gîa,ɡ i a,ɡ i a,yes,ɡ i a,,ɡ i a,auto-accepted,,transphone_yoruba_swahili
+igongona,i ɡ õ ɡ o n a,i ɡ ɔ ɡ ɔ n a,no,i ɡ õ ɡ o n a,i ɡ ɔ ɡ ɔ n a,,needs-analyst-review,,transphone_yoruba_swahili
+iguru,i ɡ u r u,i ɡ u r u,yes,i ɡ u r u,,i ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+jumamothi,d u m a m o s i,ʃ u m a m ɔ t i,no,d u m a m o s i,ʃ u m a m ɔ t i,,needs-analyst-review,,transphone_yoruba_swahili
+keeri,k e r i,k a r i,no,k e r i,k a r i,,needs-analyst-review,,transphone_yoruba_swahili
+kisumu,k i s u m u,k i s u m u,yes,k i s u m u,,k i s u m u,auto-accepted,,transphone_yoruba_swahili
+makíria,m a k i r i a,m a k i r i a,yes,m a k i r i a,,m a k i r i a,auto-accepted,,transphone_yoruba_swahili
+mbele,b e l e,m b a l a,no,b e l e,m b a l a,,needs-analyst-review,,transphone_yoruba_swahili
+mbitika,b i t i k a,m b i t i k a,no,b i t i k a,m b i t i k a,,needs-analyst-review,,transphone_yoruba_swahili
+mburuu,b u r u,m b u r u,no,b u r u,m b u r u,,needs-analyst-review,,transphone_yoruba_swahili
+naivasha,n a i f a ʃ a,n a i v a ʃ a,no,n a i f a ʃ a,n a i v a ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+ndume,d u m e,d u m a,no,d u m e,d u m a,,needs-analyst-review,,transphone_yoruba_swahili
+nìwe,n i w e,n i w a,no,n i w e,n i w a,,needs-analyst-review,,transphone_yoruba_swahili
+odinga,o d ĩ ɡ a,ɔ d i ɡ a,no,o d ĩ ɡ a,ɔ d i ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+olympics,o j m p i t s,ɔ j m p i t s,no,o j m p i t s,ɔ j m p i t s,,needs-analyst-review,,transphone_yoruba_swahili
+pink,p ĩ k,p i k,no,p ĩ k,p i k,,needs-analyst-review,,transphone_yoruba_swahili
+ríria,r i r i a,r i r i a,yes,r i r i a,,r i r i a,auto-accepted,,transphone_yoruba_swahili
+rĩrĩa,r e r e a,r a r a,no,r e r e a,r a r a,,needs-analyst-review,,transphone_yoruba_swahili
+stage,s t a ɡ e,s t a ɡ a,no,s t a ɡ e,s t a ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+tuba,t u b a,t u b a,yes,t u b a,,t u b a,auto-accepted,,transphone_yoruba_swahili
+uguo,u ɡ u o,u ɡ u ɔ,no,u ɡ u o,u ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wìyathi,w i j a s i,w i j a t i,no,w i j a s i,w i j a t i,,needs-analyst-review,,transphone_yoruba_swahili
+yao,j a o,j a ɔ,no,j a o,j a ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ùmwe,ũ w e,u m w a,no,ũ w e,u m w a,,needs-analyst-review,,transphone_yoruba_swahili
+ũyũ,o j o,ɔ j ɔ,no,o j o,ɔ j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+arîa,a r i a,a r i a,yes,a r i a,,a r i a,auto-accepted,,transphone_yoruba_swahili
+county,t o ũ k,t ɔ u n ɟ,no,t o ũ k,t ɔ u n ɟ,,needs-analyst-review,,transphone_yoruba_swahili
+gĩcunjĩ,ɡ e t ũ d e,ɡ a t u ʃ a,no,ɡ e t ũ d e,ɡ a t u ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+ikundi,i k ũ d i,i k u n d i,no,i k ũ d i,i k u n d i,,needs-analyst-review,,transphone_yoruba_swahili
+inĩ,ĩ n e,i n a,no,ĩ n e,i n a,,needs-analyst-review,,transphone_yoruba_swahili
+itatú,i t a t u,i t a t u,yes,i t a t u,,i t a t u,auto-accepted,,transphone_yoruba_swahili
+kauntî,k a ũ t i,k a u t i,no,k a ũ t i,k a u t i,,needs-analyst-review,,transphone_yoruba_swahili
+kiama,k i a m a,k i a m a,yes,k i a m a,,k i a m a,auto-accepted,,transphone_yoruba_swahili
+marangi,m a r ã ɡ i,m a r a ɡ i,no,m a r ã ɡ i,m a r a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+matú,m a t u,m a t u,yes,m a t u,,m a t u,auto-accepted,,transphone_yoruba_swahili
+maundu,m a ũ d u,m a u d u,no,m a ũ d u,m a u d u,,needs-analyst-review,,transphone_yoruba_swahili
+meeri,m e r i,m a r i,no,m e r i,m a r i,,needs-analyst-review,,transphone_yoruba_swahili
+mwerù,m w e r u,m w a r u,no,m w e r u,m w a r u,,needs-analyst-review,,transphone_yoruba_swahili
+mwerú,m w e r u,m w a r u,no,m w e r u,m w a r u,,needs-analyst-review,,transphone_yoruba_swahili
+ndegwa,d e ɡ w a,d a ɡ w a,no,d e ɡ w a,d a ɡ w a,,needs-analyst-review,,transphone_yoruba_swahili
+ngoro,ɡ o r o,ŋ ɔ r ɔ,no,ɡ o r o,ŋ ɔ r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+sudan,s u d ɔ̃,s u d a n,no,s u d ɔ̃,s u d a n,,needs-analyst-review,,transphone_yoruba_swahili
+the,s e,t a,no,s e,t a,,needs-analyst-review,,transphone_yoruba_swahili
+thî,s i,t i,no,s i,t i,,needs-analyst-review,,transphone_yoruba_swahili
+wari,w a r i,w a r i,yes,w a r i,,w a r i,auto-accepted,,transphone_yoruba_swahili
+aingí,a ĩ ɡ i,a i ɡ i,no,a ĩ ɡ i,a i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+aramithi,a r a m i s i,a r a m i t i,no,a r a m i s i,a r a m i t i,,needs-analyst-review,,transphone_yoruba_swahili
+arì,a r i,a r i,yes,a r i,,a r i,auto-accepted,,transphone_yoruba_swahili
+arí,a r i,a r i,yes,a r i,,a r i,auto-accepted,,transphone_yoruba_swahili
+arî,a r i,a r i,yes,a r i,,a r i,auto-accepted,,transphone_yoruba_swahili
+christmas,t r i s t m a s,t r i s t m a s,yes,t r i s t m a s,,t r i s t m a s,auto-accepted,,transphone_yoruba_swahili
+exit,e k s i t,a s i t,no,e k s i t,a s i t,,needs-analyst-review,,transphone_yoruba_swahili
+gûgûkorûo,ɡ u ɡ u k o r u o,ɡ u ɡ u k ɔ r u ɔ,no,ɡ u ɡ u k o r u o,ɡ u ɡ u k ɔ r u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gūkū,ɡ u k u,ɡ u k u,yes,ɡ u k u,,ɡ u k u,auto-accepted,,transphone_yoruba_swahili
+híndí,h ĩ d i,h i n d i,no,h ĩ d i,h i n d i,,needs-analyst-review,,transphone_yoruba_swahili
+hîndî,h ĩ d i,h i n d i,no,h ĩ d i,h i n d i,,needs-analyst-review,,transphone_yoruba_swahili
+igûrû,i ɡ u r u,i ɡ u r u,yes,i ɡ u r u,,i ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+itunda,i t ũ d a,i t u n d a,no,i t ũ d a,i t u n d a,,needs-analyst-review,,transphone_yoruba_swahili
+keerì,k e r i,k a r i,no,k e r i,k a r i,,needs-analyst-review,,transphone_yoruba_swahili
+kena,k e n a,k a n a,no,k e n a,k a n a,,needs-analyst-review,,transphone_yoruba_swahili
+kumana,k u m a n a,k u m a n a,yes,k u m a n a,,k u m a n a,auto-accepted,,transphone_yoruba_swahili
+kwìna,k w ĩ n a,k w i n a,no,k w ĩ n a,k w i n a,,needs-analyst-review,,transphone_yoruba_swahili
+mabuku,m a b u k u,m a b u k u,yes,m a b u k u,,m a b u k u,auto-accepted,,transphone_yoruba_swahili
+magūrū,m a ɡ u r u,m a ɡ u r u,yes,m a ɡ u r u,,m a ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+make,m a k e,m a k a,no,m a k e,m a k a,,needs-analyst-review,,transphone_yoruba_swahili
+mathiko,m a s i k o,m a t i k ɔ,no,m a s i k o,m a t i k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mwai,m w a i,m w a i,yes,m w a i,,m w a i,auto-accepted,,transphone_yoruba_swahili
+mwanya,m w ã j a,m w a ɲ a,no,m w ã j a,m w a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+mwerû,m w e r u,m w a r u,no,m w e r u,m w a r u,,needs-analyst-review,,transphone_yoruba_swahili
+ngirini,m i r ĩ n i,ŋ i r i n i,no,m i r ĩ n i,ŋ i r i n i,,needs-analyst-review,,transphone_yoruba_swahili
+njîra,d i r a,d i r a,yes,d i r a,,d i r a,auto-accepted,,transphone_yoruba_swahili
+raila,r a i l a,r a i l a,yes,r a i l a,,r a i l a,auto-accepted,,transphone_yoruba_swahili
+thìinìe,s i n i e,i n i a,no,s i n i e,i n i a,,needs-analyst-review,,transphone_yoruba_swahili
+thíinií,s i ĩ i,t i n i,no,s i ĩ i,t i n i,,needs-analyst-review,,transphone_yoruba_swahili
+ìtatū,i t a t u,i t a t u,yes,i t a t u,,i t a t u,auto-accepted,,transphone_yoruba_swahili
+íno,ĩ n o,i n ɔ,no,ĩ n o,i n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ùri,u r i,u r i,yes,u r i,,u r i,auto-accepted,,transphone_yoruba_swahili
+ùrio,u r i o,u r i ɔ,no,u r i o,u r i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ũndũire,o d o i r e,ɔ n d ɔ i r a,no,o d o i r e,ɔ n d ɔ i r a,,needs-analyst-review,,transphone_yoruba_swahili
+cio,t i o,t i ɔ,no,t i o,t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+githomo,ɡ i s o m o,ɡ i t ɔ m ɔ,no,ɡ i s o m o,ɡ i t ɔ m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+han,h ɔ̃,h a n,no,h ɔ̃,h a n,,needs-analyst-review,,transphone_yoruba_swahili
+harĩa,h a r e a,h a r a,no,h a r e a,h a r a,,needs-analyst-review,,transphone_yoruba_swahili
+ine,ĩ n e,i n a,no,ĩ n e,i n a,,needs-analyst-review,,transphone_yoruba_swahili
+international,ĩ t e r n a t i o n a l,i n t a r n a t i ɔ n a l,no,ĩ t e r n a t i o n a l,i n t a r n a t i ɔ n a l,,needs-analyst-review,,transphone_yoruba_swahili
+ithaa,i s a,i t a,no,i s a,i t a,,needs-analyst-review,,transphone_yoruba_swahili
+ithathatú,i s a s a t u,i t a t a t u,no,i s a s a t u,i t a t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+kanitha,k a n i s a,k a n i t a,no,k a n i s a,k a n i t a,,needs-analyst-review,,transphone_yoruba_swahili
+koori,k o r i,k ɔ r i,no,k o r i,k ɔ r i,,needs-analyst-review,,transphone_yoruba_swahili
+kìrìma,k i r i m a,k i r i m a,yes,k i r i m a,,k i r i m a,auto-accepted,,transphone_yoruba_swahili
+maguta,m a ɡ u t a,m a ɡ u t a,yes,m a ɡ u t a,,m a ɡ u t a,auto-accepted,,transphone_yoruba_swahili
+makoragwo,m a k o r a ɡ w o,m a k ɔ r a w ɔ,no,m a k o r a ɡ w o,m a k ɔ r a w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mara,m a r a,m a r a,yes,m a r a,,m a r a,auto-accepted,,transphone_yoruba_swahili
+mûgwanja,m u ɡ w ẽ d a,m u ɡ w a n ʃ a,no,m u ɡ w ẽ d a,m u ɡ w a n ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+nake,n a k e,n a k a,no,n a k e,n a k a,,needs-analyst-review,,transphone_yoruba_swahili
+ngima,m i m a,ŋ i m a,no,m i m a,ŋ i m a,,needs-analyst-review,,transphone_yoruba_swahili
+njega,d e ɡ a,d a ɡ a,no,d e ɡ a,d a ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+njogu,d o ɡ u,d ɔ ɡ u,no,d o ɡ u,d ɔ ɡ u,,needs-analyst-review,,transphone_yoruba_swahili
+nyamū,m a m u,ɲ a m u,no,m a m u,ɲ a m u,,needs-analyst-review,,transphone_yoruba_swahili
+nyúmba,m ũ b a,ɲ u m b a,no,m ũ b a,ɲ u m b a,,needs-analyst-review,,transphone_yoruba_swahili
+úrugarí,u r u ɡ a r i,u r u ɡ a r i,yes,u r u ɡ a r i,,u r u ɡ a r i,auto-accepted,,transphone_yoruba_swahili
+ũndũ,ũ d o,u ɔ d ɔ,no,ũ d o,u ɔ d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ũrugarĩ,o r u ɡ a r e,ɔ r u ɡ a r a,no,o r u ɡ a r e,ɔ r u ɡ a r a,,needs-analyst-review,,transphone_yoruba_swahili
+arìa,a r i a,a r i a,yes,a r i a,,a r i a,auto-accepted,,transphone_yoruba_swahili
+bururini,b u r u r ĩ n i,b u r u r i n i,no,b u r u r ĩ n i,b u r u r i n i,,needs-analyst-review,,transphone_yoruba_swahili
+gatagatĩ,ɡ a t a ɡ a t e,ɡ a t a ɡ a t a,no,ɡ a t a ɡ a t e,ɡ a t a ɡ a t a,,needs-analyst-review,,transphone_yoruba_swahili
+hĩndĩ,h ɛ̃ d e,h a d a,no,h ɛ̃ d e,h a d a,,needs-analyst-review,,transphone_yoruba_swahili
+jira,d i r a,ʃ i r a,no,d i r a,ʃ i r a,,needs-analyst-review,,transphone_yoruba_swahili
+maitho,m a i s o,m a i t ɔ,no,m a i s o,m a i t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+makîria,m a k i r i a,m a k i r i a,yes,m a k i r i a,,m a k i r i a,auto-accepted,,transphone_yoruba_swahili
+meerì,m e r i,m a r i,no,m e r i,m a r i,,needs-analyst-review,,transphone_yoruba_swahili
+muthemba,m u s ɛ̃ b a,m u t a m b a,no,m u s ɛ̃ b a,m u t a m b a,,needs-analyst-review,,transphone_yoruba_swahili
+mwiri,m w i r i,m w i r i,yes,m w i r i,,m w i r i,auto-accepted,,transphone_yoruba_swahili
+mûtongoria,m u t õ ɡ o r i a,m u t ɔ n ɡ ɔ r i a,no,m u t õ ɡ o r i a,m u t ɔ n ɡ ɔ r i a,,needs-analyst-review,,transphone_yoruba_swahili
+mũnene,m o n e n e,m ɔ n a n a,no,m o n e n e,m ɔ n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+nile,n i l e,n i l a,no,n i l e,n i l a,,needs-analyst-review,,transphone_yoruba_swahili
+njĩra,d e r a,d a r a,no,d e r a,d a r a,,needs-analyst-review,,transphone_yoruba_swahili
+nyoni,m o n i,ɲ ɔ n i,no,m o n i,ɲ ɔ n i,,needs-analyst-review,,transphone_yoruba_swahili
+ríera,r i e r a,r i a r a,no,r i e r a,r i a r a,,needs-analyst-review,,transphone_yoruba_swahili
+rîrîa,r i r i a,r i r i a,yes,r i r i a,,r i r i a,auto-accepted,,transphone_yoruba_swahili
+thamaki,s a m a k i,t a m a k i,no,s a m a k i,t a m a k i,,needs-analyst-review,,transphone_yoruba_swahili
+thukuru,s u k u r u,t u k u r u,no,s u k u r u,t u k u r u,,needs-analyst-review,,transphone_yoruba_swahili
+victoria,f i t o r i a,v i t ɔ r i a,no,f i t o r i a,v i t ɔ r i a,,needs-analyst-review,,transphone_yoruba_swahili
+wabici,w a b i t i,w a b i t i,yes,w a b i t i,,w a b i t i,auto-accepted,,transphone_yoruba_swahili
+wiki,w i k i,w i k i,yes,w i k i,,w i k i,auto-accepted,,transphone_yoruba_swahili
+wíra,w i r a,w i r a,yes,w i r a,,w i r a,auto-accepted,,transphone_yoruba_swahili
+anja,ɔ̃ d a,a d a,no,ɔ̃ d a,a d a,,needs-analyst-review,,transphone_yoruba_swahili
+arĩ,a r e,a r a,no,a r e,a r a,,needs-analyst-review,,transphone_yoruba_swahili
+atongoria,a t õ ɡ o r i a,a t ɔ ɡ ɔ r i a,no,a t õ ɡ o r i a,a t ɔ ɡ ɔ r i a,,needs-analyst-review,,transphone_yoruba_swahili
+bùrùri,b u r u r i,b u r u r i,yes,b u r u r i,,b u r u r i,auto-accepted,,transphone_yoruba_swahili
+eldoret,e l d o r e t,a l d ɔ r a t,no,e l d o r e t,a l d ɔ r a t,,needs-analyst-review,,transphone_yoruba_swahili
+gaka,ɡ a k a,ɡ a k a,yes,ɡ a k a,,ɡ a k a,auto-accepted,,transphone_yoruba_swahili
+irí,i r i,i r i,yes,i r i,,i r i,auto-accepted,,transphone_yoruba_swahili
+kihoto,k i h o t o,k i h ɔ t ɔ,no,k i h o t o,k i h ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kuura,k u r a,k u r a,yes,k u r a,,k u r a,auto-accepted,,transphone_yoruba_swahili
+marìa,m a r i a,m a r i a,yes,m a r i a,,m a r i a,auto-accepted,,transphone_yoruba_swahili
+maũndũ,m a õ d o,m a ɔ d ɔ,no,m a õ d o,m a ɔ d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mbunge,b ũ ɡ e,m b u ɡ a,no,b ũ ɡ e,m b u ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+meciria,m e t i r i a,m a t i r i a,no,m e t i r i a,m a t i r i a,,needs-analyst-review,,transphone_yoruba_swahili
+minister,m i n i s t e r,m i n i s t a r,no,m i n i s t e r,m i n i s t a r,,needs-analyst-review,,transphone_yoruba_swahili
+mirioni,m i r i o n i,m i r i ɔ n i,no,m i r i o n i,m i r i ɔ n i,,needs-analyst-review,,transphone_yoruba_swahili
+mwene,m w e n e,m w a n a,no,m w e n e,m w a n a,,needs-analyst-review,,transphone_yoruba_swahili
+múrúthi,m u r u s i,m u r u t i,no,m u r u s i,m u r u t i,,needs-analyst-review,,transphone_yoruba_swahili
+mūrūthi,m u r u s i,m u r u t i,no,m u r u s i,m u r u t i,,needs-analyst-review,,transphone_yoruba_swahili
+namo,n a m o,n a m ɔ,no,n a m o,n a m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nobel,n o b e l,n ɔ b a l,no,n o b e l,n ɔ b a l,,needs-analyst-review,,transphone_yoruba_swahili
+níwe,n i w e,n i w a,no,n i w e,n i w a,,needs-analyst-review,,transphone_yoruba_swahili
+paris,p a r i s,p a r i s,yes,p a r i s,,p a r i s,auto-accepted,,transphone_yoruba_swahili
+rímwe,r ĩ w e,r i m w a,no,r ĩ w e,r i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+rúi,r u i,r u i,yes,r u i,,r u i,auto-accepted,,transphone_yoruba_swahili
+tana,t a n a,t a n a,yes,t a n a,,t a n a,auto-accepted,,transphone_yoruba_swahili
+taúni,t a u n i,t a u n i,yes,t a u n i,,t a u n i,auto-accepted,,transphone_yoruba_swahili
+thii,s i,t i,no,s i,t i,,needs-analyst-review,,transphone_yoruba_swahili
+thíinie,s i ĩ i e,t i n i a,no,s i ĩ i e,t i n i a,,needs-analyst-review,,transphone_yoruba_swahili
+thíí,s i,t i,no,s i,t i,,needs-analyst-review,,transphone_yoruba_swahili
+united,u n i t e d,u n i t a d,no,u n i t e d,u n i t a d,,needs-analyst-review,,transphone_yoruba_swahili
+waguo,w a ɡ u o,w a ɡ u ɔ,no,w a ɡ u o,w a ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ûmûthî,u m u s i,u m u t i,no,u m u s i,u m u t i,,needs-analyst-review,,transphone_yoruba_swahili
+ūngì,ũ ɡ i,u ɡ i,no,ũ ɡ i,u ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+athaki,a s a k i,a t a k i,no,a s a k i,a t a k i,,needs-analyst-review,,transphone_yoruba_swahili
+biashara,b i a ʃ a r a,b i a ʃ a r a,yes,b i a ʃ a r a,,b i a ʃ a r a,auto-accepted,,transphone_yoruba_swahili
+ciringi,t i r ĩ ɡ i,t i r i ɡ i,no,t i r ĩ ɡ i,t i r i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+city,t i k,i t i ɟ,no,t i k,i t i ɟ,,needs-analyst-review,,transphone_yoruba_swahili
+daniel,d a n i e l,d a n i a l,no,d a n i e l,d a n i a l,,needs-analyst-review,,transphone_yoruba_swahili
+gatatu,ɡ a t a t u,ɡ a t a t u,yes,ɡ a t a t u,,ɡ a t a t u,auto-accepted,,transphone_yoruba_swahili
+gũkũ,ɡ o k o,ɡ ɔ k ɔ,no,ɡ o k o,ɡ ɔ k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+itano,i t a n o,i t a n ɔ,no,i t a n o,i t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ithatû,i s a t u,i t a t u,no,i s a t u,i t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+kagondu,k a ɡ õ d u,k a ɡ ɔ n d u,no,k a ɡ õ d u,k a ɡ ɔ n d u,,needs-analyst-review,,transphone_yoruba_swahili
+kibaki,k i b a k i,k i b a k i,yes,k i b a k i,,k i b a k i,auto-accepted,,transphone_yoruba_swahili
+korea,k o r e a,k ɔ r a,no,k o r e a,k ɔ r a,,needs-analyst-review,,transphone_yoruba_swahili
+kwaga,k a ɡ a,k a ɡ a,yes,k a ɡ a,,k a ɡ a,auto-accepted,,transphone_yoruba_swahili
+kìrìa,k i r i a,k i r i a,yes,k i r i a,,k i r i a,auto-accepted,,transphone_yoruba_swahili
+magúrú,m a ɡ u r u,m a ɡ u r u,yes,m a ɡ u r u,,m a ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+maūndū,m a ũ d u,m a u n d u,no,m a ũ d u,m a u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+mwĩlĩ,m w i l e,m w a l a,no,m w i l e,m w a l a,,needs-analyst-review,,transphone_yoruba_swahili
+mîena,m i e n a,m i a n a,no,m i e n a,m i a n a,,needs-analyst-review,,transphone_yoruba_swahili
+mùndù,m ũ d u,m u n d u,no,m ũ d u,m u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+mùrùthi,m u r u s i,m u r u t i,no,m u r u s i,m u r u t i,,needs-analyst-review,,transphone_yoruba_swahili
+múingí,m u ĩ ɡ i,m u i ɡ i,no,m u ĩ ɡ i,m u i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+niî,n i,n i,yes,n i,,n i,auto-accepted,,transphone_yoruba_swahili
+njamu,d a m u,d a m u,yes,d a m u,,d a m u,auto-accepted,,transphone_yoruba_swahili
+nyanya,m ã j a,ɲ a ɲ a,no,m ã j a,ɲ a ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+ota,o t a,ɔ t a,no,o t a,ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+riu,r i u,r i u,yes,r i u,,r i u,auto-accepted,,transphone_yoruba_swahili
+thoko,s o k o,t ɔ k ɔ,no,s o k o,t ɔ k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+thungura,s ũ ɡ u r a,t u ɡ u r a,no,s ũ ɡ u r a,t u ɡ u r a,,needs-analyst-review,,transphone_yoruba_swahili
+thí,s i,t i,no,s i,t i,,needs-analyst-review,,transphone_yoruba_swahili
+tondu,t o d u,t ɔ n d u,no,t o d u,t ɔ n d u,,needs-analyst-review,,transphone_yoruba_swahili
+ucio,u t i o,u t i ɔ,no,u t i o,u t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+university,u n i f e r s i k,u n i v a r s i ɟ,no,u n i f e r s i k,u n i v a r s i ɟ,,needs-analyst-review,,transphone_yoruba_swahili
+warì,w a r i,w a r i,yes,w a r i,,w a r i,auto-accepted,,transphone_yoruba_swahili
+íni,ĩ n i,i n i,no,ĩ n i,i n i,,needs-analyst-review,,transphone_yoruba_swahili
+aingì,a ĩ ɡ i,a i ɡ i,no,a ĩ ɡ i,a i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+angi,ã ɡ i,a ɡ i,no,ã ɡ i,a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+barabaraini,b a r a b a r a i n i,b a r a b a r a i n i,yes,b a r a b a r a i n i,,b a r a b a r a i n i,auto-accepted,,transphone_yoruba_swahili
+bengi,b ẽ ɡ i,b a ɡ i,no,b ẽ ɡ i,b a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+harìa,h a r i a,h a r i a,yes,h a r i a,,h a r i a,auto-accepted,,transphone_yoruba_swahili
+igúkorwo,i ɡ u k o r w o,i ɡ u k ɔ r w ɔ,no,i ɡ u k o r w o,i ɡ u k ɔ r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+jumaa,d u m a,ʃ u m a,no,d u m a,ʃ u m a,,needs-analyst-review,,transphone_yoruba_swahili
+kamwe,k ã w e,k a m w a,no,k ã w e,k a m w a,,needs-analyst-review,,transphone_yoruba_swahili
+kanua,k a n u a,k a n u a,yes,k a n u a,,k a n u a,auto-accepted,,transphone_yoruba_swahili
+kilometer,k i l o m e t e r,k i l ɔ m a t a r,no,k i l o m e t e r,k i l ɔ m a t a r,,needs-analyst-review,,transphone_yoruba_swahili
+kindiki,k ĩ d i k i,k i n d i k i,no,k ĩ d i k i,k i n d i k i,,needs-analyst-review,,transphone_yoruba_swahili
+kinene,k i n e n e,k i n a n a,no,k i n e n e,k i n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+kuga,k u ɡ a,k u ɡ a,yes,k u ɡ a,,k u ɡ a,auto-accepted,,transphone_yoruba_swahili
+kwí,k i,k i,yes,k i,,k i,auto-accepted,,transphone_yoruba_swahili
+kúhúra,k u h u r a,k u h u r a,yes,k u h u r a,,k u h u r a,auto-accepted,,transphone_yoruba_swahili
+marí,m a r i,m a r i,yes,m a r i,,m a r i,auto-accepted,,transphone_yoruba_swahili
+mayo,m a j o,m a j ɔ,no,m a j o,m a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mweru,m w e r u,m w a r u,no,m w e r u,m w a r u,,needs-analyst-review,,transphone_yoruba_swahili
+mìena,m i e n a,m i a n a,no,m i e n a,m i a n a,,needs-analyst-review,,transphone_yoruba_swahili
+naikuru,n a i k u r u,n a i k u r u,yes,n a i k u r u,,n a i k u r u,auto-accepted,,transphone_yoruba_swahili
+nairofi,n a i r o f i,n a i r ɔ f i,no,n a i r o f i,n a i r ɔ f i,,needs-analyst-review,,transphone_yoruba_swahili
+ngurani,ɡ u r a n i,ŋ u r a n i,no,ɡ u r a n i,ŋ u r a n i,,needs-analyst-review,,transphone_yoruba_swahili
+nîguo,n i ɡ u o,n i ɡ u ɔ,no,n i ɡ u o,n i ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nîyo,n i j o,n i j ɔ,no,n i j o,n i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+orange,o r ã ɡ e,ɔ r a ɡ a,no,o r ã ɡ e,ɔ r a ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+rírí,r i r i,r i r i,yes,r i r i,,r i r i,auto-accepted,,transphone_yoruba_swahili
+taoni,t a o n i,t a ɔ n i,no,t a o n i,t a ɔ n i,,needs-analyst-review,,transphone_yoruba_swahili
+tarìki,t a r i k i,t a r i k i,yes,t a r i k i,,t a r i k i,auto-accepted,,transphone_yoruba_swahili
+wagi,w a ɡ i,w a ɡ i,yes,w a ɡ i,,w a ɡ i,auto-accepted,,transphone_yoruba_swahili
+wendia,w ẽ d j a,w a n d i a,no,w ẽ d j a,w a n d i a,,needs-analyst-review,,transphone_yoruba_swahili
+wiyathi,w i j a s i,w i j a t i,no,w i j a s i,w i j a t i,,needs-analyst-review,,transphone_yoruba_swahili
+yayo,j a j o,j a j ɔ,no,j a j o,j a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ìngì,ĩ ɡ i,i ɡ i,no,ĩ ɡ i,i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+ìria,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+ìtandatū,i t ã d a t u,i t a d a t u,no,i t ã d a t u,i t a d a t u,,needs-analyst-review,,transphone_yoruba_swahili
+ùmotho,u m o s o,u m ɔ t ɔ,no,u m o s o,u m ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ùmuthi,u m u s i,u m u t i,no,u m u s i,u m u t i,,needs-analyst-review,,transphone_yoruba_swahili
+ũmwe,o m w e,ɔ m w a,no,o m w e,ɔ m w a,,needs-analyst-review,,transphone_yoruba_swahili
+and,ã d,a d,no,ã d,a d,,needs-analyst-review,,transphone_yoruba_swahili
+bere,b e r e,b a r a,no,b e r e,b a r a,,needs-analyst-review,,transphone_yoruba_swahili
+brazil,b r a s i l,b r a z i l,no,b r a s i l,b r a z i l,,needs-analyst-review,,transphone_yoruba_swahili
+celcius,t e l t i u s,t a l t i u s,no,t e l t i u s,t a l t i u s,,needs-analyst-review,,transphone_yoruba_swahili
+corner,t o r n e r,t ɔ r n a r,no,t o r n e r,t ɔ r n a r,,needs-analyst-review,,transphone_yoruba_swahili
+eliud,e l j u d,a l i u d,no,e l j u d,a l i u d,,needs-analyst-review,,transphone_yoruba_swahili
+family,f a m i l,f a m i j,no,f a m i l,f a m i j,,needs-analyst-review,,transphone_yoruba_swahili
+gatagatí,ɡ a t a ɡ a t i,ɡ a t a ɡ a t i,yes,ɡ a t a ɡ a t i,,ɡ a t a ɡ a t i,auto-accepted,,transphone_yoruba_swahili
+gicunji,ɡ i t ũ d i,ɡ i t u ʃ i,no,ɡ i t ũ d i,ɡ i t u ʃ i,,needs-analyst-review,,transphone_yoruba_swahili
+grey,ɡ r e j,ɡ r a j,no,ɡ r e j,ɡ r a j,,needs-analyst-review,,transphone_yoruba_swahili
+gìcunjì,ɡ i t ũ d i,ɡ i t u ʃ i,no,ɡ i t ũ d i,ɡ i t u ʃ i,,needs-analyst-review,,transphone_yoruba_swahili
+gùkù,ɡ u k u,ɡ u k u,yes,ɡ u k u,,ɡ u k u,auto-accepted,,transphone_yoruba_swahili
+handu,h ã d u,h a d u,no,h ã d u,h a d u,,needs-analyst-review,,transphone_yoruba_swahili
+igirí,i ɡ i r i,i ɡ i r i,yes,i ɡ i r i,,i ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+ithathatū,i s a s a t u,i t a t a t u,no,i s a s a t u,i t a t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+kang,k ã ɡ,k a ɡ,no,k ã ɡ,k a ɡ,,needs-analyst-review,,transphone_yoruba_swahili
+kimani,k i m a n i,k i m a n i,yes,k i m a n i,,k i m a n i,auto-accepted,,transphone_yoruba_swahili
+kíríma,k i r i m a,k i r i m a,yes,k i r i m a,,k i r i m a,auto-accepted,,transphone_yoruba_swahili
+kùuma,k u m a,k u m a,yes,k u m a,,k u m a,auto-accepted,,transphone_yoruba_swahili
+maaí,m a i,m a i,yes,m a i,,m a i,auto-accepted,,transphone_yoruba_swahili
+makìria,m a k i r i a,m a k i r i a,yes,m a k i r i a,,m a k i r i a,auto-accepted,,transphone_yoruba_swahili
+mana,m a n a,m a n a,yes,m a n a,,m a n a,auto-accepted,,transphone_yoruba_swahili
+mbarathi,b a r a s i,m b a r a t i,no,b a r a s i,m b a r a t i,,needs-analyst-review,,transphone_yoruba_swahili
+mbìa,m b i a,m b i a,yes,m b i a,,m b i a,auto-accepted,,transphone_yoruba_swahili
+mugwanja,m u ɡ w ẽ d a,m u ɡ w a n ʃ a,no,m u ɡ w ẽ d a,m u ɡ w a n ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+mwírí,m w i r i,m w i r i,yes,m w i r i,,m w i r i,auto-accepted,,transphone_yoruba_swahili
+múgwanja,m u ɡ w ẽ d a,m u ɡ w a n ʃ a,no,m u ɡ w ẽ d a,m u ɡ w a n ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+mĩaka,m e a k a,m a k a,no,m e a k a,m a k a,,needs-analyst-review,,transphone_yoruba_swahili
+mũgwanja,m o ɡ w ẽ d a,m ɔ ɡ w a ʃ a,no,m o ɡ w ẽ d a,m ɔ ɡ w a ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+ngi,m i,ŋ i,no,m i,ŋ i,,needs-analyst-review,,transphone_yoruba_swahili
+njiira,d i r a,d i r a,yes,d i r a,,d i r a,auto-accepted,,transphone_yoruba_swahili
+njíra,d i r a,d i r a,yes,d i r a,,d i r a,auto-accepted,,transphone_yoruba_swahili
+njûûi,d u i,u i,no,d u i,u i,,needs-analyst-review,,transphone_yoruba_swahili
+nyimbo,m ĩ b o,ɲ i b ɔ,no,m ĩ b o,ɲ i b ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+river,r i f e r,r i v a r,no,r i f e r,r i v a r,,needs-analyst-review,,transphone_yoruba_swahili
+rìu,r i u,r i u,yes,r i u,,r i u,auto-accepted,,transphone_yoruba_swahili
+rîmwe,r ĩ w e,r i m w a,no,r ĩ w e,r i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+rúciiní,r u t i n i,r u t i n i,yes,r u t i n i,,r u t i n i,auto-accepted,,transphone_yoruba_swahili
+rûhuho,r u h u h o,r u h u h ɔ,no,r u h u h o,r u h u h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+rĩrĩ,r e r e,r a r a,no,r e r e,r a r a,,needs-analyst-review,,transphone_yoruba_swahili
+rūhuho,r u h u h o,r u h u h ɔ,no,r u h u h o,r u h u h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+straight,s t r a i t,s t r a i t,yes,s t r a i t,,s t r a i t,auto-accepted,,transphone_yoruba_swahili
+thi,s i,t i,no,s i,t i,,needs-analyst-review,,transphone_yoruba_swahili
+thîiniî,s i ĩ i,t i n i,no,s i ĩ i,t i n i,,needs-analyst-review,,transphone_yoruba_swahili
+undu,ũ d u,u n d u,no,ũ d u,u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+ìtano,i t a n o,i t a n ɔ,no,i t a n o,i t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+íkoragwo,i k o r a ɡ w o,i k ɔ r a w ɔ,no,i k o r a ɡ w o,i k ɔ r a w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+úthie,u s i e,u t i a,no,u s i e,u t i a,,needs-analyst-review,,transphone_yoruba_swahili
+ûyû,u j u,u j u,yes,u j u,,u j u,auto-accepted,,transphone_yoruba_swahili
+ĩyo,e j o,a j ɔ,no,e j o,a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ūingìre,u ĩ ɡ i r e,u i ɡ i r a,no,u ĩ ɡ i r e,u i ɡ i r a,,needs-analyst-review,,transphone_yoruba_swahili
+ūmotho,u m o s o,u m ɔ t ɔ,no,u m o s o,u m ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ūrìo,u r i o,u r i ɔ,no,u r i o,u r i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+biú,b i u,b i u,yes,b i u,,b i u,auto-accepted,,transphone_yoruba_swahili
+faith,f a i s,f a i θ,no,f a i s,f a i θ,,needs-analyst-review,,transphone_yoruba_swahili
+gakiuga,ɡ a k i u ɡ a,ɡ a k i u ɡ a,yes,ɡ a k i u ɡ a,,ɡ a k i u ɡ a,auto-accepted,,transphone_yoruba_swahili
+gatatū,ɡ a t a t u,ɡ a t a t u,yes,ɡ a t a t u,,ɡ a t a t u,auto-accepted,,transphone_yoruba_swahili
+gìthaka,ɡ i s a k a,ɡ i t a k a,no,ɡ i s a k a,ɡ i t a k a,,needs-analyst-review,,transphone_yoruba_swahili
+gìthomo,ɡ i s o m o,ɡ i t ɔ m ɔ,no,ɡ i s o m o,ɡ i t ɔ m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gîkî,ɡ i k i,ɡ i k i,yes,ɡ i k i,,ɡ i k i,auto-accepted,,transphone_yoruba_swahili
+gūkorwo,ɡ u k o r w o,ɡ u k ɔ r w ɔ,no,ɡ u k o r w o,ɡ u k ɔ r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+igúka,i ɡ u k a,i ɡ u k a,yes,i ɡ u k a,,i ɡ u k a,auto-accepted,,transphone_yoruba_swahili
+john,d o ɔ̃,d ɔ n,no,d o ɔ̃,d ɔ n,,needs-analyst-review,,transphone_yoruba_swahili
+kìhooto,k i h o t o,k i h ɔ t ɔ,no,k i h o t o,k i h ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kûîna,k u ĩ n a,k u i n a,no,k u ĩ n a,k u i n a,,needs-analyst-review,,transphone_yoruba_swahili
+kĩrĩa,k e r e a,k a r a,no,k e r e a,k a r a,,needs-analyst-review,,transphone_yoruba_swahili
+maikaraga,m a i k a r a ɡ a,m a i k a r a ɡ a,yes,m a i k a r a ɡ a,,m a i k a r a ɡ a,auto-accepted,,transphone_yoruba_swahili
+manini,m a n ĩ n i,m a n i n i,no,m a n ĩ n i,m a n i n i,,needs-analyst-review,,transphone_yoruba_swahili
+maría,m a r i a,m a r i a,yes,m a r i a,,m a r i a,auto-accepted,,transphone_yoruba_swahili
+mathina,m a s i n a,m a t i n a,no,m a s i n a,m a t i n a,,needs-analyst-review,,transphone_yoruba_swahili
+mothe,m o s e,m ɔ t a,no,m o s e,m ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+múbira,m u b i r a,m u b i r a,yes,m u b i r a,,m u b i r a,auto-accepted,,transphone_yoruba_swahili
+múgwaja,m u ɡ w a d a,m u ɡ w a ʃ a,no,m u ɡ w a d a,m u ɡ w a ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+múirú,m u i r u,m u i r u,yes,m u i r u,,m u i r u,auto-accepted,,transphone_yoruba_swahili
+múnini,m u n ĩ n i,m u n i n i,no,m u n ĩ n i,m u n i n i,,needs-analyst-review,,transphone_yoruba_swahili
+mútongoria,m u t õ ɡ o r i a,m u t ɔ n ɡ ɔ r i a,no,m u t õ ɡ o r i a,m u t ɔ n ɡ ɔ r i a,,needs-analyst-review,,transphone_yoruba_swahili
+mûnene,m u n e n e,m u n a n a,no,m u n e n e,m u n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+mûrûthi,m u r u s i,m u r u t i,no,m u r u s i,m u r u t i,,needs-analyst-review,,transphone_yoruba_swahili
+nao,n a o,n a ɔ,no,n a o,n a ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ng'ondu,ɡ õ d u,ŋ ɔ n d u,no,ɡ õ d u,ŋ ɔ n d u,,needs-analyst-review,,transphone_yoruba_swahili
+noguo,n o ɡ u o,n ɔ ɡ u ɔ,no,n o ɡ u o,n ɔ ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+purple,p u r p l e,p u r p l a,no,p u r p l e,p u r p l a,,needs-analyst-review,,transphone_yoruba_swahili
+rectangle,r e t ɔ̃ ɡ l e,r ɛ a t a ɡ l a,no,r e t ɔ̃ ɡ l e,r ɛ a t a ɡ l a,,needs-analyst-review,,transphone_yoruba_swahili
+rūūì,r u i,r u i,yes,r u i,,r u i,auto-accepted,,transphone_yoruba_swahili
+tarîki,t a r i k i,t a r i k i,yes,t a r i k i,,t a r i k i,auto-accepted,,transphone_yoruba_swahili
+thibindi,s i b ĩ d i,t i b i n d i,no,s i b ĩ d i,t i b i n d i,,needs-analyst-review,,transphone_yoruba_swahili
+urugari,u r u ɡ a r i,u r u ɡ a r i,yes,u r u ɡ a r i,,u r u ɡ a r i,auto-accepted,,transphone_yoruba_swahili
+woothe,w o s e,w ɔ t a,no,w o s e,w ɔ t a,,needs-analyst-review,,transphone_yoruba_swahili
+îyo,i j o,i j ɔ,no,i j o,i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+úndu,ũ d u,u d u,no,ũ d u,u d u,,needs-analyst-review,,transphone_yoruba_swahili
+ûmwe,ũ w e,u m w a,no,ũ w e,u m w a,,needs-analyst-review,,transphone_yoruba_swahili
+ĩtatũ,i t a t o,a t a t ɔ,no,i t a t o,a t a t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ūthiì,u s i,u t i,no,u s i,u t i,,needs-analyst-review,,transphone_yoruba_swahili
+akiuga,a k i u ɡ a,a k i u ɡ a,yes,a k i u ɡ a,,a k i u ɡ a,auto-accepted,,transphone_yoruba_swahili
+arap,a r a p,a r a p,yes,a r a p,,a r a p,auto-accepted,,transphone_yoruba_swahili
+black,b l a t k,b l a t k,yes,b l a t k,,b l a t k,auto-accepted,,transphone_yoruba_swahili
+easter,e a s t e r,a s t a r,no,e a s t e r,a s t a r,,needs-analyst-review,,transphone_yoruba_swahili
+gatambi,ɡ a t ã b i,ɡ a t a m b i,no,ɡ a t ã b i,ɡ a t a m b i,,needs-analyst-review,,transphone_yoruba_swahili
+gukorwo,ɡ u k o r w o,ɡ u k ɔ r w ɔ,no,ɡ u k o r w o,ɡ u k ɔ r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+guoya,ɡ w o j a,ɡ u ɔ j a,no,ɡ w o j a,ɡ u ɔ j a,,needs-analyst-review,,transphone_yoruba_swahili
+gwetha,ɡ w e s a,ɡ a t a,no,ɡ w e s a,ɡ a t a,,needs-analyst-review,,transphone_yoruba_swahili
+gîthiûrûrî,ɡ i t i u r u r i,ɡ i t i u r u r i,yes,ɡ i t i u r u r i,,ɡ i t i u r u r i,auto-accepted,,transphone_yoruba_swahili
+gúthií,ɡ u s i,ɡ u t i,no,ɡ u s i,ɡ u t i,,needs-analyst-review,,transphone_yoruba_swahili
+gĩkĩro,ɡ e k e r o,ɡ a k a r ɔ,no,ɡ e k e r o,ɡ a k a r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gūthiì,ɡ u s i,ɡ u t i,no,ɡ u s i,ɡ u t i,,needs-analyst-review,,transphone_yoruba_swahili
+hakuhi,h a k u h i,h a k u h i,yes,h a k u h i,,h a k u h i,auto-accepted,,transphone_yoruba_swahili
+hindi,h ĩ d i,h i n d i,no,h ĩ d i,h i n d i,,needs-analyst-review,,transphone_yoruba_swahili
+honge,h o ɡ e,h ɔ ɡ a,no,h o ɡ e,h ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+ihooto,i h o t o,i h ɔ t ɔ,no,i h o t o,i h ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+jumatatu,d u m a t a t u,ʃ u m a t a t u,no,d u m a t a t u,ʃ u m a t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+kahūa,k a h u a,k a h u a,yes,k a h u a,,k a h u a,auto-accepted,,transphone_yoruba_swahili
+kimwe,k ĩ w e,k i m w a,no,k ĩ w e,k i m w a,,needs-analyst-review,,transphone_yoruba_swahili
+kîrîma,k i r i m a,k i r i m a,yes,k i r i m a,,k i r i m a,auto-accepted,,transphone_yoruba_swahili
+kùùma,k u m a,k u m a,yes,k u m a,,k u m a,auto-accepted,,transphone_yoruba_swahili
+mahiga,m a h i ɡ a,m a h i ɡ a,yes,m a h i ɡ a,,m a h i ɡ a,auto-accepted,,transphone_yoruba_swahili
+mangi,m ã ɡ i,m a ɡ i,no,m ã ɡ i,m a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+maúndú,m a ũ d u,m a u n d u,no,m a ũ d u,m a u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+meru,m e r u,m a r u,no,m e r u,m a r u,,needs-analyst-review,,transphone_yoruba_swahili
+merî,m e r i,m a r i,no,m e r i,m a r i,,needs-analyst-review,,transphone_yoruba_swahili
+muingi,m w ĩ ɡ i,m u i ɡ i,no,m w ĩ ɡ i,m u i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+muruthi,m u r u s i,m u r u t i,no,m u r u s i,m u r u t i,,needs-analyst-review,,transphone_yoruba_swahili
+mwakaini,m w a k a ĩ n i,m w a k a i n i,no,m w a k a ĩ n i,m w a k a i n i,,needs-analyst-review,,transphone_yoruba_swahili
+mwerũ,m w e r o,m w a r ɔ,no,m w e r o,m w a r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mìtì,m i t i,m i t i,yes,m i t i,,m i t i,auto-accepted,,transphone_yoruba_swahili
+múcií,m u t i,m u t i,yes,m u t i,,m u t i,auto-accepted,,transphone_yoruba_swahili
+múthige,m u s i ɡ e,m u t i ɡ a,no,m u s i ɡ e,m u t i ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+mûirû,m u i r u,m u i r u,yes,m u i r u,,m u i r u,auto-accepted,,transphone_yoruba_swahili
+mũrũthi,m o r o s i,m ɔ r ɔ t i,no,m o r o s i,m ɔ r ɔ t i,,needs-analyst-review,,transphone_yoruba_swahili
+ndaraca,d a r a t a,d a r a t a,yes,d a r a t a,,d a r a t a,auto-accepted,,transphone_yoruba_swahili
+ningî,n ĩ ɡ i,n i ɡ i,no,n ĩ ɡ i,n i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+nyeri,m e r i,ɲ a r i,no,m e r i,ɲ a r i,,needs-analyst-review,,transphone_yoruba_swahili
+nyingí,m ĩ ɡ i,ɲ i ɡ i,no,m ĩ ɡ i,ɲ i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+nìkìo,n i k i o,n i k i ɔ,no,n i k i o,n i k i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nĩyo,n e j o,n a j ɔ,no,n e j o,n a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+prize,p r i s e,p r i z a,no,p r i s e,p r i z a,,needs-analyst-review,,transphone_yoruba_swahili
+raini,r a ĩ n i,r a i n i,no,r a ĩ n i,r a i n i,,needs-analyst-review,,transphone_yoruba_swahili
+reke,r e k e,r a k a,no,r e k e,r a k a,,needs-analyst-review,,transphone_yoruba_swahili
+riake,r i a k e,r i a k a,no,r i a k e,r i a k a,,needs-analyst-review,,transphone_yoruba_swahili
+ruhuho,r u h u h o,r u h u h ɔ,no,r u h u h o,r u h u h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+rwanda,r w ẽ d a,r w a d a,no,r w ẽ d a,r w a d a,,needs-analyst-review,,transphone_yoruba_swahili
+rúúí,r u i,r u i,yes,r u i,,r u i,auto-accepted,,transphone_yoruba_swahili
+square,s k w a r e,s k w a r a,no,s k w a r e,s k w a r a,,needs-analyst-review,,transphone_yoruba_swahili
+uteti,u t e t i,u t a t i,no,u t e t i,u t a t i,,needs-analyst-review,,transphone_yoruba_swahili
+wagatano,w a ɡ a t a n o,w a ɡ a t a n ɔ,no,w a ɡ a t a n o,w a ɡ a t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wiira,w i r a,w i r a,yes,w i r a,,w i r a,auto-accepted,,transphone_yoruba_swahili
+wìna,w ĩ n a,w i n a,no,w ĩ n a,w i n a,,needs-analyst-review,,transphone_yoruba_swahili
+úkinye,u k ĩ e,u k i ɲ a,no,u k ĩ e,u k i ɲ a,,needs-analyst-review,,transphone_yoruba_swahili
+úkoragwo,u k o r a ɡ w o,u k ɔ r a w ɔ,no,u k o r a ɡ w o,u k ɔ r a w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ĩkoragwo,e k o r a ɡ w o,a k ɔ r a w ɔ,no,e k o r a ɡ w o,a k ɔ r a w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+afrika,a f r i k a,a f r i k a,yes,a f r i k a,,a f r i k a,auto-accepted,,transphone_yoruba_swahili
+amwe,a m w e,a m w a,no,a m w e,a m w a,,needs-analyst-review,,transphone_yoruba_swahili
+aruti,a r u t i,a r u t i,yes,a r u t i,,a r u t i,auto-accepted,,transphone_yoruba_swahili
+arĩa,a r e a,a r a,no,a r e a,a r a,,needs-analyst-review,,transphone_yoruba_swahili
+atia,a t i a,a t i a,yes,a t i a,,a t i a,auto-accepted,,transphone_yoruba_swahili
+gachagua,ɡ a t a ɡ w a,ɡ a t a ɡ u a,no,ɡ a t a ɡ w a,ɡ a t a ɡ u a,,needs-analyst-review,,transphone_yoruba_swahili
+gatano,ɡ a t a n o,ɡ a t a n ɔ,no,ɡ a t a n o,ɡ a t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gĩkĩ,ɡ e k e,ɡ a k a,no,ɡ e k e,ɡ a k a,,needs-analyst-review,,transphone_yoruba_swahili
+ikombe,i k o m b e,i k ɔ m b a,no,i k o m b e,i k ɔ m b a,,needs-analyst-review,,transphone_yoruba_swahili
+ingì,ĩ ɡ i,i ɡ i,no,ĩ ɡ i,i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+itîîna,i t i n a,i t i n a,yes,i t i n a,,i t i n a,auto-accepted,,transphone_yoruba_swahili
+kiharo,k i h a r o,k i h a r ɔ,no,k i h a r o,k i h a r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kìnene,k i n e n e,k i n a n a,no,k i n e n e,k i n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+kúría,k u r i a,k u r i a,yes,k u r i a,,k u r i a,auto-accepted,,transphone_yoruba_swahili
+kûrîa,k u r i a,k u r i a,yes,k u r i a,,k u r i a,auto-accepted,,transphone_yoruba_swahili
+kĩndũ,k ẽ d o,k a n d ɔ,no,k ẽ d o,k a n d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mabururi,m a b u r u r i,m a b u r u r i,yes,m a b u r u r i,,m a b u r u r i,auto-accepted,,transphone_yoruba_swahili
+mamwe,m a m w e,m a m w a,no,m a m w e,m a m w a,,needs-analyst-review,,transphone_yoruba_swahili
+mangí,m ɔ̃ ɡ i,m a ɡ i,no,m ɔ̃ ɡ i,m a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+mao,m a o,m a ɔ,no,m a o,m a ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+matatú,m a t a t u,m a t a t u,yes,m a t a t u,,m a t a t u,auto-accepted,,transphone_yoruba_swahili
+mbembe,b ɛ̃ b e,m b a m b a,no,b ɛ̃ b e,m b a m b a,,needs-analyst-review,,transphone_yoruba_swahili
+mboco,b o t o,m b ɔ t ɔ,no,b o t o,m b ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+meri,m e r i,m a r i,no,m e r i,m a r i,,needs-analyst-review,,transphone_yoruba_swahili
+merĩ,m e r e,m a r a,no,m e r e,m a r a,,needs-analyst-review,,transphone_yoruba_swahili
+million,m i l j õ,m i l i ɔ n,no,m i l j õ,m i l i ɔ n,,needs-analyst-review,,transphone_yoruba_swahili
+muthaki,m u s a k i,m u t a k i,no,m u s a k i,m u t a k i,,needs-analyst-review,,transphone_yoruba_swahili
+muthige,m u s i ɡ e,m u t i ɡ a,no,m u s i ɡ e,m u t i ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+mwìrì,m w i r i,m w i r i,yes,m w i r i,,m w i r i,auto-accepted,,transphone_yoruba_swahili
+mũbira,m o b i r a,m ɔ b i r a,no,m o b i r a,m ɔ b i r a,,needs-analyst-review,,transphone_yoruba_swahili
+mūthige,m u s i ɡ e,m u t i ɡ a,no,m u s i ɡ e,m u t i ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+nií,n i,n i,yes,n i,,n i,auto-accepted,,transphone_yoruba_swahili
+njata,d a t a,d a t a,yes,d a t a,,d a t a,auto-accepted,,transphone_yoruba_swahili
+nyūmba,m ũ b a,ɲ u m b a,no,m ũ b a,ɲ u m b a,,needs-analyst-review,,transphone_yoruba_swahili
+nìyo,n i j o,n i j ɔ,no,n i j o,n i j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nĩwe,n e w e,n a w a,no,n e w e,n a w a,,needs-analyst-review,,transphone_yoruba_swahili
+oya,o j a,ɔ j a,no,o j a,ɔ j a,,needs-analyst-review,,transphone_yoruba_swahili
+rúrú,r u r u,r u r u,yes,r u r u,,r u r u,auto-accepted,,transphone_yoruba_swahili
+rūrìa,r u r i a,r u r i a,yes,r u r i a,,r u r i a,auto-accepted,,transphone_yoruba_swahili
+santos,s ɔ̃ t o s,s a n t ɔ s,no,s ɔ̃ t o s,s a n t ɔ s,,needs-analyst-review,,transphone_yoruba_swahili
+sayansi,s a j ẽ s i,s a j a s i,no,s a j ẽ s i,s a j a s i,,needs-analyst-review,,transphone_yoruba_swahili
+somalia,s o m a l i a,s ɔ m a l i a,no,s o m a l i a,s ɔ m a l i a,,needs-analyst-review,,transphone_yoruba_swahili
+thengia,s e ɡ i a,t a ɡ i a,no,s e ɡ i a,t a ɡ i a,,needs-analyst-review,,transphone_yoruba_swahili
+uri,u r i,u r i,yes,u r i,,u r i,auto-accepted,,transphone_yoruba_swahili
+wakana,w a k a n a,w a k a n a,yes,w a k a n a,,w a k a n a,auto-accepted,,transphone_yoruba_swahili
+wĩyathi,w e j a s i,w a j a t i,no,w e j a s i,w a j a t i,,needs-analyst-review,,transphone_yoruba_swahili
+úmotho,u m o s o,u m ɔ t ɔ,no,u m o s o,u m ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ûcio,u t i o,u t i ɔ,no,u t i o,u t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ûmotho,u m o s o,u m ɔ t ɔ,no,u m o s o,u m ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ũcio,o t i o,ɔ t i ɔ,no,o t i o,ɔ t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+aciari,a t i a r i,a t i a r i,yes,a t i a r i,,a t i a r i,auto-accepted,,transphone_yoruba_swahili
+arata,a r a t a,a r a t a,yes,a r a t a,,a r a t a,auto-accepted,,transphone_yoruba_swahili
+atí,a t i,a t i,yes,a t i,,a t i,auto-accepted,,transphone_yoruba_swahili
+aumite,a u m i t e,a u m i t a,no,a u m i t e,a u m i t a,,needs-analyst-review,,transphone_yoruba_swahili
+friday,f r i d a j,f r i d a j,yes,f r i d a j,,f r i d a j,auto-accepted,,transphone_yoruba_swahili
+gatagatî,ɡ a t a ɡ a t i,ɡ a t a ɡ a t i,yes,ɡ a t a ɡ a t i,,ɡ a t a ɡ a t i,auto-accepted,,transphone_yoruba_swahili
+giake,ɡ i a k e,ɡ i a k a,no,ɡ i a k e,ɡ i a k a,,needs-analyst-review,,transphone_yoruba_swahili
+gwake,ɡ w a k e,ɡ w a k a,no,ɡ w a k e,ɡ w a k a,,needs-analyst-review,,transphone_yoruba_swahili
+gìtììri,ɡ i t i r i,ɡ i t i r i,yes,ɡ i t i r i,,ɡ i t i r i,auto-accepted,,transphone_yoruba_swahili
+gíthomo,ɡ i s o m o,ɡ i t ɔ m ɔ,no,ɡ i s o m o,ɡ i t ɔ m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gùkorwo,ɡ u k o r w o,ɡ u k ɔ r w ɔ,no,ɡ u k o r w o,ɡ u k ɔ r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gúkorwo,ɡ u k o r w o,ɡ u k ɔ r w ɔ,no,ɡ u k o r w o,ɡ u k ɔ r w ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gútirí,ɡ u t i r i,ɡ u t i r i,yes,ɡ u t i r i,,ɡ u t i r i,auto-accepted,,transphone_yoruba_swahili
+gĩthomo,ɡ e s o m o,ɡ a t ɔ m ɔ,no,ɡ e s o m o,ɡ a t ɔ m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+handũ,h ã d o,h a d ɔ,no,h ã d o,h a d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+handū,h ã d u,h a n d u,no,h ã d u,h a n d u,,needs-analyst-review,,transphone_yoruba_swahili
+huho,h u h o,h u h ɔ,no,h u h o,h u h ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+inana,ĩ n a n a,i n a n a,no,ĩ n a n a,i n a n a,,needs-analyst-review,,transphone_yoruba_swahili
+ingí,ĩ ɡ i,i ɡ i,no,ĩ ɡ i,i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+jumaine,d u m a i n e,ʃ u m a i n a,no,d u m a i n e,ʃ u m a i n a,,needs-analyst-review,,transphone_yoruba_swahili
+kaba,k a b a,k a b a,yes,k a b a,,k a b a,auto-accepted,,transphone_yoruba_swahili
+kihooto,k i h o t o,k i h ɔ t ɔ,no,k i h o t o,k i h ɔ t ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+kipyegon,k i p j e ɡ õ,k i p j a ɡ ɔ n,no,k i p j e ɡ õ,k i p j a ɡ ɔ n,,needs-analyst-review,,transphone_yoruba_swahili
+kori,k o r i,k ɔ r i,no,k o r i,k ɔ r i,,needs-analyst-review,,transphone_yoruba_swahili
+kuhura,k u h u r a,k u h u r a,yes,k u h u r a,,k u h u r a,auto-accepted,,transphone_yoruba_swahili
+kìama,k i a m a,k i a m a,yes,k i a m a,,k i a m a,auto-accepted,,transphone_yoruba_swahili
+maai,m a i,m a i,yes,m a i,,m a i,auto-accepted,,transphone_yoruba_swahili
+machakos,m a t a k o s,m a t a k ɔ s,no,m a t a k o s,m a t a k ɔ s,,needs-analyst-review,,transphone_yoruba_swahili
+makiri,m a k i r i,m a k i r i,yes,m a k i r i,,m a k i r i,auto-accepted,,transphone_yoruba_swahili
+marîa,m a r i a,m a r i a,yes,m a r i a,,m a r i a,auto-accepted,,transphone_yoruba_swahili
+mbata,b a t a,m b a t a,no,b a t a,m b a t a,,needs-analyst-review,,transphone_yoruba_swahili
+mbogo,b o ɡ o,m b ɔ ɡ ɔ,no,b o ɡ o,m b ɔ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+millioni,m i l j o n i,m i l i ɔ n i,no,m i l j o n i,m i l i ɔ n i,,needs-analyst-review,,transphone_yoruba_swahili
+minista,m i n i s t a,m i n i s t a,yes,m i n i s t a,,m i n i s t a,auto-accepted,,transphone_yoruba_swahili
+mutongoria,m u t õ ɡ o r i a,m u t ɔ n ɡ ɔ r i a,no,m u t õ ɡ o r i a,m u t ɔ n ɡ ɔ r i a,,needs-analyst-review,,transphone_yoruba_swahili
+mîaka,m i a k a,m i a k a,yes,m i a k a,,m i a k a,auto-accepted,,transphone_yoruba_swahili
+mùcoro,m u t o r o,m u t ɔ r ɔ,no,m u t o r o,m u t ɔ r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+múthaki,m u s a k i,m u t a k i,no,m u s a k i,m u t a k i,,needs-analyst-review,,transphone_yoruba_swahili
+mûbira,m u b i r a,m u b i r a,yes,m u b i r a,,m u b i r a,auto-accepted,,transphone_yoruba_swahili
+mûciì,m u t i,m u t i,yes,m u t i,,m u t i,auto-accepted,,transphone_yoruba_swahili
+mûingî,m u ĩ ɡ i,m u i ɡ i,no,m u ĩ ɡ i,m u i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+mūhuro,m u h u r o,m u h u r ɔ,no,m u h u r o,m u h u r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+mūtune,m u t u n e,m u t u n a,no,m u t u n e,m u t u n a,,needs-analyst-review,,transphone_yoruba_swahili
+mūtì,m u t i,m u t i,yes,m u t i,,m u t i,auto-accepted,,transphone_yoruba_swahili
+nako,n a k o,n a k ɔ,no,n a k o,n a k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nanyuki,n ã j u k i,n a ɲ u k i,no,n ã j u k i,n a ɲ u k i,,needs-analyst-review,,transphone_yoruba_swahili
+ndini,d ĩ n i,d i n i,no,d ĩ n i,d i n i,,needs-analyst-review,,transphone_yoruba_swahili
+nduka,d u k a,d u k a,yes,d u k a,,d u k a,auto-accepted,,transphone_yoruba_swahili
+neti,n e t i,n a t i,no,n e t i,n a t i,,needs-analyst-review,,transphone_yoruba_swahili
+njaa,d a,a,no,d a,a,,needs-analyst-review,,transphone_yoruba_swahili
+nyingî,m ĩ ɡ i,ɲ i ɡ i,no,m ĩ ɡ i,ɲ i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+nîwe,n i w e,n i w a,no,n i w e,n i w a,,needs-analyst-review,,transphone_yoruba_swahili
+nîûndû,n i ũ d u,n i u d u,no,n i ũ d u,n i u d u,,needs-analyst-review,,transphone_yoruba_swahili
+nĩũndũ,n e o d o,n a ɔ d ɔ,no,n e o d o,n a ɔ d ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+one,o n e,ɔ n a,no,o n e,ɔ n a,,needs-analyst-review,,transphone_yoruba_swahili
+rigathi,r i ɡ a s i,r i ɡ a t i,no,r i ɡ a s i,r i ɡ a t i,,needs-analyst-review,,transphone_yoruba_swahili
+rugongo,r u ɡ o ɡ o,r u ɡ ɔ ŋ ɡ ɔ,no,r u ɡ o ɡ o,r u ɡ ɔ ŋ ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+rûa,r u a,r u a,yes,r u a,,r u a,auto-accepted,,transphone_yoruba_swahili
+rĩera,r e r a,r a r a,no,r e r a,r a r a,,needs-analyst-review,,transphone_yoruba_swahili
+stadium,s t a d i ũ,s t a d i u m,no,s t a d i ũ,s t a d i u m,,needs-analyst-review,,transphone_yoruba_swahili
+utonga,u t o ɡ a,u t ɔ ɡ a,no,u t o ɡ a,u t ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+way,w a j,w a j,yes,w a j,,w a j,auto-accepted,,transphone_yoruba_swahili
+wina,w ĩ n a,w i n a,no,w ĩ n a,w i n a,,needs-analyst-review,,transphone_yoruba_swahili
+wiyune,w i j u n e,w i j u n a,no,w i j u n e,w i j u n a,,needs-analyst-review,,transphone_yoruba_swahili
+wíyathi,w i j a s i,w i j a t i,no,w i j a s i,w i j a t i,,needs-analyst-review,,transphone_yoruba_swahili
+yaku,j a k u,j a k u,yes,j a k u,,j a k u,auto-accepted,,transphone_yoruba_swahili
+yoothe,j o s e,j ɔ ð a,no,j o s e,j ɔ ð a,,needs-analyst-review,,transphone_yoruba_swahili
+írio,i r i o,i r i ɔ,no,i r i o,i r i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+îtatû,i t a t u,i t a t u,yes,i t a t u,,i t a t u,auto-accepted,,transphone_yoruba_swahili
+útonga,u t o ɡ a,u t ɔ ɡ a,no,u t o ɡ a,u t ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+ûndû,ũ d u,u d u,no,ũ d u,u d u,,needs-analyst-review,,transphone_yoruba_swahili
+ūteti,u t e t i,u t a t i,no,u t e t i,u t a t i,,needs-analyst-review,,transphone_yoruba_swahili
+ūtonga,u t o ɡ a,u t ɔ ɡ a,no,u t o ɡ a,u t ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+angí,ã ɡ i,a ɡ i,no,ã ɡ i,a ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+apple,a p l e,a p l a,no,a p l e,a p l a,,needs-analyst-review,,transphone_yoruba_swahili
+baba,b a b a,b a b a,yes,b a b a,,b a b a,auto-accepted,,transphone_yoruba_swahili
+borithi,b o r i s i,b ɔ r i t i,no,b o r i s i,b ɔ r i t i,,needs-analyst-review,,transphone_yoruba_swahili
+dini,d i n i,d i n i,yes,d i n i,,d i n i,auto-accepted,,transphone_yoruba_swahili
+gatiba,ɡ a t i b a,ɡ a t i b a,yes,ɡ a t i b a,,ɡ a t i b a,auto-accepted,,transphone_yoruba_swahili
+geography,ɡ e o ɡ r a f j,ɡ a ɔ ɡ r a f i,no,ɡ e o ɡ r a f j,ɡ a ɔ ɡ r a f i,,needs-analyst-review,,transphone_yoruba_swahili
+gikiro,ɡ i k i r o,ɡ i k i r ɔ,no,ɡ i k i r o,ɡ i k i r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gìtì,ɡ i t i,ɡ i t i,yes,ɡ i t i,,ɡ i t i,auto-accepted,,transphone_yoruba_swahili
+igùrù,i ɡ u r u,i ɡ u r u,yes,i ɡ u r u,,i ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+iría,i r i a,i r i a,yes,i r i a,,i r i a,auto-accepted,,transphone_yoruba_swahili
+itatu,i t a t u,i t a t u,yes,i t a t u,,i t a t u,auto-accepted,,transphone_yoruba_swahili
+itemi,i t e m i,i t a m i,no,i t e m i,i t a m i,,needs-analyst-review,,transphone_yoruba_swahili
+kahúa,k a h u a,k a h u a,yes,k a h u a,,k a h u a,auto-accepted,,transphone_yoruba_swahili
+kanana,k a n a n a,k a n a n a,yes,k a n a n a,,k a n a n a,auto-accepted,,transphone_yoruba_swahili
+kirima,k i r i m a,k i r i m a,yes,k i r i m a,,k i r i m a,auto-accepted,,transphone_yoruba_swahili
+kithure,k i s u r e,k i t u r a,no,k i s u r e,k i t u r a,,needs-analyst-review,,transphone_yoruba_swahili
+kuringana,k u r ĩ ɡ a n a,k u r i ɡ a n a,no,k u r ĩ ɡ a n a,k u r i ɡ a n a,,needs-analyst-review,,transphone_yoruba_swahili
+kúri,k u r i,k u r i,yes,k u r i,,k u r i,auto-accepted,,transphone_yoruba_swahili
+mabũrũri,m a b o r o r i,m a b ɔ r ɔ r i,no,m a b o r o r i,m a b ɔ r ɔ r i,,needs-analyst-review,,transphone_yoruba_swahili
+madaraka,m a d a r a k a,m a d a r a k a,yes,m a d a r a k a,,m a d a r a k a,auto-accepted,,transphone_yoruba_swahili
+maingì,m a ĩ ɡ i,m a i ɡ i,no,m a ĩ ɡ i,m a i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+matatu,m a t a t u,m a t a t u,yes,m a t a t u,,m a t a t u,auto-accepted,,transphone_yoruba_swahili
+maùndù,m a ũ d u,m a u n d u,no,m a ũ d u,m a u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+mbaù,b a u,m b a u,no,b a u,m b a u,,needs-analyst-review,,transphone_yoruba_swahili
+metre,m e t r e,m a t r a,no,m e t r e,m a t r a,,needs-analyst-review,,transphone_yoruba_swahili
+moothe,m o s e,m ɔ ð a,no,m o s e,m ɔ ð a,,needs-analyst-review,,transphone_yoruba_swahili
+mubira,m u b i r a,m u b i r a,yes,m u b i r a,,m u b i r a,auto-accepted,,transphone_yoruba_swahili
+mugwaja,m u ɡ w a d a,m u ɡ w a d a,yes,m u ɡ w a d a,,m u ɡ w a d a,auto-accepted,,transphone_yoruba_swahili
+muiru,m u i r u,m u i r u,yes,m u i r u,,m u i r u,auto-accepted,,transphone_yoruba_swahili
+mutune,m u t u n e,m u t u n a,no,m u t u n e,m u t u n a,,needs-analyst-review,,transphone_yoruba_swahili
+mútune,m u t u n e,m u t u n a,no,m u t u n e,m u t u n a,,needs-analyst-review,,transphone_yoruba_swahili
+mūthia,m u s i a,m u t i a,no,m u s i a,m u t i a,,needs-analyst-review,,transphone_yoruba_swahili
+nawe,n a w e,n a w a,no,n a w e,n a w a,,needs-analyst-review,,transphone_yoruba_swahili
+ndigirii,d i ɡ i r i,d i ɡ i r i,yes,d i ɡ i r i,,d i ɡ i r i,auto-accepted,,transphone_yoruba_swahili
+negative,n e ɡ a t i f e,n a ɡ a t i v a,no,n e ɡ a t i f e,n a ɡ a t i v a,,needs-analyst-review,,transphone_yoruba_swahili
+new,n e w,n a w,no,n e w,n a w,,needs-analyst-review,,transphone_yoruba_swahili
+ngothi,m o s i,ŋ ɔ t i,no,m o s i,ŋ ɔ t i,,needs-analyst-review,,transphone_yoruba_swahili
+nio,n i o,n i ɔ,no,n i o,n i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nuclear,n u t l e a r,n u t l a r,no,n u t l e a r,n u t l a r,,needs-analyst-review,,transphone_yoruba_swahili
+nyahururu,m a h u r u r u,ɲ a h u r u r u,no,m a h u r u r u,ɲ a h u r u r u,,needs-analyst-review,,transphone_yoruba_swahili
+nyamũ,m a m o,ɲ a m ɔ,no,m a m o,ɲ a m ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nyumba,m ũ b a,ɲ u m b a,no,m ũ b a,ɲ u m b a,,needs-analyst-review,,transphone_yoruba_swahili
+nìkuo,n i k u o,n i k u ɔ,no,n i k u o,n i k u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nìo,n i o,n i ɔ,no,n i o,n i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nìrìo,n i r i o,n i r i ɔ,no,n i r i o,n i r i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+nìūndū,n i ũ d u,n i u n d u,no,n i ũ d u,n i u n d u,,needs-analyst-review,,transphone_yoruba_swahili
+nĩguo,n e ɡ u o,n a ɡ u ɔ,no,n e ɡ u o,n a ɡ u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+onayo,o n a j o,ɔ n a j ɔ,no,o n a j o,ɔ n a j ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+peace,p e a t e,p a t a,no,p e a t e,p a t a,,needs-analyst-review,,transphone_yoruba_swahili
+ruciini,r u t i ĩ i,r u t i n i,no,r u t i ĩ i,r u t i n i,,needs-analyst-review,,transphone_yoruba_swahili
+ruhonge,r u h o ɡ e,r u h ɔ ɡ a,no,r u h o ɡ e,r u h ɔ ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+ruo,r u o,r u ɔ,no,r u o,r u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ruriri,r u r i r i,r u r i r i,yes,r u r i r i,,r u r i r i,auto-accepted,,transphone_yoruba_swahili
+rùrù,r u r u,r u r u,yes,r u r u,,r u r u,auto-accepted,,transphone_yoruba_swahili
+selassie,s e l a s i e,s a l a s i a,no,s e l a s i e,s a l a s i a,,needs-analyst-review,,transphone_yoruba_swahili
+taūni,t a u n i,t a u n i,yes,t a u n i,,t a u n i,auto-accepted,,transphone_yoruba_swahili
+thinacara,s i n a t a r a,t i n a t a r a,no,s i n a t a r a,t i n a t a r a,,needs-analyst-review,,transphone_yoruba_swahili
+thìinì,s i ĩ n i,t i n i,no,s i ĩ n i,t i n i,,needs-analyst-review,,transphone_yoruba_swahili
+toro,t o r o,t ɔ r ɔ,no,t o r o,t ɔ r ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+wacio,w a t i o,w a t i ɔ,no,w a t i o,w a t i ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+yari,j a r i,j a r i,yes,j a r i,,j a r i,auto-accepted,,transphone_yoruba_swahili
+ìri,i r i,i r i,yes,i r i,,i r i,auto-accepted,,transphone_yoruba_swahili
+ùgwo,u ɡ w o,u ɡ ɔ,no,u ɡ w o,u ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+úgwati,u ɡ w a t i,u ɡ w a t i,yes,u ɡ w a t i,,u ɡ w a t i,auto-accepted,,transphone_yoruba_swahili
+úrími,u r i m i,u r i m i,yes,u r i m i,,u r i m i,auto-accepted,,transphone_yoruba_swahili
+úyú,u j u,u j u,yes,u j u,,u j u,auto-accepted,,transphone_yoruba_swahili
+ûhotekeku,u h o t e k e k u,u h ɔ t a k a k u,no,u h o t e k e k u,u h ɔ t a k a k u,,needs-analyst-review,,transphone_yoruba_swahili
+ĩngĩ,ẽ ɡ e,a ɡ a,no,ẽ ɡ e,a ɡ a,,needs-analyst-review,,transphone_yoruba_swahili
+ĩtano,e t a n o,a t a n ɔ,no,e t a n o,a t a n ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ũgima,o ɡ i m a,ɔ ɡ i m a,no,o ɡ i m a,ɔ ɡ i m a,,needs-analyst-review,,transphone_yoruba_swahili
+ũtukũ,o t u k o,ɔ t u k ɔ,no,o t u k o,ɔ t u k ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+ūrìmi,u r i m i,u r i m i,yes,u r i m i,,u r i m i,auto-accepted,,transphone_yoruba_swahili
+aikari,a i k a r i,a i k a r i,yes,a i k a r i,,a i k a r i,auto-accepted,,transphone_yoruba_swahili
+aingî,a ĩ ɡ i,a i ɡ i,no,a ĩ ɡ i,a i ɡ i,,needs-analyst-review,,transphone_yoruba_swahili
+akuire,a k u i r e,a k u i r a,no,a k u i r e,a k u i r a,,needs-analyst-review,,transphone_yoruba_swahili
+america,a m e r i t a,a m a r i t a,no,a m e r i t a,a m a r i t a,,needs-analyst-review,,transphone_yoruba_swahili
+ateng'eri,a t ẽ ɡ e r i,a t a ɡ a r i,no,a t ẽ ɡ e r i,a t a ɡ a r i,,needs-analyst-review,,transphone_yoruba_swahili
+athomeire,a t o m e i r e,a t ɔ m a i r a,no,a t o m e i r e,a t ɔ m a i r a,,needs-analyst-review,,transphone_yoruba_swahili
+atî,a t i,a t i,yes,a t i,,a t i,auto-accepted,,transphone_yoruba_swahili
+aya,a j a,a j a,yes,a j a,,a j a,auto-accepted,,transphone_yoruba_swahili
+biū,b i u,b i u,yes,b i u,,b i u,auto-accepted,,transphone_yoruba_swahili
+century,t ẽ t u r i,t a n t u r i,no,t ẽ t u r i,t a n t u r i,,needs-analyst-review,,transphone_yoruba_swahili
+east,e a s t,a s t,no,e a s t,a s t,,needs-analyst-review,,transphone_yoruba_swahili
+eid,e i d,a i d,no,e i d,a i d,,needs-analyst-review,,transphone_yoruba_swahili
+fitr,f i t r,f i t r,yes,f i t r,,f i t r,auto-accepted,,transphone_yoruba_swahili
+football,f o t b a l,f ɔ t b a l,no,f o t b a l,f ɔ t b a l,,needs-analyst-review,,transphone_yoruba_swahili
+gikundi,ɡ i k ũ d i,ɡ i k u n d i,no,ɡ i k ũ d i,ɡ i k u n d i,,needs-analyst-review,,transphone_yoruba_swahili
+guthii,ɡ u s i,ɡ u t i,no,ɡ u s i,ɡ u t i,,needs-analyst-review,,transphone_yoruba_swahili
+gíki,ɡ i k i,ɡ i k i,yes,ɡ i k i,,ɡ i k i,auto-accepted,,transphone_yoruba_swahili
+gûkorûo,ɡ u k o r u o,ɡ u k ɔ r u ɔ,no,ɡ u k o r u o,ɡ u k ɔ r u ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gûthiî,ɡ u s i,ɡ u t i,no,ɡ u s i,ɡ u t i,,needs-analyst-review,,transphone_yoruba_swahili
+gĩcigo,ɡ e t i ɡ o,ɡ a t i ɡ ɔ,no,ɡ e t i ɡ o,ɡ a t i ɡ ɔ,,needs-analyst-review,,transphone_yoruba_swahili
+gĩthiũrũrĩ,ɡ e s i o r o r e,ɡ a t i ɔ r ɔ r a,no,ɡ e s i o r o r e,ɡ a t i ɔ r ɔ r a,,needs-analyst-review,,transphone_yoruba_swahili
+gũthiĩ,ɡ o s i e,ɡ ɔ t i a,no,ɡ o s i e,ɡ ɔ t i a,,needs-analyst-review,,transphone_yoruba_swahili
+gũtuĩka,ɡ o t u e k a,ɡ ɔ t u a k a,no,ɡ o t u e k a,ɡ ɔ t u a k a,,needs-analyst-review,,transphone_yoruba_swahili
+hakuhì,h a k u h i,h a k u h i,yes,h a k u h i,,h a k u h i,auto-accepted,,transphone_yoruba_swahili
+house,h o u s e,h ɔ u s a,no,h o u s e,h ɔ u s a,,needs-analyst-review,,transphone_yoruba_swahili
+igùru,i ɡ u r u,i ɡ u r u,yes,i ɡ u r u,,i ɡ u r u,auto-accepted,,transphone_yoruba_swahili
+ingĩra,ĩ ɡ e r a,i ɡ a r a,no,ĩ ɡ e r a,i ɡ a r a,,needs-analyst-review,,transphone_yoruba_swahili
+ithatatú,i s a t a t u,i t a t a t u,no,i s a t a t u,i t a t a t u,,needs-analyst-review,,transphone_yoruba_swahili
+itua,i t u a,i t u a,yes,i t u a,,i t u a,auto-accepted,,transphone_yoruba_swahili
+juja,d u d a,ʃ u ʃ a,no,d u d a,ʃ u ʃ a,,needs-analyst-review,,transphone_yoruba_swahili
+kandi,k ẽ d i,k a n d i,no,k ẽ d i,k a n d i,,needs-analyst-review,,transphone_yoruba_swahili
