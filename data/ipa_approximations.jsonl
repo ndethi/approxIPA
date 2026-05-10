@@ -1,3 +1,1000 @@
-{"word": "word1", "ipa_yoruba": "w o r d", "ipa_swahili": "w ɔ r d"}
-{"word": "word2", "ipa_yoruba": "w o r d", "ipa_swahili": "w ɔ r d"}
-{"word": "word3", "ipa_yoruba": "w o r d", "ipa_swahili": "w ɔ r d"}
+{"word": "rangi", "ipa_yoruba": "r ã ɡ i", "ipa_swahili": "r a ɡ i"}
+{"word": "mwena", "ipa_yoruba": "m w e n a", "ipa_swahili": "m w a n a"}
+{"word": "kenya", "ipa_yoruba": "k ẽ j a", "ipa_swahili": "k a ɲ a"}
+{"word": "mwaka", "ipa_yoruba": "m w a k a", "ipa_swahili": "m w a k a"}
+{"word": "ini", "ipa_yoruba": "ĩ n i", "ipa_swahili": "i n i"}
+{"word": "iria", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "rwa", "ipa_yoruba": "r w a", "ipa_swahili": "r w a"}
+{"word": "iní", "ipa_yoruba": "ĩ n i", "ipa_swahili": "i n i"}
+{"word": "thutha", "ipa_yoruba": "s u s a", "ipa_swahili": "t u t a"}
+{"word": "ona", "ipa_yoruba": "o n a", "ipa_swahili": "ɔ n a"}
+{"word": "nginya", "ipa_yoruba": "m ĩ j a", "ipa_swahili": "ŋ i ɲ a"}
+{"word": "nene", "ipa_yoruba": "n e n e", "ipa_swahili": "n a n a"}
+{"word": "hena", "ipa_yoruba": "h e n a", "ipa_swahili": "h a n a"}
+{"word": "mbere", "ipa_yoruba": "b e r e", "ipa_swahili": "m b a r a"}
+{"word": "nairobi", "ipa_yoruba": "n a i r o b i", "ipa_swahili": "n a i r ɔ b i"}
+{"word": "imwe", "ipa_yoruba": "ĩ w e", "ipa_swahili": "i m w a"}
+{"word": "inì", "ipa_yoruba": "i n i", "ipa_swahili": "i n i"}
+{"word": "bururi", "ipa_yoruba": "b u r u r i", "ipa_swahili": "b u r u r i"}
+{"word": "kia", "ipa_yoruba": "k i a", "ipa_swahili": "k i a"}
+{"word": "mweri", "ipa_yoruba": "m w e r i", "ipa_swahili": "m w a r i"}
+{"word": "kuuma", "ipa_yoruba": "k u m a", "ipa_swahili": "k u m a"}
+{"word": "inî", "ipa_yoruba": "ĩ n i", "ipa_swahili": "i n i"}
+{"word": "degrees", "ipa_yoruba": "d e ɡ r e s", "ipa_swahili": "d a ɡ r a s"}
+{"word": "kuma", "ipa_yoruba": "k u m a", "ipa_swahili": "k u m a"}
+{"word": "andú", "ipa_yoruba": "ẽ d u", "ipa_swahili": "a d u"}
+{"word": "thaa", "ipa_yoruba": "s a", "ipa_swahili": "t a"}
+{"word": "magana", "ipa_yoruba": "m a ɡ a n a", "ipa_swahili": "m a ɡ a n a"}
+{"word": "ikumi", "ipa_yoruba": "i k u m i", "ipa_swahili": "i k u m i"}
+{"word": "mbura", "ipa_yoruba": "b u r a", "ipa_swahili": "m b u r a"}
+{"word": "andu", "ipa_yoruba": "ã d u", "ipa_swahili": "a d u"}
+{"word": "inya", "ipa_yoruba": "ĩ j a", "ipa_swahili": "i ɲ a"}
+{"word": "kĩa", "ipa_yoruba": "k e a", "ipa_swahili": "k a"}
+{"word": "matu", "ipa_yoruba": "m a t u", "ipa_swahili": "m a t u"}
+{"word": "maita", "ipa_yoruba": "m a i t a", "ipa_swahili": "m a i t a"}
+{"word": "wake", "ipa_yoruba": "w a k e", "ipa_swahili": "w a k a"}
+{"word": "kenda", "ipa_yoruba": "k ẽ d a", "ipa_swahili": "k a n d a"}
+{"word": "múthenya", "ipa_yoruba": "m u s ẽ j a", "ipa_swahili": "m u t a ɲ a"}
+{"word": "kìa", "ipa_yoruba": "k i a", "ipa_swahili": "k i a"}
+{"word": "inyanya", "ipa_yoruba": "ĩ j ã j a", "ipa_swahili": "i ɲ a ɲ a"}
+{"word": "būrūri", "ipa_yoruba": "b u r u r i", "ipa_swahili": "b u r u r i"}
+{"word": "igana", "ipa_yoruba": "i ɡ a n a", "ipa_swahili": "i ɡ a n a"}
+{"word": "ithano", "ipa_yoruba": "i s a n o", "ipa_swahili": "i t a n ɔ"}
+{"word": "wega", "ipa_yoruba": "w e ɡ a", "ipa_swahili": "w a ɡ a"}
+{"word": "ngiri", "ipa_yoruba": "m i r i", "ipa_swahili": "ŋ i r i"}
+{"word": "muno", "ipa_yoruba": "m u n o", "ipa_swahili": "m u n ɔ"}
+{"word": "kiumia", "ipa_yoruba": "k i u m i a", "ipa_swahili": "k i u m i a"}
+{"word": "ithimi", "ipa_yoruba": "i s i m i", "ipa_swahili": "i t i m i"}
+{"word": "nginyagia", "ipa_yoruba": "m ĩ j a ɡ i a", "ipa_swahili": "ŋ i ɲ a ɡ i a"}
+{"word": "kuria", "ipa_yoruba": "k u r i a", "ipa_swahili": "k u r i a"}
+{"word": "mìrongo", "ipa_yoruba": "m i r o ɡ o", "ipa_swahili": "m i r ɔ n ɡ ɔ"}
+{"word": "irio", "ipa_yoruba": "i r i o", "ipa_swahili": "i r i ɔ"}
+{"word": "barabara", "ipa_yoruba": "b a r a b a r a", "ipa_swahili": "b a r a b a r a"}
+{"word": "búrúri", "ipa_yoruba": "b u r u r i", "ipa_swahili": "b u r u r i"}
+{"word": "ici", "ipa_yoruba": "i t i", "ipa_swahili": "i t i"}
+{"word": "múno", "ipa_yoruba": "m u n o", "ipa_swahili": "m u n ɔ"}
+{"word": "mūno", "ipa_yoruba": "m u n o", "ipa_swahili": "m u n ɔ"}
+{"word": "rìa", "ipa_yoruba": "r i a", "ipa_swahili": "r i a"}
+{"word": "ūrìa", "ipa_yoruba": "u r i a", "ipa_swahili": "u r i a"}
+{"word": "hari", "ipa_yoruba": "h a r i", "ipa_swahili": "h a r i"}
+{"word": "hinya", "ipa_yoruba": "h ĩ j a", "ipa_swahili": "h i ɲ a"}
+{"word": "green", "ipa_yoruba": "ɡ r e ẽ", "ipa_swahili": "ɡ r a n"}
+{"word": "heho", "ipa_yoruba": "h e h o", "ipa_swahili": "h a h ɔ"}
+{"word": "uria", "ipa_yoruba": "u r i a", "ipa_swahili": "u r i a"}
+{"word": "ìno", "ipa_yoruba": "ĩ n o", "ipa_swahili": "i n ɔ"}
+{"word": "amu", "ipa_yoruba": "a m u", "ipa_swahili": "a m u"}
+{"word": "ngui", "ipa_yoruba": "m w i", "ipa_swahili": "ŋ u i"}
+{"word": "makiria", "ipa_yoruba": "m a k i r i a", "ipa_swahili": "m a k i r i a"}
+{"word": "ìmwe", "ipa_yoruba": "ĩ w e", "ipa_swahili": "i m w a"}
+{"word": "africa", "ipa_yoruba": "a f r i t a", "ipa_swahili": "a f r i t a"}
+{"word": "hau", "ipa_yoruba": "h a w", "ipa_swahili": "h a w"}
+{"word": "igiri", "ipa_yoruba": "i ɡ i r i", "ipa_swahili": "i ɡ i r i"}
+{"word": "kía", "ipa_yoruba": "k i a", "ipa_swahili": "k i a"}
+{"word": "wayo", "ipa_yoruba": "w a j o", "ipa_swahili": "w a j ɔ"}
+{"word": "bûrûri", "ipa_yoruba": "b u r u r i", "ipa_swahili": "b u r u r i"}
+{"word": "gia", "ipa_yoruba": "ɡ i a", "ipa_swahili": "ɡ i a"}
+{"word": "blue", "ipa_yoruba": "b l u e", "ipa_swahili": "b l u a"}
+{"word": "ena", "ipa_yoruba": "e n a", "ipa_swahili": "a n a"}
+{"word": "indo", "ipa_yoruba": "ĩ d o", "ipa_swahili": "i n d ɔ"}
+{"word": "nacio", "ipa_yoruba": "n a t i o", "ipa_swahili": "n a t i ɔ"}
+{"word": "ũrĩa", "ipa_yoruba": "o r e a", "ipa_swahili": "ɔ r a"}
+{"word": "aria", "ipa_yoruba": "a r i a", "ipa_swahili": "a r i a"}
+{"word": "kenyatta", "ipa_yoruba": "k e m a t a", "ipa_swahili": "k a ɲ a t a"}
+{"word": "ari", "ipa_yoruba": "a r i", "ipa_swahili": "a r i"}
+{"word": "mĩrongo", "ipa_yoruba": "m e r o ɡ o", "ipa_swahili": "m a r ɔ ŋ ɡ ɔ"}
+{"word": "ìrì", "ipa_yoruba": "i r i", "ipa_swahili": "i r i"}
+{"word": "kîa", "ipa_yoruba": "k i a", "ipa_swahili": "k i a"}
+{"word": "mathaa", "ipa_yoruba": "m a s a", "ipa_swahili": "m a t a"}
+{"word": "road", "ipa_yoruba": "r o a t", "ipa_swahili": "r ɔ a d"}
+{"word": "mîrongo", "ipa_yoruba": "m i r õ ɡ o", "ipa_swahili": "m i r ɔ ŋ ɡ ɔ"}
+{"word": "thì", "ipa_yoruba": "s i", "ipa_swahili": "t i"}
+{"word": "ihenya", "ipa_yoruba": "i h ẽ j a", "ipa_swahili": "i h a ɲ a"}
+{"word": "ino", "ipa_yoruba": "i n o", "ipa_swahili": "i n ɔ"}
+{"word": "mirongo", "ipa_yoruba": "m i r õ ɡ o", "ipa_swahili": "m i r ɔ ŋ ɡ ɔ"}
+{"word": "oho", "ipa_yoruba": "o h o", "ipa_swahili": "ɔ h ɔ"}
+{"word": "wao", "ipa_yoruba": "w a o", "ipa_swahili": "w a ɔ"}
+{"word": "múndú", "ipa_yoruba": "m ũ d u", "ipa_swahili": "m u n d u"}
+{"word": "ciana", "ipa_yoruba": "t i a n a", "ipa_swahili": "t i a n a"}
+{"word": "mita", "ipa_yoruba": "m i t a", "ipa_swahili": "m i t a"}
+{"word": "mūndū", "ipa_yoruba": "m ũ d u", "ipa_swahili": "m u n d u"}
+{"word": "ría", "ipa_yoruba": "r i a", "ipa_swahili": "r i a"}
+{"word": "tondū", "ipa_yoruba": "t o d u", "ipa_swahili": "t ɔ n d u"}
+{"word": "ihinda", "ipa_yoruba": "i h ĩ d a", "ipa_swahili": "i h i d a"}
+{"word": "maya", "ipa_yoruba": "m a j a", "ipa_swahili": "m a j a"}
+{"word": "thirikari", "ipa_yoruba": "s i r i k a r i", "ipa_swahili": "t i r i k a r i"}
+{"word": "haria", "ipa_yoruba": "h a r i a", "ipa_swahili": "h a r i a"}
+{"word": "kilomita", "ipa_yoruba": "k i l o m i t a", "ipa_swahili": "k i l ɔ m i t a"}
+{"word": "mírogo", "ipa_yoruba": "m i r o ɡ o", "ipa_swahili": "m i r ɔ ɡ ɔ"}
+{"word": "ngoikoni", "ipa_yoruba": "m o i k o n i", "ipa_swahili": "ŋ ɔ i k ɔ n i"}
+{"word": "uhuru", "ipa_yoruba": "u h u r u", "ipa_swahili": "u h u r u"}
+{"word": "ĩno", "ipa_yoruba": "e n o", "ipa_swahili": "a n ɔ"}
+{"word": "hamwe", "ipa_yoruba": "h a m w e", "ipa_swahili": "h a m w a"}
+{"word": "mathako", "ipa_yoruba": "m a s a k o", "ipa_swahili": "m a t a k ɔ"}
+{"word": "tene", "ipa_yoruba": "t e n e", "ipa_swahili": "t a n a"}
+{"word": "ùria", "ipa_yoruba": "u r i a", "ipa_swahili": "u r i a"}
+{"word": "búruri", "ipa_yoruba": "b u r u r i", "ipa_swahili": "b u r u r i"}
+{"word": "iri", "ipa_yoruba": "i r i", "ipa_swahili": "i r i"}
+{"word": "mwana", "ipa_yoruba": "m w a n a", "ipa_swahili": "m w a n a"}
+{"word": "niguo", "ipa_yoruba": "n i ɡ u o", "ipa_swahili": "n i ɡ u ɔ"}
+{"word": "ríría", "ipa_yoruba": "r i r i a", "ipa_swahili": "r i r i a"}
+{"word": "mûno", "ipa_yoruba": "m u n o", "ipa_swahili": "m u n ɔ"}
+{"word": "wothe", "ipa_yoruba": "w o s e", "ipa_swahili": "w ɔ t a"}
+{"word": "ati", "ipa_yoruba": "a t i", "ipa_swahili": "a t i"}
+{"word": "igūrū", "ipa_yoruba": "i ɡ u r u", "ipa_swahili": "i ɡ u r u"}
+{"word": "uyu", "ipa_yoruba": "u j u", "ipa_swahili": "u j u"}
+{"word": "bara", "ipa_yoruba": "b a r a", "ipa_swahili": "b a r a"}
+{"word": "keda", "ipa_yoruba": "k e d a", "ipa_swahili": "k a d a"}
+{"word": "nja", "ipa_yoruba": "d a", "ipa_swahili": "d a"}
+{"word": "nyoka", "ipa_yoruba": "m o k a", "ipa_swahili": "ɲ ɔ k a"}
+{"word": "yothe", "ipa_yoruba": "j o s e", "ipa_swahili": "j ɔ t a"}
+{"word": "ciothe", "ipa_yoruba": "t i o s e", "ipa_swahili": "t i ɔ t a"}
+{"word": "mbica", "ipa_yoruba": "b i t a", "ipa_swahili": "m b i t a"}
+{"word": "mirogo", "ipa_yoruba": "m i r o ɡ o", "ipa_swahili": "m i r ɔ ɡ ɔ"}
+{"word": "andū", "ipa_yoruba": "ẽ d u", "ipa_swahili": "a n d u"}
+{"word": "riria", "ipa_yoruba": "r i r i a", "ipa_swahili": "r i r i a"}
+{"word": "írí", "ipa_yoruba": "i r i", "ipa_swahili": "i r i"}
+{"word": "ūyū", "ipa_yoruba": "u j u", "ipa_swahili": "u j u"}
+{"word": "andũ", "ipa_yoruba": "ã d o", "ipa_swahili": "a d ɔ"}
+{"word": "ithatú", "ipa_yoruba": "i s a t u", "ipa_swahili": "i t a t u"}
+{"word": "giri", "ipa_yoruba": "ɡ i r i", "ipa_swahili": "ɡ i r i"}
+{"word": "mena", "ipa_yoruba": "m e n a", "ipa_swahili": "m a n a"}
+{"word": "naguo", "ipa_yoruba": "n a ɡ u o", "ipa_swahili": "n a ɡ u ɔ"}
+{"word": "igìrì", "ipa_yoruba": "i ɡ i r i", "ipa_swahili": "i ɡ i r i"}
+{"word": "nayo", "ipa_yoruba": "n a j o", "ipa_swahili": "n a j ɔ"}
+{"word": "ngumo", "ipa_yoruba": "m u m o", "ipa_swahili": "ŋ u m ɔ"}
+{"word": "haha", "ipa_yoruba": "h a h a", "ipa_swahili": "h a h a"}
+{"word": "igũrũ", "ipa_yoruba": "i ɡ o r o", "ipa_swahili": "i ɡ ɔ r ɔ"}
+{"word": "kuri", "ipa_yoruba": "k u r i", "ipa_swahili": "k u r i"}
+{"word": "riua", "ipa_yoruba": "r i w a", "ipa_swahili": "r i w a"}
+{"word": "yellow", "ipa_yoruba": "j e l o w", "ipa_swahili": "j a l ɔ w"}
+{"word": "ĩrĩa", "ipa_yoruba": "e r e a", "ipa_swahili": "a r a"}
+{"word": "bũrũri", "ipa_yoruba": "b o r o r i", "ipa_swahili": "b ɔ r ɔ r i"}
+{"word": "gìa", "ipa_yoruba": "ɡ i a", "ipa_swahili": "ɡ i a"}
+{"word": "mundu", "ipa_yoruba": "m ũ d u", "ipa_swahili": "m u n d u"}
+{"word": "muthenya", "ipa_yoruba": "m u s ẽ j a", "ipa_swahili": "m u t a ɲ a"}
+{"word": "ngari", "ipa_yoruba": "ɡ a r i", "ipa_swahili": "ɡ a r i"}
+{"word": "riera", "ipa_yoruba": "r i e r a", "ipa_swahili": "r i a r a"}
+{"word": "thìiniì", "ipa_yoruba": "s i ĩ i", "ipa_swahili": "t i n i"}
+{"word": "andû", "ipa_yoruba": "ã d u", "ipa_swahili": "a d u"}
+{"word": "ikûmi", "ipa_yoruba": "i k u m i", "ipa_swahili": "i k u m i"}
+{"word": "ikūmi", "ipa_yoruba": "i k u m i", "ipa_swahili": "i k u m i"}
+{"word": "nyeki", "ipa_yoruba": "m e k i", "ipa_swahili": "ɲ a k i"}
+{"word": "oro", "ipa_yoruba": "o r o", "ipa_swahili": "ɔ r ɔ"}
+{"word": "president", "ipa_yoruba": "p r e s i d ẽ t", "ipa_swahili": "p r a s i d a n t"}
+{"word": "yake", "ipa_yoruba": "j a k e", "ipa_swahili": "j a k a"}
+{"word": "ìna", "ipa_yoruba": "ĩ n a", "ipa_swahili": "i n a"}
+{"word": "day", "ipa_yoruba": "d a j", "ipa_swahili": "d a j"}
+{"word": "gía", "ipa_yoruba": "ɡ i a", "ipa_swahili": "ɡ i a"}
+{"word": "kuona", "ipa_yoruba": "k u o n a", "ipa_swahili": "k u ɔ n a"}
+{"word": "maria", "ipa_yoruba": "m a r i a", "ipa_swahili": "m a r i a"}
+{"word": "mbwe", "ipa_yoruba": "b w e", "ipa_swahili": "m b w a"}
+{"word": "níguo", "ipa_yoruba": "n i ɡ u o", "ipa_swahili": "n i ɡ u ɔ"}
+{"word": "riūa", "ipa_yoruba": "r i w a", "ipa_swahili": "r i u a"}
+{"word": "shape", "ipa_yoruba": "ʃ a p e", "ipa_swahili": "ʃ a p a"}
+{"word": "ìrìa", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "igakorwo", "ipa_yoruba": "i ɡ a k o r w o", "ipa_swahili": "i ɡ a k ɔ r w ɔ"}
+{"word": "kwína", "ipa_yoruba": "k w ĩ n a", "ipa_swahili": "k i n a"}
+{"word": "miaka", "ipa_yoruba": "m i j a k a", "ipa_swahili": "m i a k a"}
+{"word": "njìra", "ipa_yoruba": "d i r a", "ipa_swahili": "d i r a"}
+{"word": "thĩiniĩ", "ipa_yoruba": "s e i n i e", "ipa_swahili": "t a i n i a"}
+{"word": "ìyo", "ipa_yoruba": "i j o", "ipa_swahili": "i j ɔ"}
+{"word": "ūndū", "ipa_yoruba": "ũ d u", "ipa_swahili": "u n d u"}
+{"word": "bata", "ipa_yoruba": "b a t a", "ipa_swahili": "b a t a"}
+{"word": "gìkì", "ipa_yoruba": "ɡ i k i", "ipa_swahili": "ɡ i k i"}
+{"word": "harĩ", "ipa_yoruba": "h a r e", "ipa_swahili": "h a r a"}
+{"word": "ikoragwo", "ipa_yoruba": "i k o r a ɡ w o", "ipa_swahili": "i k ɔ r a w ɔ"}
+{"word": "kanini", "ipa_yoruba": "k a n ĩ n i", "ipa_swahili": "k a n i n i"}
+{"word": "kiromita", "ipa_yoruba": "k i r o m i t a", "ipa_swahili": "k i r ɔ m i t a"}
+{"word": "mwega", "ipa_yoruba": "m w e ɡ a", "ipa_swahili": "m w a ɡ a"}
+{"word": "national", "ipa_yoruba": "n a t i o n a l", "ipa_swahili": "n a t i ɔ n a l"}
+{"word": "waku", "ipa_yoruba": "w a k u", "ipa_swahili": "w a k u"}
+{"word": "guku", "ipa_yoruba": "ɡ u k u", "ipa_swahili": "ɡ u k u"}
+{"word": "harì", "ipa_yoruba": "h a r i", "ipa_swahili": "h a r i"}
+{"word": "hìndì", "ipa_yoruba": "h ĩ d i", "ipa_swahili": "h i n d i"}
+{"word": "moi", "ipa_yoruba": "m o i", "ipa_swahili": "m ɔ i"}
+{"word": "nuthu", "ipa_yoruba": "n u s u", "ipa_swahili": "n u t u"}
+{"word": "twa", "ipa_yoruba": "t w a", "ipa_swahili": "t w a"}
+{"word": "úrugari", "ipa_yoruba": "u r u ɡ a r i", "ipa_swahili": "u r u ɡ a r i"}
+{"word": "gatagati", "ipa_yoruba": "ɡ a t a ɡ a t i", "ipa_swahili": "ɡ a t a ɡ a t i"}
+{"word": "harî", "ipa_yoruba": "h a r i", "ipa_swahili": "h a r i"}
+{"word": "ikũmi", "ipa_yoruba": "i k o m i", "ipa_swahili": "i k ɔ m i"}
+{"word": "ithatu", "ipa_yoruba": "i s a t u", "ipa_swahili": "i t a t u"}
+{"word": "mari", "ipa_yoruba": "m a r i", "ipa_swahili": "m a r i"}
+{"word": "mùno", "ipa_yoruba": "m u n o", "ipa_swahili": "m u n ɔ"}
+{"word": "mûthenya", "ipa_yoruba": "m u s ẽ j a", "ipa_swahili": "m u t a ɲ a"}
+{"word": "ímwe", "ipa_yoruba": "ĩ w e", "ipa_swahili": "i m w a"}
+{"word": "mírongo", "ipa_yoruba": "m i r õ ɡ o", "ipa_swahili": "m i r ɔ ŋ ɡ ɔ"}
+{"word": "îmwe", "ipa_yoruba": "ĩ w e", "ipa_swahili": "i m w a"}
+{"word": "harí", "ipa_yoruba": "h a r i", "ipa_swahili": "h a r i"}
+{"word": "mūthenya", "ipa_yoruba": "m u s ẽ j a", "ipa_swahili": "m u t a ɲ a"}
+{"word": "niwe", "ipa_yoruba": "n i w e", "ipa_swahili": "n i w a"}
+{"word": "riúa", "ipa_yoruba": "r i u a", "ipa_swahili": "r i u a"}
+{"word": "rìrì", "ipa_yoruba": "r i r i", "ipa_swahili": "r i r i"}
+{"word": "rîa", "ipa_yoruba": "r i a", "ipa_swahili": "r i a"}
+{"word": "tariki", "ipa_yoruba": "t a r i k i", "ipa_swahili": "t a r i k i"}
+{"word": "igîrî", "ipa_yoruba": "i ɡ i r i", "ipa_swahili": "i ɡ i r i"}
+{"word": "mbeca", "ipa_yoruba": "b e t a", "ipa_swahili": "m b a t a"}
+{"word": "ngoga", "ipa_yoruba": "ɡ o ɡ a", "ipa_swahili": "ɡ ɔ ɡ a"}
+{"word": "niundu", "ipa_yoruba": "n i ũ d u", "ipa_swahili": "n i u d u"}
+{"word": "íria", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "aría", "ipa_yoruba": "a r i a", "ipa_swahili": "a r i a"}
+{"word": "kûrî", "ipa_yoruba": "k u r i", "ipa_swahili": "k u r i"}
+{"word": "pele", "ipa_yoruba": "p e l e", "ipa_swahili": "p a l a"}
+{"word": "rungu", "ipa_yoruba": "r ũ ɡ u", "ipa_swahili": "r u n ɡ u"}
+{"word": "ruto", "ipa_yoruba": "r u t o", "ipa_swahili": "r u t ɔ"}
+{"word": "thika", "ipa_yoruba": "s i k a", "ipa_swahili": "t i k a"}
+{"word": "watho", "ipa_yoruba": "w a s o", "ipa_swahili": "w a t ɔ"}
+{"word": "úría", "ipa_yoruba": "u r i a", "ipa_swahili": "u r i a"}
+{"word": "ūcio", "ipa_yoruba": "u t i o", "ipa_swahili": "u t i ɔ"}
+{"word": "aingi", "ipa_yoruba": "a ĩ ɡ i", "ipa_swahili": "a i ɡ i"}
+{"word": "celsius", "ipa_yoruba": "t e l s i u s", "ipa_swahili": "t a l s i u s"}
+{"word": "ikúmi", "ipa_yoruba": "i k u m i", "ipa_swahili": "i k u m i"}
+{"word": "ithatū", "ipa_yoruba": "i s a t u", "ipa_swahili": "i t a t u"}
+{"word": "nakuru", "ipa_yoruba": "n a k u r u", "ipa_swahili": "n a k u r u"}
+{"word": "nyingi", "ipa_yoruba": "m ĩ ɡ i", "ipa_swahili": "ɲ i ɡ i"}
+{"word": "nìguo", "ipa_yoruba": "n i ɡ u o", "ipa_swahili": "n i ɡ u ɔ"}
+{"word": "triangle", "ipa_yoruba": "t r i ẽ ɡ l e", "ipa_swahili": "t r i a n ɡ l a"}
+{"word": "kona", "ipa_yoruba": "k o n a", "ipa_swahili": "k ɔ n a"}
+{"word": "nigwo", "ipa_yoruba": "n i ɡ w o", "ipa_swahili": "n i ɡ w ɔ"}
+{"word": "îna", "ipa_yoruba": "ĩ n a", "ipa_swahili": "i n a"}
+{"word": "úcio", "ipa_yoruba": "u t i o", "ipa_swahili": "u t i ɔ"}
+{"word": "ĩmwe", "ipa_yoruba": "ĩ w e", "ipa_swahili": "a m w a"}
+{"word": "akenya", "ipa_yoruba": "a k ẽ j a", "ipa_swahili": "a k a ɲ a"}
+{"word": "atì", "ipa_yoruba": "a t i", "ipa_swahili": "a t i"}
+{"word": "mombasa", "ipa_yoruba": "m o m b a s a", "ipa_swahili": "m ɔ m b a s a"}
+{"word": "mūbira", "ipa_yoruba": "m u b i r a", "ipa_swahili": "m u b i r a"}
+{"word": "úmwe", "ipa_yoruba": "ũ w e", "ipa_swahili": "u m w a"}
+{"word": "ûrîa", "ipa_yoruba": "u r i a", "ipa_swahili": "u r i a"}
+{"word": "ũmotho", "ipa_yoruba": "o m o s o", "ipa_swahili": "ɔ m ɔ t ɔ"}
+{"word": "gatagatì", "ipa_yoruba": "ɡ a t a ɡ a t i", "ipa_swahili": "ɡ a t a ɡ a t i"}
+{"word": "múndu", "ipa_yoruba": "m ũ d u", "ipa_swahili": "m u n d u"}
+{"word": "mûndû", "ipa_yoruba": "m ũ d u", "ipa_swahili": "m u n d u"}
+{"word": "mũndũ", "ipa_yoruba": "m o d o", "ipa_swahili": "m ɔ d ɔ"}
+{"word": "namba", "ipa_yoruba": "n ã b a", "ipa_swahili": "n a m b a"}
+{"word": "tanzania", "ipa_yoruba": "t ã s a n i a", "ipa_swahili": "t a n z a n i a"}
+{"word": "wìra", "ipa_yoruba": "w i r a", "ipa_swahili": "w i r a"}
+{"word": "ūguo", "ipa_yoruba": "u ɡ u o", "ipa_swahili": "u ɡ u ɔ"}
+{"word": "andù", "ipa_yoruba": "ã d u", "ipa_swahili": "a d u"}
+{"word": "inene", "ipa_yoruba": "i n e n e", "ipa_swahili": "i n a n a"}
+{"word": "kũrĩa", "ipa_yoruba": "k o r e a", "ipa_swahili": "k ɔ r a"}
+{"word": "mūciì", "ipa_yoruba": "m u t i", "ipa_swahili": "m u t i"}
+{"word": "nambere", "ipa_yoruba": "n ã b e r e", "ipa_swahili": "n a m b a r a"}
+{"word": "white", "ipa_yoruba": "w i t e", "ipa_swahili": "w i t a"}
+{"word": "wira", "ipa_yoruba": "w i r a", "ipa_swahili": "w i r a"}
+{"word": "ĩrĩ", "ipa_yoruba": "e r e", "ipa_swahili": "a r a"}
+{"word": "gîcunjî", "ipa_yoruba": "ɡ i t ũ d i", "ipa_swahili": "ɡ i t u ʃ i"}
+{"word": "gûkû", "ipa_yoruba": "ɡ u k u", "ipa_swahili": "ɡ u k u"}
+{"word": "kipchoge", "ipa_yoruba": "k i p t o ɡ e", "ipa_swahili": "k i p t ɔ ɡ a"}
+{"word": "thahabu", "ipa_yoruba": "s a h a b u", "ipa_swahili": "t a h a b u"}
+{"word": "umwe", "ipa_yoruba": "ũ w e", "ipa_swahili": "u m w a"}
+{"word": "wakinya", "ipa_yoruba": "w a k ĩ j a", "ipa_swahili": "w a k i ɲ a"}
+{"word": "avenue", "ipa_yoruba": "a f e n u e", "ipa_swahili": "a v a n u a"}
+{"word": "gúkú", "ipa_yoruba": "ɡ u k u", "ipa_swahili": "ɡ u k u"}
+{"word": "igúrú", "ipa_yoruba": "i ɡ u r u", "ipa_swahili": "i ɡ u r u"}
+{"word": "kamau", "ipa_yoruba": "k a m a w", "ipa_swahili": "k a m a w"}
+{"word": "kúrí", "ipa_yoruba": "k u r i", "ipa_swahili": "k u r i"}
+{"word": "mahinda", "ipa_yoruba": "m a h ĩ d a", "ipa_swahili": "m a h i d a"}
+{"word": "marĩa", "ipa_yoruba": "m a r e a", "ipa_swahili": "m a r a"}
+{"word": "south", "ipa_yoruba": "s o u s", "ipa_swahili": "s ɔ u θ"}
+{"word": "william", "ipa_yoruba": "w i l i ẽ", "ipa_swahili": "w i l i a m"}
+{"word": "ūmwe", "ipa_yoruba": "ũ w e", "ipa_swahili": "u m w a"}
+{"word": "hiti", "ipa_yoruba": "h i t i", "ipa_swahili": "h i t i"}
+{"word": "igoti", "ipa_yoruba": "i ɡ o t i", "ipa_swahili": "i ɡ ɔ t i"}
+{"word": "lake", "ipa_yoruba": "l a k e", "ipa_swahili": "l a k a"}
+{"word": "maingi", "ipa_yoruba": "m a ĩ ɡ i", "ipa_swahili": "m a i ɡ i"}
+{"word": "mũirũ", "ipa_yoruba": "m o i r o", "ipa_swahili": "m ɔ i r ɔ"}
+{"word": "nguo", "ipa_yoruba": "m u o", "ipa_swahili": "ŋ u ɔ"}
+{"word": "riri", "ipa_yoruba": "r i r i", "ipa_swahili": "r i r i"}
+{"word": "riũa", "ipa_yoruba": "r i o a", "ipa_swahili": "r i ɔ a"}
+{"word": "íyo", "ipa_yoruba": "i j o", "ipa_swahili": "i j ɔ"}
+{"word": "îno", "ipa_yoruba": "ĩ n o", "ipa_swahili": "i n ɔ"}
+{"word": "úndú", "ipa_yoruba": "ũ d u", "ipa_swahili": "u d u"}
+{"word": "atumia", "ipa_yoruba": "a t u m i a", "ipa_swahili": "a t u m i a"}
+{"word": "highway", "ipa_yoruba": "h i ɡ w a j", "ipa_swahili": "h i ɡ w a j"}
+{"word": "iyo", "ipa_yoruba": "i j o", "ipa_swahili": "i j ɔ"}
+{"word": "jumatano", "ipa_yoruba": "d u m a t a n o", "ipa_swahili": "ʃ u m a t a n ɔ"}
+{"word": "kiria", "ipa_yoruba": "k i r i a", "ipa_swahili": "k i r i a"}
+{"word": "nini", "ipa_yoruba": "n ĩ n i", "ipa_swahili": "n i n i"}
+{"word": "nyamú", "ipa_yoruba": "m a m u", "ipa_swahili": "ɲ a m u"}
+{"word": "nyina", "ipa_yoruba": "m ĩ n a", "ipa_swahili": "ɲ i n a"}
+{"word": "park", "ipa_yoruba": "p a r k", "ipa_swahili": "p a r k"}
+{"word": "queen", "ipa_yoruba": "k e ẽ", "ipa_swahili": "ɛ a n"}
+{"word": "rimwe", "ipa_yoruba": "r ĩ w e", "ipa_swahili": "r i m w a"}
+{"word": "rúhuho", "ipa_yoruba": "r u h u h o", "ipa_swahili": "r u h u h ɔ"}
+{"word": "wakwa", "ipa_yoruba": "w a k a", "ipa_swahili": "w a k a"}
+{"word": "íría", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "îrîa", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "agendi", "ipa_yoruba": "a ɡ ẽ d i", "ipa_swahili": "a ɡ a n d i"}
+{"word": "atĩ", "ipa_yoruba": "a t e", "ipa_swahili": "a t a"}
+{"word": "guoko", "ipa_yoruba": "ɡ u o k o", "ipa_swahili": "ɡ u ɔ k ɔ"}
+{"word": "gwa", "ipa_yoruba": "ɡ w a", "ipa_swahili": "ɡ w a"}
+{"word": "hanini", "ipa_yoruba": "h a n ĩ n i", "ipa_swahili": "h a n i n i"}
+{"word": "igĩrĩ", "ipa_yoruba": "i ɡ e r e", "ipa_swahili": "i ɡ a r a"}
+{"word": "kiambu", "ipa_yoruba": "k i ẽ b u", "ipa_swahili": "k i a m b u"}
+{"word": "kíhoto", "ipa_yoruba": "k i h o t o", "ipa_swahili": "k i h ɔ t ɔ"}
+{"word": "kūrì", "ipa_yoruba": "k u r i", "ipa_swahili": "k u r i"}
+{"word": "macio", "ipa_yoruba": "m a t i o", "ipa_swahili": "m a t i ɔ"}
+{"word": "mahenya", "ipa_yoruba": "m a h ẽ j a", "ipa_swahili": "m a h a ɲ a"}
+{"word": "mùthenya", "ipa_yoruba": "m u s ẽ j a", "ipa_swahili": "m u t a ɲ a"}
+{"word": "mūgwanja", "ipa_yoruba": "m u ɡ w ẽ d a", "ipa_swahili": "m u ɡ w a n d a"}
+{"word": "mūirū", "ipa_yoruba": "m u i r u", "ipa_swahili": "m u i r u"}
+{"word": "nyamu", "ipa_yoruba": "m a m u", "ipa_swahili": "ɲ a m u"}
+{"word": "othe", "ipa_yoruba": "o s e", "ipa_swahili": "ɔ t a"}
+{"word": "round", "ipa_yoruba": "r o ũ d", "ipa_swahili": "r ɔ u n d"}
+{"word": "taríki", "ipa_yoruba": "t a r i k i", "ipa_swahili": "t a r i k i"}
+{"word": "about", "ipa_yoruba": "a b o u t", "ipa_swahili": "a b ɔ u t"}
+{"word": "biacara", "ipa_yoruba": "b i a t a r a", "ipa_swahili": "b i a t a r a"}
+{"word": "ciao", "ipa_yoruba": "t i j a o", "ipa_swahili": "t i a ɔ"}
+{"word": "cukuru", "ipa_yoruba": "t u k u r u", "ipa_swahili": "t u k u r u"}
+{"word": "elizabeth", "ipa_yoruba": "e l i s a b e s", "ipa_swahili": "a l i z a b a θ"}
+{"word": "ihoto", "ipa_yoruba": "i h o t o", "ipa_swahili": "i h ɔ t ɔ"}
+{"word": "jomo", "ipa_yoruba": "d o m o", "ipa_swahili": "ʃ ɔ m ɔ"}
+{"word": "kuongerera", "ipa_yoruba": "k u o ɡ e r e r a", "ipa_swahili": "k u ɔ ɡ a r a r a"}
+{"word": "matano", "ipa_yoruba": "m a t a n o", "ipa_swahili": "m a t a n ɔ"}
+{"word": "munene", "ipa_yoruba": "m u n e n e", "ipa_swahili": "m u n a n a"}
+{"word": "mwerū", "ipa_yoruba": "m w e r u", "ipa_swahili": "m w a r u"}
+{"word": "míthako", "ipa_yoruba": "m i s a k o", "ipa_swahili": "m i t a k ɔ"}
+{"word": "ng'ombe", "ipa_yoruba": "ɡ o b e", "ipa_swahili": "ŋ ɔ m b a"}
+{"word": "nyama", "ipa_yoruba": "m a m a", "ipa_swahili": "ɲ a m a"}
+{"word": "riûa", "ipa_yoruba": "r i w a", "ipa_swahili": "r i w a"}
+{"word": "thĩĩ", "ipa_yoruba": "s e b", "ipa_swahili": "t a"}
+{"word": "ĩna", "ipa_yoruba": "e n a", "ipa_swahili": "a n a"}
+{"word": "ūrugarì", "ipa_yoruba": "u r u ɡ a r i", "ipa_swahili": "u r u ɡ a r i"}
+{"word": "aciarirwo", "ipa_yoruba": "a t i a r i r w o", "ipa_swahili": "a t i a r i r w ɔ"}
+{"word": "juma", "ipa_yoruba": "d u m a", "ipa_swahili": "ʃ u m a"}
+{"word": "kau", "ipa_yoruba": "k a w", "ipa_swahili": "k a w"}
+{"word": "kúria", "ipa_yoruba": "k u r i a", "ipa_swahili": "k u r i a"}
+{"word": "maaì", "ipa_yoruba": "m a i", "ipa_swahili": "m a i"}
+{"word": "macungwa", "ipa_yoruba": "m a t ũ ɡ w a", "ipa_swahili": "m a t u ɡ ŋ w a"}
+{"word": "matunda", "ipa_yoruba": "m a t ũ d a", "ipa_swahili": "m a t u n d a"}
+{"word": "muoyo", "ipa_yoruba": "m u o j o", "ipa_swahili": "m u ɔ j ɔ"}
+{"word": "múnene", "ipa_yoruba": "m u n e n e", "ipa_swahili": "m u n a n a"}
+{"word": "mũthenya", "ipa_yoruba": "m o s ẽ j a", "ipa_swahili": "m ɔ t a ɲ a"}
+{"word": "ndingirii", "ipa_yoruba": "d ĩ ɡ i r i", "ipa_swahili": "d i ɡ i r i"}
+{"word": "niyo", "ipa_yoruba": "n i j o", "ipa_swahili": "n i j ɔ"}
+{"word": "njira", "ipa_yoruba": "d i r a", "ipa_swahili": "d i r a"}
+{"word": "nyingì", "ipa_yoruba": "m ĩ ɡ i", "ipa_swahili": "ɲ i ɡ i"}
+{"word": "rìrìa", "ipa_yoruba": "r i r i a", "ipa_swahili": "r i r i a"}
+{"word": "timu", "ipa_yoruba": "t i m u", "ipa_swahili": "t i m u"}
+{"word": "uganda", "ipa_yoruba": "u ɡ ã d a", "ipa_swahili": "u ɡ a d a"}
+{"word": "îîrî", "ipa_yoruba": "i r i", "ipa_swahili": "i r i"}
+{"word": "ûrugarî", "ipa_yoruba": "u r u ɡ a r i", "ipa_swahili": "u r u ɡ a r i"}
+{"word": "ũrĩo", "ipa_yoruba": "o r e o", "ipa_swahili": "ɔ r a ɔ"}
+{"word": "ūmūthì", "ipa_yoruba": "u m u s i", "ipa_swahili": "u m u t i"}
+{"word": "icio", "ipa_yoruba": "i t i o", "ipa_swahili": "i t i ɔ"}
+{"word": "kuo", "ipa_yoruba": "k u o", "ipa_swahili": "k u ɔ"}
+{"word": "kuumana", "ipa_yoruba": "k u m a n a", "ipa_swahili": "k u m a n a"}
+{"word": "mìaka", "ipa_yoruba": "m i a k a", "ipa_swahili": "m i a k a"}
+{"word": "mūingì", "ipa_yoruba": "m u ĩ ɡ i", "ipa_swahili": "m u i ɡ i"}
+{"word": "mūnene", "ipa_yoruba": "m u n e n e", "ipa_swahili": "m u n a n a"}
+{"word": "roundabout", "ipa_yoruba": "r o ũ d a b o u t", "ipa_swahili": "r ɔ u n d a b ɔ u t"}
+{"word": "taûni", "ipa_yoruba": "t a u n i", "ipa_swahili": "t a u n i"}
+{"word": "wathani", "ipa_yoruba": "w a s a n i", "ipa_swahili": "w a t a n i"}
+{"word": "wĩra", "ipa_yoruba": "w e r a", "ipa_swahili": "w a r a"}
+{"word": "atírí", "ipa_yoruba": "a t i r i", "ipa_swahili": "a t i r i"}
+{"word": "brown", "ipa_yoruba": "b r o w n", "ipa_swahili": "b r ɔ w n"}
+{"word": "ethiopia", "ipa_yoruba": "e t i o p i a", "ipa_swahili": "a t i ɔ p i a"}
+{"word": "giki", "ipa_yoruba": "ɡ i k i", "ipa_swahili": "ɡ i k i"}
+{"word": "gìthiūrūrì", "ipa_yoruba": "ɡ i s i u r u r i", "ipa_swahili": "ɡ i t i r u r i"}
+{"word": "iburi", "ipa_yoruba": "i b u r i", "ipa_swahili": "i b u r i"}
+{"word": "igírí", "ipa_yoruba": "i ɡ i r i", "ipa_swahili": "i ɡ i r i"}
+{"word": "ina", "ipa_yoruba": "ĩ n a", "ipa_swahili": "i n a"}
+{"word": "ingi", "ipa_yoruba": "ĩ ɡ i", "ipa_swahili": "i ɡ i"}
+{"word": "ithatũ", "ipa_yoruba": "i s a t o", "ipa_swahili": "i t a t ɔ"}
+{"word": "kùri", "ipa_yoruba": "k u r i", "ipa_swahili": "k u r i"}
+{"word": "kūrìa", "ipa_yoruba": "k u r i a", "ipa_swahili": "k u r i a"}
+{"word": "rìera", "ipa_yoruba": "r i e r a", "ipa_swahili": "r i a r a"}
+{"word": "rìmwe", "ipa_yoruba": "r ĩ w e", "ipa_swahili": "r i m w a"}
+{"word": "town", "ipa_yoruba": "t o w n", "ipa_swahili": "t ɔ w n"}
+{"word": "world", "ipa_yoruba": "w o r l d", "ipa_swahili": "w ɔ r l d"}
+{"word": "ína", "ipa_yoruba": "ĩ n a", "ipa_swahili": "i n a"}
+{"word": "ùyù", "ipa_yoruba": "u j u", "ipa_swahili": "u j u"}
+{"word": "úria", "ipa_yoruba": "u r i a", "ipa_swahili": "u r i a"}
+{"word": "ciake", "ipa_yoruba": "t i j a k e", "ipa_swahili": "t i a k a"}
+{"word": "gîa", "ipa_yoruba": "ɡ i a", "ipa_swahili": "ɡ i a"}
+{"word": "igongona", "ipa_yoruba": "i ɡ õ ɡ o n a", "ipa_swahili": "i ɡ ɔ ɡ ɔ n a"}
+{"word": "iguru", "ipa_yoruba": "i ɡ u r u", "ipa_swahili": "i ɡ u r u"}
+{"word": "jumamothi", "ipa_yoruba": "d u m a m o s i", "ipa_swahili": "ʃ u m a m ɔ t i"}
+{"word": "keeri", "ipa_yoruba": "k e r i", "ipa_swahili": "k a r i"}
+{"word": "kisumu", "ipa_yoruba": "k i s u m u", "ipa_swahili": "k i s u m u"}
+{"word": "makíria", "ipa_yoruba": "m a k i r i a", "ipa_swahili": "m a k i r i a"}
+{"word": "mbele", "ipa_yoruba": "b e l e", "ipa_swahili": "m b a l a"}
+{"word": "mbitika", "ipa_yoruba": "b i t i k a", "ipa_swahili": "m b i t i k a"}
+{"word": "mburuu", "ipa_yoruba": "b u r u", "ipa_swahili": "m b u r u"}
+{"word": "naivasha", "ipa_yoruba": "n a i f a ʃ a", "ipa_swahili": "n a i v a ʃ a"}
+{"word": "ndume", "ipa_yoruba": "d u m e", "ipa_swahili": "d u m a"}
+{"word": "nìwe", "ipa_yoruba": "n i w e", "ipa_swahili": "n i w a"}
+{"word": "odinga", "ipa_yoruba": "o d ĩ ɡ a", "ipa_swahili": "ɔ d i ɡ a"}
+{"word": "olympics", "ipa_yoruba": "o j m p i t s", "ipa_swahili": "ɔ j m p i t s"}
+{"word": "pink", "ipa_yoruba": "p ĩ k", "ipa_swahili": "p i k"}
+{"word": "ríria", "ipa_yoruba": "r i r i a", "ipa_swahili": "r i r i a"}
+{"word": "rĩrĩa", "ipa_yoruba": "r e r e a", "ipa_swahili": "r a r a"}
+{"word": "stage", "ipa_yoruba": "s t a ɡ e", "ipa_swahili": "s t a ɡ a"}
+{"word": "tuba", "ipa_yoruba": "t u b a", "ipa_swahili": "t u b a"}
+{"word": "uguo", "ipa_yoruba": "u ɡ u o", "ipa_swahili": "u ɡ u ɔ"}
+{"word": "wìyathi", "ipa_yoruba": "w i j a s i", "ipa_swahili": "w i j a t i"}
+{"word": "yao", "ipa_yoruba": "j a o", "ipa_swahili": "j a ɔ"}
+{"word": "ùmwe", "ipa_yoruba": "ũ w e", "ipa_swahili": "u m w a"}
+{"word": "ũyũ", "ipa_yoruba": "o j o", "ipa_swahili": "ɔ j ɔ"}
+{"word": "arîa", "ipa_yoruba": "a r i a", "ipa_swahili": "a r i a"}
+{"word": "county", "ipa_yoruba": "t o ũ k", "ipa_swahili": "t ɔ u n ɟ"}
+{"word": "gĩcunjĩ", "ipa_yoruba": "ɡ e t ũ d e", "ipa_swahili": "ɡ a t u ʃ a"}
+{"word": "ikundi", "ipa_yoruba": "i k ũ d i", "ipa_swahili": "i k u n d i"}
+{"word": "inĩ", "ipa_yoruba": "ĩ n e", "ipa_swahili": "i n a"}
+{"word": "itatú", "ipa_yoruba": "i t a t u", "ipa_swahili": "i t a t u"}
+{"word": "kauntî", "ipa_yoruba": "k a ũ t i", "ipa_swahili": "k a u t i"}
+{"word": "kiama", "ipa_yoruba": "k i a m a", "ipa_swahili": "k i a m a"}
+{"word": "marangi", "ipa_yoruba": "m a r ã ɡ i", "ipa_swahili": "m a r a ɡ i"}
+{"word": "matú", "ipa_yoruba": "m a t u", "ipa_swahili": "m a t u"}
+{"word": "maundu", "ipa_yoruba": "m a ũ d u", "ipa_swahili": "m a u d u"}
+{"word": "meeri", "ipa_yoruba": "m e r i", "ipa_swahili": "m a r i"}
+{"word": "mwerù", "ipa_yoruba": "m w e r u", "ipa_swahili": "m w a r u"}
+{"word": "mwerú", "ipa_yoruba": "m w e r u", "ipa_swahili": "m w a r u"}
+{"word": "ndegwa", "ipa_yoruba": "d e ɡ w a", "ipa_swahili": "d a ɡ w a"}
+{"word": "ngoro", "ipa_yoruba": "ɡ o r o", "ipa_swahili": "ŋ ɔ r ɔ"}
+{"word": "sudan", "ipa_yoruba": "s u d ɔ̃", "ipa_swahili": "s u d a n"}
+{"word": "the", "ipa_yoruba": "s e", "ipa_swahili": "t a"}
+{"word": "thî", "ipa_yoruba": "s i", "ipa_swahili": "t i"}
+{"word": "wari", "ipa_yoruba": "w a r i", "ipa_swahili": "w a r i"}
+{"word": "aingí", "ipa_yoruba": "a ĩ ɡ i", "ipa_swahili": "a i ɡ i"}
+{"word": "aramithi", "ipa_yoruba": "a r a m i s i", "ipa_swahili": "a r a m i t i"}
+{"word": "arì", "ipa_yoruba": "a r i", "ipa_swahili": "a r i"}
+{"word": "arí", "ipa_yoruba": "a r i", "ipa_swahili": "a r i"}
+{"word": "arî", "ipa_yoruba": "a r i", "ipa_swahili": "a r i"}
+{"word": "christmas", "ipa_yoruba": "t r i s t m a s", "ipa_swahili": "t r i s t m a s"}
+{"word": "exit", "ipa_yoruba": "e k s i t", "ipa_swahili": "a s i t"}
+{"word": "gûgûkorûo", "ipa_yoruba": "ɡ u ɡ u k o r u o", "ipa_swahili": "ɡ u ɡ u k ɔ r u ɔ"}
+{"word": "gūkū", "ipa_yoruba": "ɡ u k u", "ipa_swahili": "ɡ u k u"}
+{"word": "híndí", "ipa_yoruba": "h ĩ d i", "ipa_swahili": "h i n d i"}
+{"word": "hîndî", "ipa_yoruba": "h ĩ d i", "ipa_swahili": "h i n d i"}
+{"word": "igûrû", "ipa_yoruba": "i ɡ u r u", "ipa_swahili": "i ɡ u r u"}
+{"word": "itunda", "ipa_yoruba": "i t ũ d a", "ipa_swahili": "i t u n d a"}
+{"word": "keerì", "ipa_yoruba": "k e r i", "ipa_swahili": "k a r i"}
+{"word": "kena", "ipa_yoruba": "k e n a", "ipa_swahili": "k a n a"}
+{"word": "kumana", "ipa_yoruba": "k u m a n a", "ipa_swahili": "k u m a n a"}
+{"word": "kwìna", "ipa_yoruba": "k w ĩ n a", "ipa_swahili": "k w i n a"}
+{"word": "mabuku", "ipa_yoruba": "m a b u k u", "ipa_swahili": "m a b u k u"}
+{"word": "magūrū", "ipa_yoruba": "m a ɡ u r u", "ipa_swahili": "m a ɡ u r u"}
+{"word": "make", "ipa_yoruba": "m a k e", "ipa_swahili": "m a k a"}
+{"word": "mathiko", "ipa_yoruba": "m a s i k o", "ipa_swahili": "m a t i k ɔ"}
+{"word": "mwai", "ipa_yoruba": "m w a i", "ipa_swahili": "m w a i"}
+{"word": "mwanya", "ipa_yoruba": "m w ã j a", "ipa_swahili": "m w a ɲ a"}
+{"word": "mwerû", "ipa_yoruba": "m w e r u", "ipa_swahili": "m w a r u"}
+{"word": "ngirini", "ipa_yoruba": "m i r ĩ n i", "ipa_swahili": "ŋ i r i n i"}
+{"word": "njîra", "ipa_yoruba": "d i r a", "ipa_swahili": "d i r a"}
+{"word": "raila", "ipa_yoruba": "r a i l a", "ipa_swahili": "r a i l a"}
+{"word": "thìinìe", "ipa_yoruba": "s i n i e", "ipa_swahili": "i n i a"}
+{"word": "thíinií", "ipa_yoruba": "s i ĩ i", "ipa_swahili": "t i n i"}
+{"word": "ìtatū", "ipa_yoruba": "i t a t u", "ipa_swahili": "i t a t u"}
+{"word": "íno", "ipa_yoruba": "ĩ n o", "ipa_swahili": "i n ɔ"}
+{"word": "ùri", "ipa_yoruba": "u r i", "ipa_swahili": "u r i"}
+{"word": "ùrio", "ipa_yoruba": "u r i o", "ipa_swahili": "u r i ɔ"}
+{"word": "ũndũire", "ipa_yoruba": "o d o i r e", "ipa_swahili": "ɔ n d ɔ i r a"}
+{"word": "cio", "ipa_yoruba": "t i o", "ipa_swahili": "t i ɔ"}
+{"word": "githomo", "ipa_yoruba": "ɡ i s o m o", "ipa_swahili": "ɡ i t ɔ m ɔ"}
+{"word": "han", "ipa_yoruba": "h ɔ̃", "ipa_swahili": "h a n"}
+{"word": "harĩa", "ipa_yoruba": "h a r e a", "ipa_swahili": "h a r a"}
+{"word": "ine", "ipa_yoruba": "ĩ n e", "ipa_swahili": "i n a"}
+{"word": "international", "ipa_yoruba": "ĩ t e r n a t i o n a l", "ipa_swahili": "i n t a r n a t i ɔ n a l"}
+{"word": "ithaa", "ipa_yoruba": "i s a", "ipa_swahili": "i t a"}
+{"word": "ithathatú", "ipa_yoruba": "i s a s a t u", "ipa_swahili": "i t a t a t u"}
+{"word": "kanitha", "ipa_yoruba": "k a n i s a", "ipa_swahili": "k a n i t a"}
+{"word": "koori", "ipa_yoruba": "k o r i", "ipa_swahili": "k ɔ r i"}
+{"word": "kìrìma", "ipa_yoruba": "k i r i m a", "ipa_swahili": "k i r i m a"}
+{"word": "maguta", "ipa_yoruba": "m a ɡ u t a", "ipa_swahili": "m a ɡ u t a"}
+{"word": "makoragwo", "ipa_yoruba": "m a k o r a ɡ w o", "ipa_swahili": "m a k ɔ r a w ɔ"}
+{"word": "mara", "ipa_yoruba": "m a r a", "ipa_swahili": "m a r a"}
+{"word": "mûgwanja", "ipa_yoruba": "m u ɡ w ẽ d a", "ipa_swahili": "m u ɡ w a n ʃ a"}
+{"word": "nake", "ipa_yoruba": "n a k e", "ipa_swahili": "n a k a"}
+{"word": "ngima", "ipa_yoruba": "m i m a", "ipa_swahili": "ŋ i m a"}
+{"word": "njega", "ipa_yoruba": "d e ɡ a", "ipa_swahili": "d a ɡ a"}
+{"word": "njogu", "ipa_yoruba": "d o ɡ u", "ipa_swahili": "d ɔ ɡ u"}
+{"word": "nyamū", "ipa_yoruba": "m a m u", "ipa_swahili": "ɲ a m u"}
+{"word": "nyúmba", "ipa_yoruba": "m ũ b a", "ipa_swahili": "ɲ u m b a"}
+{"word": "úrugarí", "ipa_yoruba": "u r u ɡ a r i", "ipa_swahili": "u r u ɡ a r i"}
+{"word": "ũndũ", "ipa_yoruba": "ũ d o", "ipa_swahili": "u ɔ d ɔ"}
+{"word": "ũrugarĩ", "ipa_yoruba": "o r u ɡ a r e", "ipa_swahili": "ɔ r u ɡ a r a"}
+{"word": "arìa", "ipa_yoruba": "a r i a", "ipa_swahili": "a r i a"}
+{"word": "bururini", "ipa_yoruba": "b u r u r ĩ n i", "ipa_swahili": "b u r u r i n i"}
+{"word": "gatagatĩ", "ipa_yoruba": "ɡ a t a ɡ a t e", "ipa_swahili": "ɡ a t a ɡ a t a"}
+{"word": "hĩndĩ", "ipa_yoruba": "h ɛ̃ d e", "ipa_swahili": "h a d a"}
+{"word": "jira", "ipa_yoruba": "d i r a", "ipa_swahili": "ʃ i r a"}
+{"word": "maitho", "ipa_yoruba": "m a i s o", "ipa_swahili": "m a i t ɔ"}
+{"word": "makîria", "ipa_yoruba": "m a k i r i a", "ipa_swahili": "m a k i r i a"}
+{"word": "meerì", "ipa_yoruba": "m e r i", "ipa_swahili": "m a r i"}
+{"word": "muthemba", "ipa_yoruba": "m u s ɛ̃ b a", "ipa_swahili": "m u t a m b a"}
+{"word": "mwiri", "ipa_yoruba": "m w i r i", "ipa_swahili": "m w i r i"}
+{"word": "mûtongoria", "ipa_yoruba": "m u t õ ɡ o r i a", "ipa_swahili": "m u t ɔ n ɡ ɔ r i a"}
+{"word": "mũnene", "ipa_yoruba": "m o n e n e", "ipa_swahili": "m ɔ n a n a"}
+{"word": "nile", "ipa_yoruba": "n i l e", "ipa_swahili": "n i l a"}
+{"word": "njĩra", "ipa_yoruba": "d e r a", "ipa_swahili": "d a r a"}
+{"word": "nyoni", "ipa_yoruba": "m o n i", "ipa_swahili": "ɲ ɔ n i"}
+{"word": "ríera", "ipa_yoruba": "r i e r a", "ipa_swahili": "r i a r a"}
+{"word": "rîrîa", "ipa_yoruba": "r i r i a", "ipa_swahili": "r i r i a"}
+{"word": "thamaki", "ipa_yoruba": "s a m a k i", "ipa_swahili": "t a m a k i"}
+{"word": "thukuru", "ipa_yoruba": "s u k u r u", "ipa_swahili": "t u k u r u"}
+{"word": "victoria", "ipa_yoruba": "f i t o r i a", "ipa_swahili": "v i t ɔ r i a"}
+{"word": "wabici", "ipa_yoruba": "w a b i t i", "ipa_swahili": "w a b i t i"}
+{"word": "wiki", "ipa_yoruba": "w i k i", "ipa_swahili": "w i k i"}
+{"word": "wíra", "ipa_yoruba": "w i r a", "ipa_swahili": "w i r a"}
+{"word": "anja", "ipa_yoruba": "ɔ̃ d a", "ipa_swahili": "a d a"}
+{"word": "arĩ", "ipa_yoruba": "a r e", "ipa_swahili": "a r a"}
+{"word": "atongoria", "ipa_yoruba": "a t õ ɡ o r i a", "ipa_swahili": "a t ɔ ɡ ɔ r i a"}
+{"word": "bùrùri", "ipa_yoruba": "b u r u r i", "ipa_swahili": "b u r u r i"}
+{"word": "eldoret", "ipa_yoruba": "e l d o r e t", "ipa_swahili": "a l d ɔ r a t"}
+{"word": "gaka", "ipa_yoruba": "ɡ a k a", "ipa_swahili": "ɡ a k a"}
+{"word": "irí", "ipa_yoruba": "i r i", "ipa_swahili": "i r i"}
+{"word": "kihoto", "ipa_yoruba": "k i h o t o", "ipa_swahili": "k i h ɔ t ɔ"}
+{"word": "kuura", "ipa_yoruba": "k u r a", "ipa_swahili": "k u r a"}
+{"word": "marìa", "ipa_yoruba": "m a r i a", "ipa_swahili": "m a r i a"}
+{"word": "maũndũ", "ipa_yoruba": "m a õ d o", "ipa_swahili": "m a ɔ d ɔ"}
+{"word": "mbunge", "ipa_yoruba": "b ũ ɡ e", "ipa_swahili": "m b u ɡ a"}
+{"word": "meciria", "ipa_yoruba": "m e t i r i a", "ipa_swahili": "m a t i r i a"}
+{"word": "minister", "ipa_yoruba": "m i n i s t e r", "ipa_swahili": "m i n i s t a r"}
+{"word": "mirioni", "ipa_yoruba": "m i r i o n i", "ipa_swahili": "m i r i ɔ n i"}
+{"word": "mwene", "ipa_yoruba": "m w e n e", "ipa_swahili": "m w a n a"}
+{"word": "múrúthi", "ipa_yoruba": "m u r u s i", "ipa_swahili": "m u r u t i"}
+{"word": "mūrūthi", "ipa_yoruba": "m u r u s i", "ipa_swahili": "m u r u t i"}
+{"word": "namo", "ipa_yoruba": "n a m o", "ipa_swahili": "n a m ɔ"}
+{"word": "nobel", "ipa_yoruba": "n o b e l", "ipa_swahili": "n ɔ b a l"}
+{"word": "níwe", "ipa_yoruba": "n i w e", "ipa_swahili": "n i w a"}
+{"word": "paris", "ipa_yoruba": "p a r i s", "ipa_swahili": "p a r i s"}
+{"word": "rímwe", "ipa_yoruba": "r ĩ w e", "ipa_swahili": "r i m w a"}
+{"word": "rúi", "ipa_yoruba": "r u i", "ipa_swahili": "r u i"}
+{"word": "tana", "ipa_yoruba": "t a n a", "ipa_swahili": "t a n a"}
+{"word": "taúni", "ipa_yoruba": "t a u n i", "ipa_swahili": "t a u n i"}
+{"word": "thii", "ipa_yoruba": "s i", "ipa_swahili": "t i"}
+{"word": "thíinie", "ipa_yoruba": "s i ĩ i e", "ipa_swahili": "t i n i a"}
+{"word": "thíí", "ipa_yoruba": "s i", "ipa_swahili": "t i"}
+{"word": "united", "ipa_yoruba": "u n i t e d", "ipa_swahili": "u n i t a d"}
+{"word": "waguo", "ipa_yoruba": "w a ɡ u o", "ipa_swahili": "w a ɡ u ɔ"}
+{"word": "ûmûthî", "ipa_yoruba": "u m u s i", "ipa_swahili": "u m u t i"}
+{"word": "ūngì", "ipa_yoruba": "ũ ɡ i", "ipa_swahili": "u ɡ i"}
+{"word": "athaki", "ipa_yoruba": "a s a k i", "ipa_swahili": "a t a k i"}
+{"word": "biashara", "ipa_yoruba": "b i a ʃ a r a", "ipa_swahili": "b i a ʃ a r a"}
+{"word": "ciringi", "ipa_yoruba": "t i r ĩ ɡ i", "ipa_swahili": "t i r i ɡ i"}
+{"word": "city", "ipa_yoruba": "t i k", "ipa_swahili": "i t i ɟ"}
+{"word": "daniel", "ipa_yoruba": "d a n i e l", "ipa_swahili": "d a n i a l"}
+{"word": "gatatu", "ipa_yoruba": "ɡ a t a t u", "ipa_swahili": "ɡ a t a t u"}
+{"word": "gũkũ", "ipa_yoruba": "ɡ o k o", "ipa_swahili": "ɡ ɔ k ɔ"}
+{"word": "itano", "ipa_yoruba": "i t a n o", "ipa_swahili": "i t a n ɔ"}
+{"word": "ithatû", "ipa_yoruba": "i s a t u", "ipa_swahili": "i t a t u"}
+{"word": "kagondu", "ipa_yoruba": "k a ɡ õ d u", "ipa_swahili": "k a ɡ ɔ n d u"}
+{"word": "kibaki", "ipa_yoruba": "k i b a k i", "ipa_swahili": "k i b a k i"}
+{"word": "korea", "ipa_yoruba": "k o r e a", "ipa_swahili": "k ɔ r a"}
+{"word": "kwaga", "ipa_yoruba": "k a ɡ a", "ipa_swahili": "k a ɡ a"}
+{"word": "kìrìa", "ipa_yoruba": "k i r i a", "ipa_swahili": "k i r i a"}
+{"word": "magúrú", "ipa_yoruba": "m a ɡ u r u", "ipa_swahili": "m a ɡ u r u"}
+{"word": "maūndū", "ipa_yoruba": "m a ũ d u", "ipa_swahili": "m a u n d u"}
+{"word": "mwĩlĩ", "ipa_yoruba": "m w i l e", "ipa_swahili": "m w a l a"}
+{"word": "mîena", "ipa_yoruba": "m i e n a", "ipa_swahili": "m i a n a"}
+{"word": "mùndù", "ipa_yoruba": "m ũ d u", "ipa_swahili": "m u n d u"}
+{"word": "mùrùthi", "ipa_yoruba": "m u r u s i", "ipa_swahili": "m u r u t i"}
+{"word": "múingí", "ipa_yoruba": "m u ĩ ɡ i", "ipa_swahili": "m u i ɡ i"}
+{"word": "niî", "ipa_yoruba": "n i", "ipa_swahili": "n i"}
+{"word": "njamu", "ipa_yoruba": "d a m u", "ipa_swahili": "d a m u"}
+{"word": "nyanya", "ipa_yoruba": "m ã j a", "ipa_swahili": "ɲ a ɲ a"}
+{"word": "ota", "ipa_yoruba": "o t a", "ipa_swahili": "ɔ t a"}
+{"word": "riu", "ipa_yoruba": "r i u", "ipa_swahili": "r i u"}
+{"word": "thoko", "ipa_yoruba": "s o k o", "ipa_swahili": "t ɔ k ɔ"}
+{"word": "thungura", "ipa_yoruba": "s ũ ɡ u r a", "ipa_swahili": "t u ɡ u r a"}
+{"word": "thí", "ipa_yoruba": "s i", "ipa_swahili": "t i"}
+{"word": "tondu", "ipa_yoruba": "t o d u", "ipa_swahili": "t ɔ n d u"}
+{"word": "ucio", "ipa_yoruba": "u t i o", "ipa_swahili": "u t i ɔ"}
+{"word": "university", "ipa_yoruba": "u n i f e r s i k", "ipa_swahili": "u n i v a r s i ɟ"}
+{"word": "warì", "ipa_yoruba": "w a r i", "ipa_swahili": "w a r i"}
+{"word": "íni", "ipa_yoruba": "ĩ n i", "ipa_swahili": "i n i"}
+{"word": "aingì", "ipa_yoruba": "a ĩ ɡ i", "ipa_swahili": "a i ɡ i"}
+{"word": "angi", "ipa_yoruba": "ã ɡ i", "ipa_swahili": "a ɡ i"}
+{"word": "barabaraini", "ipa_yoruba": "b a r a b a r a i n i", "ipa_swahili": "b a r a b a r a i n i"}
+{"word": "bengi", "ipa_yoruba": "b ẽ ɡ i", "ipa_swahili": "b a ɡ i"}
+{"word": "harìa", "ipa_yoruba": "h a r i a", "ipa_swahili": "h a r i a"}
+{"word": "igúkorwo", "ipa_yoruba": "i ɡ u k o r w o", "ipa_swahili": "i ɡ u k ɔ r w ɔ"}
+{"word": "jumaa", "ipa_yoruba": "d u m a", "ipa_swahili": "ʃ u m a"}
+{"word": "kamwe", "ipa_yoruba": "k ã w e", "ipa_swahili": "k a m w a"}
+{"word": "kanua", "ipa_yoruba": "k a n u a", "ipa_swahili": "k a n u a"}
+{"word": "kilometer", "ipa_yoruba": "k i l o m e t e r", "ipa_swahili": "k i l ɔ m a t a r"}
+{"word": "kindiki", "ipa_yoruba": "k ĩ d i k i", "ipa_swahili": "k i n d i k i"}
+{"word": "kinene", "ipa_yoruba": "k i n e n e", "ipa_swahili": "k i n a n a"}
+{"word": "kuga", "ipa_yoruba": "k u ɡ a", "ipa_swahili": "k u ɡ a"}
+{"word": "kwí", "ipa_yoruba": "k i", "ipa_swahili": "k i"}
+{"word": "kúhúra", "ipa_yoruba": "k u h u r a", "ipa_swahili": "k u h u r a"}
+{"word": "marí", "ipa_yoruba": "m a r i", "ipa_swahili": "m a r i"}
+{"word": "mayo", "ipa_yoruba": "m a j o", "ipa_swahili": "m a j ɔ"}
+{"word": "mweru", "ipa_yoruba": "m w e r u", "ipa_swahili": "m w a r u"}
+{"word": "mìena", "ipa_yoruba": "m i e n a", "ipa_swahili": "m i a n a"}
+{"word": "naikuru", "ipa_yoruba": "n a i k u r u", "ipa_swahili": "n a i k u r u"}
+{"word": "nairofi", "ipa_yoruba": "n a i r o f i", "ipa_swahili": "n a i r ɔ f i"}
+{"word": "ngurani", "ipa_yoruba": "ɡ u r a n i", "ipa_swahili": "ŋ u r a n i"}
+{"word": "nîguo", "ipa_yoruba": "n i ɡ u o", "ipa_swahili": "n i ɡ u ɔ"}
+{"word": "nîyo", "ipa_yoruba": "n i j o", "ipa_swahili": "n i j ɔ"}
+{"word": "orange", "ipa_yoruba": "o r ã ɡ e", "ipa_swahili": "ɔ r a ɡ a"}
+{"word": "rírí", "ipa_yoruba": "r i r i", "ipa_swahili": "r i r i"}
+{"word": "taoni", "ipa_yoruba": "t a o n i", "ipa_swahili": "t a ɔ n i"}
+{"word": "tarìki", "ipa_yoruba": "t a r i k i", "ipa_swahili": "t a r i k i"}
+{"word": "wagi", "ipa_yoruba": "w a ɡ i", "ipa_swahili": "w a ɡ i"}
+{"word": "wendia", "ipa_yoruba": "w ẽ d j a", "ipa_swahili": "w a n d i a"}
+{"word": "wiyathi", "ipa_yoruba": "w i j a s i", "ipa_swahili": "w i j a t i"}
+{"word": "yayo", "ipa_yoruba": "j a j o", "ipa_swahili": "j a j ɔ"}
+{"word": "ìngì", "ipa_yoruba": "ĩ ɡ i", "ipa_swahili": "i ɡ i"}
+{"word": "ìria", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "ìtandatū", "ipa_yoruba": "i t ã d a t u", "ipa_swahili": "i t a d a t u"}
+{"word": "ùmotho", "ipa_yoruba": "u m o s o", "ipa_swahili": "u m ɔ t ɔ"}
+{"word": "ùmuthi", "ipa_yoruba": "u m u s i", "ipa_swahili": "u m u t i"}
+{"word": "ũmwe", "ipa_yoruba": "o m w e", "ipa_swahili": "ɔ m w a"}
+{"word": "and", "ipa_yoruba": "ã d", "ipa_swahili": "a d"}
+{"word": "bere", "ipa_yoruba": "b e r e", "ipa_swahili": "b a r a"}
+{"word": "brazil", "ipa_yoruba": "b r a s i l", "ipa_swahili": "b r a z i l"}
+{"word": "celcius", "ipa_yoruba": "t e l t i u s", "ipa_swahili": "t a l t i u s"}
+{"word": "corner", "ipa_yoruba": "t o r n e r", "ipa_swahili": "t ɔ r n a r"}
+{"word": "eliud", "ipa_yoruba": "e l j u d", "ipa_swahili": "a l i u d"}
+{"word": "family", "ipa_yoruba": "f a m i l", "ipa_swahili": "f a m i j"}
+{"word": "gatagatí", "ipa_yoruba": "ɡ a t a ɡ a t i", "ipa_swahili": "ɡ a t a ɡ a t i"}
+{"word": "gicunji", "ipa_yoruba": "ɡ i t ũ d i", "ipa_swahili": "ɡ i t u ʃ i"}
+{"word": "grey", "ipa_yoruba": "ɡ r e j", "ipa_swahili": "ɡ r a j"}
+{"word": "gìcunjì", "ipa_yoruba": "ɡ i t ũ d i", "ipa_swahili": "ɡ i t u ʃ i"}
+{"word": "gùkù", "ipa_yoruba": "ɡ u k u", "ipa_swahili": "ɡ u k u"}
+{"word": "handu", "ipa_yoruba": "h ã d u", "ipa_swahili": "h a d u"}
+{"word": "igirí", "ipa_yoruba": "i ɡ i r i", "ipa_swahili": "i ɡ i r i"}
+{"word": "ithathatū", "ipa_yoruba": "i s a s a t u", "ipa_swahili": "i t a t a t u"}
+{"word": "kang", "ipa_yoruba": "k ã ɡ", "ipa_swahili": "k a ɡ"}
+{"word": "kimani", "ipa_yoruba": "k i m a n i", "ipa_swahili": "k i m a n i"}
+{"word": "kíríma", "ipa_yoruba": "k i r i m a", "ipa_swahili": "k i r i m a"}
+{"word": "kùuma", "ipa_yoruba": "k u m a", "ipa_swahili": "k u m a"}
+{"word": "maaí", "ipa_yoruba": "m a i", "ipa_swahili": "m a i"}
+{"word": "makìria", "ipa_yoruba": "m a k i r i a", "ipa_swahili": "m a k i r i a"}
+{"word": "mana", "ipa_yoruba": "m a n a", "ipa_swahili": "m a n a"}
+{"word": "mbarathi", "ipa_yoruba": "b a r a s i", "ipa_swahili": "m b a r a t i"}
+{"word": "mbìa", "ipa_yoruba": "m b i a", "ipa_swahili": "m b i a"}
+{"word": "mugwanja", "ipa_yoruba": "m u ɡ w ẽ d a", "ipa_swahili": "m u ɡ w a n ʃ a"}
+{"word": "mwírí", "ipa_yoruba": "m w i r i", "ipa_swahili": "m w i r i"}
+{"word": "múgwanja", "ipa_yoruba": "m u ɡ w ẽ d a", "ipa_swahili": "m u ɡ w a n ʃ a"}
+{"word": "mĩaka", "ipa_yoruba": "m e a k a", "ipa_swahili": "m a k a"}
+{"word": "mũgwanja", "ipa_yoruba": "m o ɡ w ẽ d a", "ipa_swahili": "m ɔ ɡ w a ʃ a"}
+{"word": "ngi", "ipa_yoruba": "m i", "ipa_swahili": "ŋ i"}
+{"word": "njiira", "ipa_yoruba": "d i r a", "ipa_swahili": "d i r a"}
+{"word": "njíra", "ipa_yoruba": "d i r a", "ipa_swahili": "d i r a"}
+{"word": "njûûi", "ipa_yoruba": "d u i", "ipa_swahili": "u i"}
+{"word": "nyimbo", "ipa_yoruba": "m ĩ b o", "ipa_swahili": "ɲ i b ɔ"}
+{"word": "river", "ipa_yoruba": "r i f e r", "ipa_swahili": "r i v a r"}
+{"word": "rìu", "ipa_yoruba": "r i u", "ipa_swahili": "r i u"}
+{"word": "rîmwe", "ipa_yoruba": "r ĩ w e", "ipa_swahili": "r i m w a"}
+{"word": "rúciiní", "ipa_yoruba": "r u t i n i", "ipa_swahili": "r u t i n i"}
+{"word": "rûhuho", "ipa_yoruba": "r u h u h o", "ipa_swahili": "r u h u h ɔ"}
+{"word": "rĩrĩ", "ipa_yoruba": "r e r e", "ipa_swahili": "r a r a"}
+{"word": "rūhuho", "ipa_yoruba": "r u h u h o", "ipa_swahili": "r u h u h ɔ"}
+{"word": "straight", "ipa_yoruba": "s t r a i t", "ipa_swahili": "s t r a i t"}
+{"word": "thi", "ipa_yoruba": "s i", "ipa_swahili": "t i"}
+{"word": "thîiniî", "ipa_yoruba": "s i ĩ i", "ipa_swahili": "t i n i"}
+{"word": "undu", "ipa_yoruba": "ũ d u", "ipa_swahili": "u n d u"}
+{"word": "ìtano", "ipa_yoruba": "i t a n o", "ipa_swahili": "i t a n ɔ"}
+{"word": "íkoragwo", "ipa_yoruba": "i k o r a ɡ w o", "ipa_swahili": "i k ɔ r a w ɔ"}
+{"word": "úthie", "ipa_yoruba": "u s i e", "ipa_swahili": "u t i a"}
+{"word": "ûyû", "ipa_yoruba": "u j u", "ipa_swahili": "u j u"}
+{"word": "ĩyo", "ipa_yoruba": "e j o", "ipa_swahili": "a j ɔ"}
+{"word": "ūingìre", "ipa_yoruba": "u ĩ ɡ i r e", "ipa_swahili": "u i ɡ i r a"}
+{"word": "ūmotho", "ipa_yoruba": "u m o s o", "ipa_swahili": "u m ɔ t ɔ"}
+{"word": "ūrìo", "ipa_yoruba": "u r i o", "ipa_swahili": "u r i ɔ"}
+{"word": "biú", "ipa_yoruba": "b i u", "ipa_swahili": "b i u"}
+{"word": "faith", "ipa_yoruba": "f a i s", "ipa_swahili": "f a i θ"}
+{"word": "gakiuga", "ipa_yoruba": "ɡ a k i u ɡ a", "ipa_swahili": "ɡ a k i u ɡ a"}
+{"word": "gatatū", "ipa_yoruba": "ɡ a t a t u", "ipa_swahili": "ɡ a t a t u"}
+{"word": "gìthaka", "ipa_yoruba": "ɡ i s a k a", "ipa_swahili": "ɡ i t a k a"}
+{"word": "gìthomo", "ipa_yoruba": "ɡ i s o m o", "ipa_swahili": "ɡ i t ɔ m ɔ"}
+{"word": "gîkî", "ipa_yoruba": "ɡ i k i", "ipa_swahili": "ɡ i k i"}
+{"word": "gūkorwo", "ipa_yoruba": "ɡ u k o r w o", "ipa_swahili": "ɡ u k ɔ r w ɔ"}
+{"word": "igúka", "ipa_yoruba": "i ɡ u k a", "ipa_swahili": "i ɡ u k a"}
+{"word": "john", "ipa_yoruba": "d o ɔ̃", "ipa_swahili": "d ɔ n"}
+{"word": "kìhooto", "ipa_yoruba": "k i h o t o", "ipa_swahili": "k i h ɔ t ɔ"}
+{"word": "kûîna", "ipa_yoruba": "k u ĩ n a", "ipa_swahili": "k u i n a"}
+{"word": "kĩrĩa", "ipa_yoruba": "k e r e a", "ipa_swahili": "k a r a"}
+{"word": "maikaraga", "ipa_yoruba": "m a i k a r a ɡ a", "ipa_swahili": "m a i k a r a ɡ a"}
+{"word": "manini", "ipa_yoruba": "m a n ĩ n i", "ipa_swahili": "m a n i n i"}
+{"word": "maría", "ipa_yoruba": "m a r i a", "ipa_swahili": "m a r i a"}
+{"word": "mathina", "ipa_yoruba": "m a s i n a", "ipa_swahili": "m a t i n a"}
+{"word": "mothe", "ipa_yoruba": "m o s e", "ipa_swahili": "m ɔ t a"}
+{"word": "múbira", "ipa_yoruba": "m u b i r a", "ipa_swahili": "m u b i r a"}
+{"word": "múgwaja", "ipa_yoruba": "m u ɡ w a d a", "ipa_swahili": "m u ɡ w a ʃ a"}
+{"word": "múirú", "ipa_yoruba": "m u i r u", "ipa_swahili": "m u i r u"}
+{"word": "múnini", "ipa_yoruba": "m u n ĩ n i", "ipa_swahili": "m u n i n i"}
+{"word": "mútongoria", "ipa_yoruba": "m u t õ ɡ o r i a", "ipa_swahili": "m u t ɔ n ɡ ɔ r i a"}
+{"word": "mûnene", "ipa_yoruba": "m u n e n e", "ipa_swahili": "m u n a n a"}
+{"word": "mûrûthi", "ipa_yoruba": "m u r u s i", "ipa_swahili": "m u r u t i"}
+{"word": "nao", "ipa_yoruba": "n a o", "ipa_swahili": "n a ɔ"}
+{"word": "ng'ondu", "ipa_yoruba": "ɡ õ d u", "ipa_swahili": "ŋ ɔ n d u"}
+{"word": "noguo", "ipa_yoruba": "n o ɡ u o", "ipa_swahili": "n ɔ ɡ u ɔ"}
+{"word": "purple", "ipa_yoruba": "p u r p l e", "ipa_swahili": "p u r p l a"}
+{"word": "rectangle", "ipa_yoruba": "r e t ɔ̃ ɡ l e", "ipa_swahili": "r ɛ a t a ɡ l a"}
+{"word": "rūūì", "ipa_yoruba": "r u i", "ipa_swahili": "r u i"}
+{"word": "tarîki", "ipa_yoruba": "t a r i k i", "ipa_swahili": "t a r i k i"}
+{"word": "thibindi", "ipa_yoruba": "s i b ĩ d i", "ipa_swahili": "t i b i n d i"}
+{"word": "urugari", "ipa_yoruba": "u r u ɡ a r i", "ipa_swahili": "u r u ɡ a r i"}
+{"word": "woothe", "ipa_yoruba": "w o s e", "ipa_swahili": "w ɔ t a"}
+{"word": "îyo", "ipa_yoruba": "i j o", "ipa_swahili": "i j ɔ"}
+{"word": "úndu", "ipa_yoruba": "ũ d u", "ipa_swahili": "u d u"}
+{"word": "ûmwe", "ipa_yoruba": "ũ w e", "ipa_swahili": "u m w a"}
+{"word": "ĩtatũ", "ipa_yoruba": "i t a t o", "ipa_swahili": "a t a t ɔ"}
+{"word": "ūthiì", "ipa_yoruba": "u s i", "ipa_swahili": "u t i"}
+{"word": "akiuga", "ipa_yoruba": "a k i u ɡ a", "ipa_swahili": "a k i u ɡ a"}
+{"word": "arap", "ipa_yoruba": "a r a p", "ipa_swahili": "a r a p"}
+{"word": "black", "ipa_yoruba": "b l a t k", "ipa_swahili": "b l a t k"}
+{"word": "easter", "ipa_yoruba": "e a s t e r", "ipa_swahili": "a s t a r"}
+{"word": "gatambi", "ipa_yoruba": "ɡ a t ã b i", "ipa_swahili": "ɡ a t a m b i"}
+{"word": "gukorwo", "ipa_yoruba": "ɡ u k o r w o", "ipa_swahili": "ɡ u k ɔ r w ɔ"}
+{"word": "guoya", "ipa_yoruba": "ɡ w o j a", "ipa_swahili": "ɡ u ɔ j a"}
+{"word": "gwetha", "ipa_yoruba": "ɡ w e s a", "ipa_swahili": "ɡ a t a"}
+{"word": "gîthiûrûrî", "ipa_yoruba": "ɡ i t i u r u r i", "ipa_swahili": "ɡ i t i u r u r i"}
+{"word": "gúthií", "ipa_yoruba": "ɡ u s i", "ipa_swahili": "ɡ u t i"}
+{"word": "gĩkĩro", "ipa_yoruba": "ɡ e k e r o", "ipa_swahili": "ɡ a k a r ɔ"}
+{"word": "gūthiì", "ipa_yoruba": "ɡ u s i", "ipa_swahili": "ɡ u t i"}
+{"word": "hakuhi", "ipa_yoruba": "h a k u h i", "ipa_swahili": "h a k u h i"}
+{"word": "hindi", "ipa_yoruba": "h ĩ d i", "ipa_swahili": "h i n d i"}
+{"word": "honge", "ipa_yoruba": "h o ɡ e", "ipa_swahili": "h ɔ ɡ a"}
+{"word": "ihooto", "ipa_yoruba": "i h o t o", "ipa_swahili": "i h ɔ t ɔ"}
+{"word": "jumatatu", "ipa_yoruba": "d u m a t a t u", "ipa_swahili": "ʃ u m a t a t u"}
+{"word": "kahūa", "ipa_yoruba": "k a h u a", "ipa_swahili": "k a h u a"}
+{"word": "kimwe", "ipa_yoruba": "k ĩ w e", "ipa_swahili": "k i m w a"}
+{"word": "kîrîma", "ipa_yoruba": "k i r i m a", "ipa_swahili": "k i r i m a"}
+{"word": "kùùma", "ipa_yoruba": "k u m a", "ipa_swahili": "k u m a"}
+{"word": "mahiga", "ipa_yoruba": "m a h i ɡ a", "ipa_swahili": "m a h i ɡ a"}
+{"word": "mangi", "ipa_yoruba": "m ã ɡ i", "ipa_swahili": "m a ɡ i"}
+{"word": "maúndú", "ipa_yoruba": "m a ũ d u", "ipa_swahili": "m a u n d u"}
+{"word": "meru", "ipa_yoruba": "m e r u", "ipa_swahili": "m a r u"}
+{"word": "merî", "ipa_yoruba": "m e r i", "ipa_swahili": "m a r i"}
+{"word": "muingi", "ipa_yoruba": "m w ĩ ɡ i", "ipa_swahili": "m u i ɡ i"}
+{"word": "muruthi", "ipa_yoruba": "m u r u s i", "ipa_swahili": "m u r u t i"}
+{"word": "mwakaini", "ipa_yoruba": "m w a k a ĩ n i", "ipa_swahili": "m w a k a i n i"}
+{"word": "mwerũ", "ipa_yoruba": "m w e r o", "ipa_swahili": "m w a r ɔ"}
+{"word": "mìtì", "ipa_yoruba": "m i t i", "ipa_swahili": "m i t i"}
+{"word": "múcií", "ipa_yoruba": "m u t i", "ipa_swahili": "m u t i"}
+{"word": "múthige", "ipa_yoruba": "m u s i ɡ e", "ipa_swahili": "m u t i ɡ a"}
+{"word": "mûirû", "ipa_yoruba": "m u i r u", "ipa_swahili": "m u i r u"}
+{"word": "mũrũthi", "ipa_yoruba": "m o r o s i", "ipa_swahili": "m ɔ r ɔ t i"}
+{"word": "ndaraca", "ipa_yoruba": "d a r a t a", "ipa_swahili": "d a r a t a"}
+{"word": "ningî", "ipa_yoruba": "n ĩ ɡ i", "ipa_swahili": "n i ɡ i"}
+{"word": "nyeri", "ipa_yoruba": "m e r i", "ipa_swahili": "ɲ a r i"}
+{"word": "nyingí", "ipa_yoruba": "m ĩ ɡ i", "ipa_swahili": "ɲ i ɡ i"}
+{"word": "nìkìo", "ipa_yoruba": "n i k i o", "ipa_swahili": "n i k i ɔ"}
+{"word": "nĩyo", "ipa_yoruba": "n e j o", "ipa_swahili": "n a j ɔ"}
+{"word": "prize", "ipa_yoruba": "p r i s e", "ipa_swahili": "p r i z a"}
+{"word": "raini", "ipa_yoruba": "r a ĩ n i", "ipa_swahili": "r a i n i"}
+{"word": "reke", "ipa_yoruba": "r e k e", "ipa_swahili": "r a k a"}
+{"word": "riake", "ipa_yoruba": "r i a k e", "ipa_swahili": "r i a k a"}
+{"word": "ruhuho", "ipa_yoruba": "r u h u h o", "ipa_swahili": "r u h u h ɔ"}
+{"word": "rwanda", "ipa_yoruba": "r w ẽ d a", "ipa_swahili": "r w a d a"}
+{"word": "rúúí", "ipa_yoruba": "r u i", "ipa_swahili": "r u i"}
+{"word": "square", "ipa_yoruba": "s k w a r e", "ipa_swahili": "s k w a r a"}
+{"word": "uteti", "ipa_yoruba": "u t e t i", "ipa_swahili": "u t a t i"}
+{"word": "wagatano", "ipa_yoruba": "w a ɡ a t a n o", "ipa_swahili": "w a ɡ a t a n ɔ"}
+{"word": "wiira", "ipa_yoruba": "w i r a", "ipa_swahili": "w i r a"}
+{"word": "wìna", "ipa_yoruba": "w ĩ n a", "ipa_swahili": "w i n a"}
+{"word": "úkinye", "ipa_yoruba": "u k ĩ e", "ipa_swahili": "u k i ɲ a"}
+{"word": "úkoragwo", "ipa_yoruba": "u k o r a ɡ w o", "ipa_swahili": "u k ɔ r a w ɔ"}
+{"word": "ĩkoragwo", "ipa_yoruba": "e k o r a ɡ w o", "ipa_swahili": "a k ɔ r a w ɔ"}
+{"word": "afrika", "ipa_yoruba": "a f r i k a", "ipa_swahili": "a f r i k a"}
+{"word": "amwe", "ipa_yoruba": "a m w e", "ipa_swahili": "a m w a"}
+{"word": "aruti", "ipa_yoruba": "a r u t i", "ipa_swahili": "a r u t i"}
+{"word": "arĩa", "ipa_yoruba": "a r e a", "ipa_swahili": "a r a"}
+{"word": "atia", "ipa_yoruba": "a t i a", "ipa_swahili": "a t i a"}
+{"word": "gachagua", "ipa_yoruba": "ɡ a t a ɡ w a", "ipa_swahili": "ɡ a t a ɡ u a"}
+{"word": "gatano", "ipa_yoruba": "ɡ a t a n o", "ipa_swahili": "ɡ a t a n ɔ"}
+{"word": "gĩkĩ", "ipa_yoruba": "ɡ e k e", "ipa_swahili": "ɡ a k a"}
+{"word": "ikombe", "ipa_yoruba": "i k o m b e", "ipa_swahili": "i k ɔ m b a"}
+{"word": "ingì", "ipa_yoruba": "ĩ ɡ i", "ipa_swahili": "i ɡ i"}
+{"word": "itîîna", "ipa_yoruba": "i t i n a", "ipa_swahili": "i t i n a"}
+{"word": "kiharo", "ipa_yoruba": "k i h a r o", "ipa_swahili": "k i h a r ɔ"}
+{"word": "kìnene", "ipa_yoruba": "k i n e n e", "ipa_swahili": "k i n a n a"}
+{"word": "kúría", "ipa_yoruba": "k u r i a", "ipa_swahili": "k u r i a"}
+{"word": "kûrîa", "ipa_yoruba": "k u r i a", "ipa_swahili": "k u r i a"}
+{"word": "kĩndũ", "ipa_yoruba": "k ẽ d o", "ipa_swahili": "k a n d ɔ"}
+{"word": "mabururi", "ipa_yoruba": "m a b u r u r i", "ipa_swahili": "m a b u r u r i"}
+{"word": "mamwe", "ipa_yoruba": "m a m w e", "ipa_swahili": "m a m w a"}
+{"word": "mangí", "ipa_yoruba": "m ɔ̃ ɡ i", "ipa_swahili": "m a ɡ i"}
+{"word": "mao", "ipa_yoruba": "m a o", "ipa_swahili": "m a ɔ"}
+{"word": "matatú", "ipa_yoruba": "m a t a t u", "ipa_swahili": "m a t a t u"}
+{"word": "mbembe", "ipa_yoruba": "b ɛ̃ b e", "ipa_swahili": "m b a m b a"}
+{"word": "mboco", "ipa_yoruba": "b o t o", "ipa_swahili": "m b ɔ t ɔ"}
+{"word": "meri", "ipa_yoruba": "m e r i", "ipa_swahili": "m a r i"}
+{"word": "merĩ", "ipa_yoruba": "m e r e", "ipa_swahili": "m a r a"}
+{"word": "million", "ipa_yoruba": "m i l j õ", "ipa_swahili": "m i l i ɔ n"}
+{"word": "muthaki", "ipa_yoruba": "m u s a k i", "ipa_swahili": "m u t a k i"}
+{"word": "muthige", "ipa_yoruba": "m u s i ɡ e", "ipa_swahili": "m u t i ɡ a"}
+{"word": "mwìrì", "ipa_yoruba": "m w i r i", "ipa_swahili": "m w i r i"}
+{"word": "mũbira", "ipa_yoruba": "m o b i r a", "ipa_swahili": "m ɔ b i r a"}
+{"word": "mūthige", "ipa_yoruba": "m u s i ɡ e", "ipa_swahili": "m u t i ɡ a"}
+{"word": "nií", "ipa_yoruba": "n i", "ipa_swahili": "n i"}
+{"word": "njata", "ipa_yoruba": "d a t a", "ipa_swahili": "d a t a"}
+{"word": "nyūmba", "ipa_yoruba": "m ũ b a", "ipa_swahili": "ɲ u m b a"}
+{"word": "nìyo", "ipa_yoruba": "n i j o", "ipa_swahili": "n i j ɔ"}
+{"word": "nĩwe", "ipa_yoruba": "n e w e", "ipa_swahili": "n a w a"}
+{"word": "oya", "ipa_yoruba": "o j a", "ipa_swahili": "ɔ j a"}
+{"word": "rúrú", "ipa_yoruba": "r u r u", "ipa_swahili": "r u r u"}
+{"word": "rūrìa", "ipa_yoruba": "r u r i a", "ipa_swahili": "r u r i a"}
+{"word": "santos", "ipa_yoruba": "s ɔ̃ t o s", "ipa_swahili": "s a n t ɔ s"}
+{"word": "sayansi", "ipa_yoruba": "s a j ẽ s i", "ipa_swahili": "s a j a s i"}
+{"word": "somalia", "ipa_yoruba": "s o m a l i a", "ipa_swahili": "s ɔ m a l i a"}
+{"word": "thengia", "ipa_yoruba": "s e ɡ i a", "ipa_swahili": "t a ɡ i a"}
+{"word": "uri", "ipa_yoruba": "u r i", "ipa_swahili": "u r i"}
+{"word": "wakana", "ipa_yoruba": "w a k a n a", "ipa_swahili": "w a k a n a"}
+{"word": "wĩyathi", "ipa_yoruba": "w e j a s i", "ipa_swahili": "w a j a t i"}
+{"word": "úmotho", "ipa_yoruba": "u m o s o", "ipa_swahili": "u m ɔ t ɔ"}
+{"word": "ûcio", "ipa_yoruba": "u t i o", "ipa_swahili": "u t i ɔ"}
+{"word": "ûmotho", "ipa_yoruba": "u m o s o", "ipa_swahili": "u m ɔ t ɔ"}
+{"word": "ũcio", "ipa_yoruba": "o t i o", "ipa_swahili": "ɔ t i ɔ"}
+{"word": "aciari", "ipa_yoruba": "a t i a r i", "ipa_swahili": "a t i a r i"}
+{"word": "arata", "ipa_yoruba": "a r a t a", "ipa_swahili": "a r a t a"}
+{"word": "atí", "ipa_yoruba": "a t i", "ipa_swahili": "a t i"}
+{"word": "aumite", "ipa_yoruba": "a u m i t e", "ipa_swahili": "a u m i t a"}
+{"word": "friday", "ipa_yoruba": "f r i d a j", "ipa_swahili": "f r i d a j"}
+{"word": "gatagatî", "ipa_yoruba": "ɡ a t a ɡ a t i", "ipa_swahili": "ɡ a t a ɡ a t i"}
+{"word": "giake", "ipa_yoruba": "ɡ i a k e", "ipa_swahili": "ɡ i a k a"}
+{"word": "gwake", "ipa_yoruba": "ɡ w a k e", "ipa_swahili": "ɡ w a k a"}
+{"word": "gìtììri", "ipa_yoruba": "ɡ i t i r i", "ipa_swahili": "ɡ i t i r i"}
+{"word": "gíthomo", "ipa_yoruba": "ɡ i s o m o", "ipa_swahili": "ɡ i t ɔ m ɔ"}
+{"word": "gùkorwo", "ipa_yoruba": "ɡ u k o r w o", "ipa_swahili": "ɡ u k ɔ r w ɔ"}
+{"word": "gúkorwo", "ipa_yoruba": "ɡ u k o r w o", "ipa_swahili": "ɡ u k ɔ r w ɔ"}
+{"word": "gútirí", "ipa_yoruba": "ɡ u t i r i", "ipa_swahili": "ɡ u t i r i"}
+{"word": "gĩthomo", "ipa_yoruba": "ɡ e s o m o", "ipa_swahili": "ɡ a t ɔ m ɔ"}
+{"word": "handũ", "ipa_yoruba": "h ã d o", "ipa_swahili": "h a d ɔ"}
+{"word": "handū", "ipa_yoruba": "h ã d u", "ipa_swahili": "h a n d u"}
+{"word": "huho", "ipa_yoruba": "h u h o", "ipa_swahili": "h u h ɔ"}
+{"word": "inana", "ipa_yoruba": "ĩ n a n a", "ipa_swahili": "i n a n a"}
+{"word": "ingí", "ipa_yoruba": "ĩ ɡ i", "ipa_swahili": "i ɡ i"}
+{"word": "jumaine", "ipa_yoruba": "d u m a i n e", "ipa_swahili": "ʃ u m a i n a"}
+{"word": "kaba", "ipa_yoruba": "k a b a", "ipa_swahili": "k a b a"}
+{"word": "kihooto", "ipa_yoruba": "k i h o t o", "ipa_swahili": "k i h ɔ t ɔ"}
+{"word": "kipyegon", "ipa_yoruba": "k i p j e ɡ õ", "ipa_swahili": "k i p j a ɡ ɔ n"}
+{"word": "kori", "ipa_yoruba": "k o r i", "ipa_swahili": "k ɔ r i"}
+{"word": "kuhura", "ipa_yoruba": "k u h u r a", "ipa_swahili": "k u h u r a"}
+{"word": "kìama", "ipa_yoruba": "k i a m a", "ipa_swahili": "k i a m a"}
+{"word": "maai", "ipa_yoruba": "m a i", "ipa_swahili": "m a i"}
+{"word": "machakos", "ipa_yoruba": "m a t a k o s", "ipa_swahili": "m a t a k ɔ s"}
+{"word": "makiri", "ipa_yoruba": "m a k i r i", "ipa_swahili": "m a k i r i"}
+{"word": "marîa", "ipa_yoruba": "m a r i a", "ipa_swahili": "m a r i a"}
+{"word": "mbata", "ipa_yoruba": "b a t a", "ipa_swahili": "m b a t a"}
+{"word": "mbogo", "ipa_yoruba": "b o ɡ o", "ipa_swahili": "m b ɔ ɡ ɔ"}
+{"word": "millioni", "ipa_yoruba": "m i l j o n i", "ipa_swahili": "m i l i ɔ n i"}
+{"word": "minista", "ipa_yoruba": "m i n i s t a", "ipa_swahili": "m i n i s t a"}
+{"word": "mutongoria", "ipa_yoruba": "m u t õ ɡ o r i a", "ipa_swahili": "m u t ɔ n ɡ ɔ r i a"}
+{"word": "mîaka", "ipa_yoruba": "m i a k a", "ipa_swahili": "m i a k a"}
+{"word": "mùcoro", "ipa_yoruba": "m u t o r o", "ipa_swahili": "m u t ɔ r ɔ"}
+{"word": "múthaki", "ipa_yoruba": "m u s a k i", "ipa_swahili": "m u t a k i"}
+{"word": "mûbira", "ipa_yoruba": "m u b i r a", "ipa_swahili": "m u b i r a"}
+{"word": "mûciì", "ipa_yoruba": "m u t i", "ipa_swahili": "m u t i"}
+{"word": "mûingî", "ipa_yoruba": "m u ĩ ɡ i", "ipa_swahili": "m u i ɡ i"}
+{"word": "mūhuro", "ipa_yoruba": "m u h u r o", "ipa_swahili": "m u h u r ɔ"}
+{"word": "mūtune", "ipa_yoruba": "m u t u n e", "ipa_swahili": "m u t u n a"}
+{"word": "mūtì", "ipa_yoruba": "m u t i", "ipa_swahili": "m u t i"}
+{"word": "nako", "ipa_yoruba": "n a k o", "ipa_swahili": "n a k ɔ"}
+{"word": "nanyuki", "ipa_yoruba": "n ã j u k i", "ipa_swahili": "n a ɲ u k i"}
+{"word": "ndini", "ipa_yoruba": "d ĩ n i", "ipa_swahili": "d i n i"}
+{"word": "nduka", "ipa_yoruba": "d u k a", "ipa_swahili": "d u k a"}
+{"word": "neti", "ipa_yoruba": "n e t i", "ipa_swahili": "n a t i"}
+{"word": "njaa", "ipa_yoruba": "d a", "ipa_swahili": "a"}
+{"word": "nyingî", "ipa_yoruba": "m ĩ ɡ i", "ipa_swahili": "ɲ i ɡ i"}
+{"word": "nîwe", "ipa_yoruba": "n i w e", "ipa_swahili": "n i w a"}
+{"word": "nîûndû", "ipa_yoruba": "n i ũ d u", "ipa_swahili": "n i u d u"}
+{"word": "nĩũndũ", "ipa_yoruba": "n e o d o", "ipa_swahili": "n a ɔ d ɔ"}
+{"word": "one", "ipa_yoruba": "o n e", "ipa_swahili": "ɔ n a"}
+{"word": "rigathi", "ipa_yoruba": "r i ɡ a s i", "ipa_swahili": "r i ɡ a t i"}
+{"word": "rugongo", "ipa_yoruba": "r u ɡ o ɡ o", "ipa_swahili": "r u ɡ ɔ ŋ ɡ ɔ"}
+{"word": "rûa", "ipa_yoruba": "r u a", "ipa_swahili": "r u a"}
+{"word": "rĩera", "ipa_yoruba": "r e r a", "ipa_swahili": "r a r a"}
+{"word": "stadium", "ipa_yoruba": "s t a d i ũ", "ipa_swahili": "s t a d i u m"}
+{"word": "utonga", "ipa_yoruba": "u t o ɡ a", "ipa_swahili": "u t ɔ ɡ a"}
+{"word": "way", "ipa_yoruba": "w a j", "ipa_swahili": "w a j"}
+{"word": "wina", "ipa_yoruba": "w ĩ n a", "ipa_swahili": "w i n a"}
+{"word": "wiyune", "ipa_yoruba": "w i j u n e", "ipa_swahili": "w i j u n a"}
+{"word": "wíyathi", "ipa_yoruba": "w i j a s i", "ipa_swahili": "w i j a t i"}
+{"word": "yaku", "ipa_yoruba": "j a k u", "ipa_swahili": "j a k u"}
+{"word": "yoothe", "ipa_yoruba": "j o s e", "ipa_swahili": "j ɔ ð a"}
+{"word": "írio", "ipa_yoruba": "i r i o", "ipa_swahili": "i r i ɔ"}
+{"word": "îtatû", "ipa_yoruba": "i t a t u", "ipa_swahili": "i t a t u"}
+{"word": "útonga", "ipa_yoruba": "u t o ɡ a", "ipa_swahili": "u t ɔ ɡ a"}
+{"word": "ûndû", "ipa_yoruba": "ũ d u", "ipa_swahili": "u d u"}
+{"word": "ūteti", "ipa_yoruba": "u t e t i", "ipa_swahili": "u t a t i"}
+{"word": "ūtonga", "ipa_yoruba": "u t o ɡ a", "ipa_swahili": "u t ɔ ɡ a"}
+{"word": "angí", "ipa_yoruba": "ã ɡ i", "ipa_swahili": "a ɡ i"}
+{"word": "apple", "ipa_yoruba": "a p l e", "ipa_swahili": "a p l a"}
+{"word": "baba", "ipa_yoruba": "b a b a", "ipa_swahili": "b a b a"}
+{"word": "borithi", "ipa_yoruba": "b o r i s i", "ipa_swahili": "b ɔ r i t i"}
+{"word": "dini", "ipa_yoruba": "d i n i", "ipa_swahili": "d i n i"}
+{"word": "gatiba", "ipa_yoruba": "ɡ a t i b a", "ipa_swahili": "ɡ a t i b a"}
+{"word": "geography", "ipa_yoruba": "ɡ e o ɡ r a f j", "ipa_swahili": "ɡ a ɔ ɡ r a f i"}
+{"word": "gikiro", "ipa_yoruba": "ɡ i k i r o", "ipa_swahili": "ɡ i k i r ɔ"}
+{"word": "gìtì", "ipa_yoruba": "ɡ i t i", "ipa_swahili": "ɡ i t i"}
+{"word": "igùrù", "ipa_yoruba": "i ɡ u r u", "ipa_swahili": "i ɡ u r u"}
+{"word": "iría", "ipa_yoruba": "i r i a", "ipa_swahili": "i r i a"}
+{"word": "itatu", "ipa_yoruba": "i t a t u", "ipa_swahili": "i t a t u"}
+{"word": "itemi", "ipa_yoruba": "i t e m i", "ipa_swahili": "i t a m i"}
+{"word": "kahúa", "ipa_yoruba": "k a h u a", "ipa_swahili": "k a h u a"}
+{"word": "kanana", "ipa_yoruba": "k a n a n a", "ipa_swahili": "k a n a n a"}
+{"word": "kirima", "ipa_yoruba": "k i r i m a", "ipa_swahili": "k i r i m a"}
+{"word": "kithure", "ipa_yoruba": "k i s u r e", "ipa_swahili": "k i t u r a"}
+{"word": "kuringana", "ipa_yoruba": "k u r ĩ ɡ a n a", "ipa_swahili": "k u r i ɡ a n a"}
+{"word": "kúri", "ipa_yoruba": "k u r i", "ipa_swahili": "k u r i"}
+{"word": "mabũrũri", "ipa_yoruba": "m a b o r o r i", "ipa_swahili": "m a b ɔ r ɔ r i"}
+{"word": "madaraka", "ipa_yoruba": "m a d a r a k a", "ipa_swahili": "m a d a r a k a"}
+{"word": "maingì", "ipa_yoruba": "m a ĩ ɡ i", "ipa_swahili": "m a i ɡ i"}
+{"word": "matatu", "ipa_yoruba": "m a t a t u", "ipa_swahili": "m a t a t u"}
+{"word": "maùndù", "ipa_yoruba": "m a ũ d u", "ipa_swahili": "m a u n d u"}
+{"word": "mbaù", "ipa_yoruba": "b a u", "ipa_swahili": "m b a u"}
+{"word": "metre", "ipa_yoruba": "m e t r e", "ipa_swahili": "m a t r a"}
+{"word": "moothe", "ipa_yoruba": "m o s e", "ipa_swahili": "m ɔ ð a"}
+{"word": "mubira", "ipa_yoruba": "m u b i r a", "ipa_swahili": "m u b i r a"}
+{"word": "mugwaja", "ipa_yoruba": "m u ɡ w a d a", "ipa_swahili": "m u ɡ w a d a"}
+{"word": "muiru", "ipa_yoruba": "m u i r u", "ipa_swahili": "m u i r u"}
+{"word": "mutune", "ipa_yoruba": "m u t u n e", "ipa_swahili": "m u t u n a"}
+{"word": "mútune", "ipa_yoruba": "m u t u n e", "ipa_swahili": "m u t u n a"}
+{"word": "mūthia", "ipa_yoruba": "m u s i a", "ipa_swahili": "m u t i a"}
+{"word": "nawe", "ipa_yoruba": "n a w e", "ipa_swahili": "n a w a"}
+{"word": "ndigirii", "ipa_yoruba": "d i ɡ i r i", "ipa_swahili": "d i ɡ i r i"}
+{"word": "negative", "ipa_yoruba": "n e ɡ a t i f e", "ipa_swahili": "n a ɡ a t i v a"}
+{"word": "new", "ipa_yoruba": "n e w", "ipa_swahili": "n a w"}
+{"word": "ngothi", "ipa_yoruba": "m o s i", "ipa_swahili": "ŋ ɔ t i"}
+{"word": "nio", "ipa_yoruba": "n i o", "ipa_swahili": "n i ɔ"}
+{"word": "nuclear", "ipa_yoruba": "n u t l e a r", "ipa_swahili": "n u t l a r"}
+{"word": "nyahururu", "ipa_yoruba": "m a h u r u r u", "ipa_swahili": "ɲ a h u r u r u"}
+{"word": "nyamũ", "ipa_yoruba": "m a m o", "ipa_swahili": "ɲ a m ɔ"}
+{"word": "nyumba", "ipa_yoruba": "m ũ b a", "ipa_swahili": "ɲ u m b a"}
+{"word": "nìkuo", "ipa_yoruba": "n i k u o", "ipa_swahili": "n i k u ɔ"}
+{"word": "nìo", "ipa_yoruba": "n i o", "ipa_swahili": "n i ɔ"}
+{"word": "nìrìo", "ipa_yoruba": "n i r i o", "ipa_swahili": "n i r i ɔ"}
+{"word": "nìūndū", "ipa_yoruba": "n i ũ d u", "ipa_swahili": "n i u n d u"}
+{"word": "nĩguo", "ipa_yoruba": "n e ɡ u o", "ipa_swahili": "n a ɡ u ɔ"}
+{"word": "onayo", "ipa_yoruba": "o n a j o", "ipa_swahili": "ɔ n a j ɔ"}
+{"word": "peace", "ipa_yoruba": "p e a t e", "ipa_swahili": "p a t a"}
+{"word": "ruciini", "ipa_yoruba": "r u t i ĩ i", "ipa_swahili": "r u t i n i"}
+{"word": "ruhonge", "ipa_yoruba": "r u h o ɡ e", "ipa_swahili": "r u h ɔ ɡ a"}
+{"word": "ruo", "ipa_yoruba": "r u o", "ipa_swahili": "r u ɔ"}
+{"word": "ruriri", "ipa_yoruba": "r u r i r i", "ipa_swahili": "r u r i r i"}
+{"word": "rùrù", "ipa_yoruba": "r u r u", "ipa_swahili": "r u r u"}
+{"word": "selassie", "ipa_yoruba": "s e l a s i e", "ipa_swahili": "s a l a s i a"}
+{"word": "taūni", "ipa_yoruba": "t a u n i", "ipa_swahili": "t a u n i"}
+{"word": "thinacara", "ipa_yoruba": "s i n a t a r a", "ipa_swahili": "t i n a t a r a"}
+{"word": "thìinì", "ipa_yoruba": "s i ĩ n i", "ipa_swahili": "t i n i"}
+{"word": "toro", "ipa_yoruba": "t o r o", "ipa_swahili": "t ɔ r ɔ"}
+{"word": "wacio", "ipa_yoruba": "w a t i o", "ipa_swahili": "w a t i ɔ"}
+{"word": "yari", "ipa_yoruba": "j a r i", "ipa_swahili": "j a r i"}
+{"word": "ìri", "ipa_yoruba": "i r i", "ipa_swahili": "i r i"}
+{"word": "ùgwo", "ipa_yoruba": "u ɡ w o", "ipa_swahili": "u ɡ ɔ"}
+{"word": "úgwati", "ipa_yoruba": "u ɡ w a t i", "ipa_swahili": "u ɡ w a t i"}
+{"word": "úrími", "ipa_yoruba": "u r i m i", "ipa_swahili": "u r i m i"}
+{"word": "úyú", "ipa_yoruba": "u j u", "ipa_swahili": "u j u"}
+{"word": "ûhotekeku", "ipa_yoruba": "u h o t e k e k u", "ipa_swahili": "u h ɔ t a k a k u"}
+{"word": "ĩngĩ", "ipa_yoruba": "ẽ ɡ e", "ipa_swahili": "a ɡ a"}
+{"word": "ĩtano", "ipa_yoruba": "e t a n o", "ipa_swahili": "a t a n ɔ"}
+{"word": "ũgima", "ipa_yoruba": "o ɡ i m a", "ipa_swahili": "ɔ ɡ i m a"}
+{"word": "ũtukũ", "ipa_yoruba": "o t u k o", "ipa_swahili": "ɔ t u k ɔ"}
+{"word": "ūrìmi", "ipa_yoruba": "u r i m i", "ipa_swahili": "u r i m i"}
+{"word": "aikari", "ipa_yoruba": "a i k a r i", "ipa_swahili": "a i k a r i"}
+{"word": "aingî", "ipa_yoruba": "a ĩ ɡ i", "ipa_swahili": "a i ɡ i"}
+{"word": "akuire", "ipa_yoruba": "a k u i r e", "ipa_swahili": "a k u i r a"}
+{"word": "america", "ipa_yoruba": "a m e r i t a", "ipa_swahili": "a m a r i t a"}
+{"word": "ateng'eri", "ipa_yoruba": "a t ẽ ɡ e r i", "ipa_swahili": "a t a ɡ a r i"}
+{"word": "athomeire", "ipa_yoruba": "a t o m e i r e", "ipa_swahili": "a t ɔ m a i r a"}
+{"word": "atî", "ipa_yoruba": "a t i", "ipa_swahili": "a t i"}
+{"word": "aya", "ipa_yoruba": "a j a", "ipa_swahili": "a j a"}
+{"word": "biū", "ipa_yoruba": "b i u", "ipa_swahili": "b i u"}
+{"word": "century", "ipa_yoruba": "t ẽ t u r i", "ipa_swahili": "t a n t u r i"}
+{"word": "east", "ipa_yoruba": "e a s t", "ipa_swahili": "a s t"}
+{"word": "eid", "ipa_yoruba": "e i d", "ipa_swahili": "a i d"}
+{"word": "fitr", "ipa_yoruba": "f i t r", "ipa_swahili": "f i t r"}
+{"word": "football", "ipa_yoruba": "f o t b a l", "ipa_swahili": "f ɔ t b a l"}
+{"word": "gikundi", "ipa_yoruba": "ɡ i k ũ d i", "ipa_swahili": "ɡ i k u n d i"}
+{"word": "guthii", "ipa_yoruba": "ɡ u s i", "ipa_swahili": "ɡ u t i"}
+{"word": "gíki", "ipa_yoruba": "ɡ i k i", "ipa_swahili": "ɡ i k i"}
+{"word": "gûkorûo", "ipa_yoruba": "ɡ u k o r u o", "ipa_swahili": "ɡ u k ɔ r u ɔ"}
+{"word": "gûthiî", "ipa_yoruba": "ɡ u s i", "ipa_swahili": "ɡ u t i"}
+{"word": "gĩcigo", "ipa_yoruba": "ɡ e t i ɡ o", "ipa_swahili": "ɡ a t i ɡ ɔ"}
+{"word": "gĩthiũrũrĩ", "ipa_yoruba": "ɡ e s i o r o r e", "ipa_swahili": "ɡ a t i ɔ r ɔ r a"}
+{"word": "gũthiĩ", "ipa_yoruba": "ɡ o s i e", "ipa_swahili": "ɡ ɔ t i a"}
+{"word": "gũtuĩka", "ipa_yoruba": "ɡ o t u e k a", "ipa_swahili": "ɡ ɔ t u a k a"}
+{"word": "hakuhì", "ipa_yoruba": "h a k u h i", "ipa_swahili": "h a k u h i"}
+{"word": "house", "ipa_yoruba": "h o u s e", "ipa_swahili": "h ɔ u s a"}
+{"word": "igùru", "ipa_yoruba": "i ɡ u r u", "ipa_swahili": "i ɡ u r u"}
+{"word": "ingĩra", "ipa_yoruba": "ĩ ɡ e r a", "ipa_swahili": "i ɡ a r a"}
+{"word": "ithatatú", "ipa_yoruba": "i s a t a t u", "ipa_swahili": "i t a t a t u"}
+{"word": "itua", "ipa_yoruba": "i t u a", "ipa_swahili": "i t u a"}
+{"word": "juja", "ipa_yoruba": "d u d a", "ipa_swahili": "ʃ u ʃ a"}
+{"word": "kandi", "ipa_yoruba": "k ẽ d i", "ipa_swahili": "k a n d i"}

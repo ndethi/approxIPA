@@ -8,6 +8,14 @@
 
 ---
 
+## Read first
+
+> **Before you start annotating, read [analyst-tone-decision-guide.md](analyst-tone-decision-guide.md).**
+>
+> Part 2 below ("Identifying Tone from Orthography") is the *general* convention for hand-curated Kikuyu tonal pairs. It does **not** apply cleanly to the WAXAL-mined candidates in this CSV, because the candidate generator cannot distinguish tone diacritics (acute, grave) from segmental diacritics (tilde for vowel quality, macron for length). Most WAXAL candidate rows are **not** valid tonal minimal pairs and should be rejected, not annotated.
+>
+> The decision guide gives the rejection rule, the H/L assignment rule (lexical, not orthographic), and worked examples from real candidate rows.
+
 ## Overview
 
 This document describes the workflow for a Kikuyu language analyst to annotate the 100 WAXAL-sourced tonal pair candidate rows that have been automatically generated and added to the tonal minimal pairs evaluation dataset.
@@ -278,12 +286,36 @@ If validation fails, the error message will indicate which row(s) and field(s) n
 1. **Completed CSV:** `data/tonal_minimal_pairs.csv` with all 100 candidate rows annotated
 2. **Optional summary:** A brief note of any problematic pairs you marked in the `notes` column and your reasoning
 
+### Second Review Handoff (Elif)
+
+After analyst submission, hand the same CSV to the non-technical second reviewer using:
+
+- [waxal-second-reviewer-guide-elif.md](waxal-second-reviewer-guide-elif.md)
+
+Expected outcome from second review:
+
+1. Rows are marked as either "OK" or "Needs follow-up" in reviewer notes.
+2. Recurring issues are summarized in a short handoff note.
+3. Any problematic rows are returned to the analyst for correction before promotion.
+
 ### What Happens Next
 
 1. **Validation run:** Your annotations are validated for consistency and completeness
-2. **Spot checking:** A second analyst may review a random sample for agreement
-3. **Promotion to evaluable:** Confirmed candidate rows graduate to `status=evaluable` for TCPR metric evaluation
-4. **Phase 2 planning:** Results will inform decisions about rising-tone pairs and downstep annotation
+2. **Second review:** Elif performs a non-technical consistency pass using the guide above
+3. **Analyst fixes:** Analyst resolves all "Needs follow-up" items
+4. **Final validation:** Run validator again on the corrected CSV
+5. **Promotion to evaluable:** Confirmed candidate rows graduate to `status=evaluable` for TCPR metric evaluation
+6. **Phase 2 planning:** Results inform decisions about rising-tone pairs and downstep annotation
+
+### Suggested Execution Sequence From Here
+
+1. Analyst finishes all 100 candidate-row annotations.
+2. Run validator once and fix hard errors.
+3. Send CSV to Elif for second-pass review.
+4. Apply follow-up fixes from Elif's notes.
+5. Run validator again and archive a clean snapshot.
+6. Promote approved rows from `candidate` to `evaluable` in one controlled update.
+7. Run TCPR evaluation on the newly promoted set.
 
 ---
 
@@ -325,7 +357,7 @@ During annotation (for each row 5-104):
 - [ ] Extract tone from orthographic diacritics (word_a, word_b)
 - [ ] Determine tone_a and tone_b values (H or L)
 - [ ] Construct segmental IPA form from orthography
-- [ ] Add tone marking using acute/grave on vowils
+- [ ] Add tone marking using acute/grave on vowels
 - [ ] Fill gold_ipa_a and gold_ipa_b
 - [ ] Spot-check against seed rows for consistency
 - [ ] Flag problematic pairs in `notes` if needed
